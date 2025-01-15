@@ -30,12 +30,15 @@ The FastPayment needs a client secret at least. You can get a client secret from
 Create an instance of `FastPayment` with the `clientSecret`. The SDK can decide which environment used to get the client secret.
 
 ```swift
+
 let fastPayment = await FastPayment(paymentClientSecret: clientSecret)
+
 ```swift
 
 Call the `present` function of the `FastPayment` instance to present the inline gateway in your app, which will asynchronously return with the result of the payment attempt. You MUST validate the result on your backend as well
 
 ```swift
+
 fastPayment.present(from: self){ result in
     switch result {
     case .success(let paymentResult):
@@ -46,15 +49,18 @@ fastPayment.present(from: self){ result in
         print("error")
     }
 }
-```
+
+```swift
 
 You can subscribe to events from the SDK. You can use it to log the progress of the payment flow.
 You should create a `FastPaymentConfiguration` object and pass it to the `FastPayment` initialization method.
 Also, you need to implement the `SDKClientEventListener` protocol to catch the events.
 
 ```swift
+
 let fastPaymentConfiguration = FastPaymentConfiguration(sdkEventListener: self)
 let fastPayment = await FastPayment(paymentClientSecret: clientSecret, configuration: fastPaymentConfiguration)
+
 ```swift
 
 #### Customize the FastPayment
@@ -63,6 +69,7 @@ You can customize the SDK to fit into your application perfectly. Choose your ow
 Pass it to the `FastPayment` object `present` function.
 
 ```swift
+
 let colors = Colors(
             background: UIColor.white,
             primary: UIColor.blue,
@@ -101,6 +108,7 @@ fastPayment.present(from: self, paymentOptions: fastPaymentOptions){ result in
         print("error")
     }
 }
+
 ```swift
 
 :warning: _The font family of the fonts is used throughout the SDK. The SDK uses this font at multiple weights (e.g., regular, medium, semibold) if they exist._
