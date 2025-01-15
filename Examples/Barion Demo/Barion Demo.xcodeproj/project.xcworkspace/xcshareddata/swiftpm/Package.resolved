@@ -1,0 +1,15 @@
+{
+  "originHash" : "c1e4e6f876208860d5cd2e8ff66dfcdb4a4d4307594e0143afb4fdd5c36dc934",
+  "pins" : [
+    {
+      "identity" : "barion-ios",
+      "kind" : "remoteSourceControl",
+      "location" : "git@github.com:barion/barion-ios.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "c47a4ea984dea7705691ebb8c544dd5e9b2e9dcb"
+      }
+    }
+  ],
+  "version" : 3
+}
