@@ -1,0 +1,11 @@
+framework module BarionSDK {
+  umbrella header "BarionSDK.h"
+  export *
+
+  module * { export * }
+}
+
+module BarionSDK.Swift {
+  header "BarionSDK-Swift.h"
+  requires objc
+}

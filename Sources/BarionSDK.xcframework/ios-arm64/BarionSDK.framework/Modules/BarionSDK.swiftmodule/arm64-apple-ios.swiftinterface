@@ -1,0 +1,115 @@
+// swift-interface-format-version: 1.0
+// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
+// swift-module-flags: -target arm64-apple-ios15.6 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name BarionSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+import AVFoundation
+import AVKit
+import Accelerate
+@_exported import BarionSDK
+import CoreGraphics
+import CoreML
+import CoreTelephony
+import DeveloperToolsSupport
+import Foundation
+import PassKit
+import Swift
+import SwiftUI
+import UIKit
+import VideoToolbox
+import Vision
+import _Concurrency
+import _StringProcessing
+import _SwiftConcurrencyShims
+import os.log
+import os
+final public class FastPayment {
+  public init(paymentClientSecret: Swift.String, configuration: BarionSDK.FastPaymentConfiguration? = nil) async
+  @_Concurrency.MainActor final public func present(from rootViewController: UIKit.UIViewController, paymentOptions: BarionSDK.FastPaymentOptions? = nil, completion: @escaping ((Swift.Result<BarionSDK.PaymentResult, BarionSDK.PaymentError>) -> Swift.Void))
+  @objc deinit
+}
+public struct FastPaymentConfiguration {
+  public init(sdkEventListener: (any BarionSDK.SDKClientEventListener)? = nil)
+}
+public struct FastPaymentOptions {
+  public init(renderOptions: BarionSDK.RenderOptions? = nil)
+}
+public struct MerchantOwnedPaymentData {
+}
+public struct Method {
+}
+public enum MethodType {
+  case card
+  case balance
+  public static func == (a: BarionSDK.MethodType, b: BarionSDK.MethodType) -> Swift.Bool
+  public func hash(into hasher: inout Swift.Hasher)
+  public var hashValue: Swift.Int {
+    get
+  }
+}
+public struct RenderOptions {
+  public init(font: UIKit.UIFont? = nil, colors: BarionSDK.Colors? = nil, primaryButton: BarionSDK.PrimaryButton? = nil)
+}
+public struct PrimaryButton {
+  public init(titleColor: UIKit.UIColor? = nil, backgroundColor: UIKit.UIColor? = nil, shadowColor: UIKit.UIColor? = nil, font: UIKit.UIFont? = nil)
+}
+public struct Colors {
+  public init(background: UIKit.UIColor? = nil, primary: UIKit.UIColor? = nil, title: UIKit.UIColor? = nil, subtitle: UIKit.UIColor? = nil, text: UIKit.UIColor? = nil, secondaryText: UIKit.UIColor? = nil, inputColors: BarionSDK.InputColors? = nil, fundingSourceColors: BarionSDK.FundingSourceColors? = nil)
+}
+public struct FundingSourceColors {
+  public init(title: UIKit.UIColor? = nil, subtitle: UIKit.UIColor? = nil, background: UIKit.UIColor? = nil)
+}
+public struct InputColors {
+  public init(background: UIKit.UIColor? = nil, border: UIKit.UIColor? = nil, placeholder: UIKit.UIColor? = nil, label: UIKit.UIColor? = nil, error: UIKit.UIColor? = nil, link: UIKit.UIColor? = nil)
+}
+public struct PaymentError : Swift.Error, Swift.Codable {
+  public var errorCode: BarionSDK.PaymentErrorCode
+  public enum CodingKeys : Swift.String, Swift.CodingKey {
+    case errorCode
+    public init?(rawValue: Swift.String)
+    public init?(stringValue: Swift.String)
+    public init?(intValue: Swift.Int)
+    public typealias RawValue = Swift.String
+    public var intValue: Swift.Int? {
+      get
+    }
+    public var rawValue: Swift.String {
+      get
+    }
+    public var stringValue: Swift.String {
+      get
+    }
+  }
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public enum PaymentErrorCode : Swift.String, Swift.Codable {
+  case invalidRequest
+  case invalidResponse
+  case invalidApiKey
+  case invalidPaymentId
+  case initializationError
+  case unknownError
+  case paymentCanceled
+  case navigationControllerMissing
+  case applePayInitializationError
+  case applePayPaymentError
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
+public struct PaymentResult : Swift.Decodable {
+  public init(from decoder: any Swift.Decoder) throws
+}
+public protocol SDKClientEventListener {
+  func onEvent(_ event: Swift.String)
+}
+extension BarionSDK.MethodType : Swift.Equatable {}
+extension BarionSDK.MethodType : Swift.Hashable {}
+extension BarionSDK.PaymentError.CodingKeys : Swift.Equatable {}
+extension BarionSDK.PaymentError.CodingKeys : Swift.Hashable {}
+extension BarionSDK.PaymentError.CodingKeys : Swift.RawRepresentable {}
+extension BarionSDK.PaymentErrorCode : Swift.Equatable {}
+extension BarionSDK.PaymentErrorCode : Swift.Hashable {}
+extension BarionSDK.PaymentErrorCode : Swift.RawRepresentable {}
