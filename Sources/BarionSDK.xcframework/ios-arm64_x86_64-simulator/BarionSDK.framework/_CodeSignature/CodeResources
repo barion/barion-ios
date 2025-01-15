@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		08amEQ2Kx+YQ4rRGQqGOiE7/aHI=
+		tjI0xvnQKcCz+7pRUUe/BqtBcIo=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
@@ -130,7 +130,7 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		tCZm2I4FnWo/h6kLvK/gDitcavI=
+		fYvinmf9MqEAUR8BXL7HKb4eI0Y=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -391,7 +391,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ouiw8Fe1TYU9CI3bAajRzpO2YGMipiIMr0o2bRaMv8I=
+			LFMr/VccI1vxsZQFoXH3Jz0vIl9cgn6ZhFgVU5Uhq20=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
@@ -426,7 +426,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			/RvyhcBYLDam+YZZuCIK9Il5evK9Yh2Voafl3HRRBJ4=
+			+q0R8izz2HJwpi8leA5PCvO8CymcOT1XR8aU5XGm9Ns=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
