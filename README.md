@@ -23,6 +23,11 @@ https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_y
 
 ### Usage
 
+There are 3 modules in the SDK:
+1. FastPayment
+2. ExpressPayment (soon)
+3. CustomPayment (soon)
+
 #### Setting up the FastPayment
 
 The FastPayment needs a client secret at least. You can get a client secret from the Barion API, read more [here](https://docs.barion.com).
@@ -48,6 +53,9 @@ fastPayment.present(from: self){ result in
 }
 ```
 
+The `paymentResult` will contain the funding source of the last payment attempt (even if it was unsuccessful).
+If there was an error during the payment flow the `paymentError` will contain what the error was. 
+
 You can subscribe to events from the SDK. You can use it to log the progress of the payment flow.
 You should create a `FastPaymentConfiguration` object and pass it to the `FastPayment` initialization method.
 Also, you need to implement the `SDKClientEventListener` protocol to catch the events.
@@ -60,6 +68,14 @@ let fastPayment = await FastPayment(paymentClientSecret: clientSecret, configura
 #### Customize the FastPayment
 
 You can customize the SDK to fit into your application perfectly. Choose your own fonts, colors etc.
+You can customize the order of the available payment methods. The default order is: Apple Pay, new card. If you missed some payment methods don't worry the SDK will put the rest of the available payment methods at the end of the list.
+The `paymentMethodOrder` possible values are:
+```swift
+["applePay", "bankCard", "barionWallet", "newCard"]
+```
+
+:warning: _The Apple Pay won't be in the payment method list if your device doesn't support it._
+
 Pass it to the `FastPayment` object `present` function.
 
 ```swift
@@ -87,7 +103,9 @@ let primaryButton = PrimaryButton(titleColor: UIColor.white,
         
 let renderOptions = RenderOptions(font: UIFont(name: "Noteworthy", size: 15), 
                                   colors: colors, 
-                                  primaryButton: primaryButton)
+                                  primaryButton: primaryButton,
+                                  paymentMethodOrder: ["bankCard", "applePay"], 
+                                  hidePoweredByLabel: false)
 
 let fastPaymentOptions = FastPaymentOptions(renderOptions: renderOptions)
 
