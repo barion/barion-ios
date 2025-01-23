@@ -1,14 +1,12 @@
 //
-//  Barion_DemoTests.swift
-//  Barion DemoTests
-//
-//  Created by László Takács on 2025. 01. 15..
+//  FastPaymentDemoTests.swift
+//  FastPaymentDemoTests
 //
 
 import Testing
-@testable import Barion_Demo
+@testable import FastPaymentDemo
 
-struct Barion_DemoTests {
+struct FastPaymentDemoTests {
 
     @Test func example() async throws {
         // Write your test here and use APIs like `#expect(...)` to check expected conditions.

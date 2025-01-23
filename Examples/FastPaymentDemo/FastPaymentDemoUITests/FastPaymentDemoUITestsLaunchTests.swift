@@ -1,13 +1,11 @@
 //
-//  Barion_DemoUITestsLaunchTests.swift
-//  Barion DemoUITests
-//
-//  Created by László Takács on 2025. 01. 15..
+//  FastPaymentDemoUITestsLaunchTests.swift
+//  FastPaymentDemoUITests
 //
 
 import XCTest
 
-final class Barion_DemoUITestsLaunchTests: XCTestCase {
+final class FastPaymentDemoUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true

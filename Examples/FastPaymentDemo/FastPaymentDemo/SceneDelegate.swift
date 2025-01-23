@@ -1,8 +1,6 @@
 //
 //  SceneDelegate.swift
-//  Barion Demo
-//
-//  Created by László Takács on 2025. 01. 15..
+//  FastPaymentDemo
 //
 
 import UIKit

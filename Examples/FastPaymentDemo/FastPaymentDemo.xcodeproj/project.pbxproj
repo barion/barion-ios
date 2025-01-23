@@ -7,80 +7,80 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FDB46D402D384B6700D4F9A6 /* Barion-SDK in Frameworks */ = {isa = PBXBuildFile; productRef = FDB46D3F2D384B6700D4F9A6 /* Barion-SDK */; };
+		FD6B7F8F2D4237B400FF24A6 /* Barion-SDK in Frameworks */ = {isa = PBXBuildFile; productRef = FD6B7F8E2D4237B400FF24A6 /* Barion-SDK */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		FDB46D212D384B5000D4F9A6 /* PBXContainerItemProxy */ = {
+		FD6B7F702D42376100FF24A6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FDB46D022D384B4F00D4F9A6 /* Project object */;
+			containerPortal = FD6B7F512D42376000FF24A6 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = FDB46D092D384B4F00D4F9A6;
-			remoteInfo = "Barion Demo";
+			remoteGlobalIDString = FD6B7F582D42376000FF24A6;
+			remoteInfo = FastPaymentDemo;
 		};
-		FDB46D2B2D384B5000D4F9A6 /* PBXContainerItemProxy */ = {
+		FD6B7F7A2D42376100FF24A6 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
-			containerPortal = FDB46D022D384B4F00D4F9A6 /* Project object */;
+			containerPortal = FD6B7F512D42376000FF24A6 /* Project object */;
 			proxyType = 1;
-			remoteGlobalIDString = FDB46D092D384B4F00D4F9A6;
-			remoteInfo = "Barion Demo";
+			remoteGlobalIDString = FD6B7F582D42376000FF24A6;
+			remoteInfo = FastPaymentDemo;
 		};
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		FDB46D0A2D384B4F00D4F9A6 /* Barion Demo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Barion Demo.app"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FDB46D202D384B5000D4F9A6 /* Barion DemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Barion DemoTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
-		FDB46D2A2D384B5000D4F9A6 /* Barion DemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Barion DemoUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD6B7F592D42376000FF24A6 /* FastPaymentDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = FastPaymentDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD6B7F6F2D42376100FF24A6 /* FastPaymentDemoTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastPaymentDemoTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
+		FD6B7F792D42376100FF24A6 /* FastPaymentDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = FastPaymentDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		FDB46D322D384B5000D4F9A6 /* Exceptions for "Barion Demo" folder in "Barion Demo" target */ = {
+		FD6B7F812D42376100FF24A6 /* Exceptions for "FastPaymentDemo" folder in "FastPaymentDemo" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
 				Info.plist,
 			);
-			target = FDB46D092D384B4F00D4F9A6 /* Barion Demo */;
+			target = FD6B7F582D42376000FF24A6 /* FastPaymentDemo */;
 		};
 /* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		FDB46D0C2D384B4F00D4F9A6 /* Barion Demo */ = {
+		FD6B7F5B2D42376000FF24A6 /* FastPaymentDemo */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
 			exceptions = (
-				FDB46D322D384B5000D4F9A6 /* Exceptions for "Barion Demo" folder in "Barion Demo" target */,
+				FD6B7F812D42376100FF24A6 /* Exceptions for "FastPaymentDemo" folder in "FastPaymentDemo" target */,
 			);
-			path = "Barion Demo";
+			path = FastPaymentDemo;
 			sourceTree = "<group>";
 		};
-		FDB46D232D384B5000D4F9A6 /* Barion DemoTests */ = {
+		FD6B7F722D42376100FF24A6 /* FastPaymentDemoTests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Barion DemoTests";
+			path = FastPaymentDemoTests;
 			sourceTree = "<group>";
 		};
-		FDB46D2D2D384B5000D4F9A6 /* Barion DemoUITests */ = {
+		FD6B7F7C2D42376100FF24A6 /* FastPaymentDemoUITests */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = "Barion DemoUITests";
+			path = FastPaymentDemoUITests;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
 
 /* Begin PBXFrameworksBuildPhase section */
-		FDB46D072D384B4F00D4F9A6 /* Frameworks */ = {
+		FD6B7F562D42376000FF24A6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FDB46D402D384B6700D4F9A6 /* Barion-SDK in Frameworks */,
+				FD6B7F8F2D4237B400FF24A6 /* Barion-SDK in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FDB46D1D2D384B5000D4F9A6 /* Frameworks */ = {
+		FD6B7F6C2D42376100FF24A6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FDB46D272D384B5000D4F9A6 /* Frameworks */ = {
+		FD6B7F762D42376100FF24A6 /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -90,22 +90,22 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
-		FDB46D012D384B4F00D4F9A6 = {
+		FD6B7F502D42376000FF24A6 = {
 			isa = PBXGroup;
 			children = (
-				FDB46D0C2D384B4F00D4F9A6 /* Barion Demo */,
-				FDB46D232D384B5000D4F9A6 /* Barion DemoTests */,
-				FDB46D2D2D384B5000D4F9A6 /* Barion DemoUITests */,
-				FDB46D0B2D384B4F00D4F9A6 /* Products */,
+				FD6B7F5B2D42376000FF24A6 /* FastPaymentDemo */,
+				FD6B7F722D42376100FF24A6 /* FastPaymentDemoTests */,
+				FD6B7F7C2D42376100FF24A6 /* FastPaymentDemoUITests */,
+				FD6B7F5A2D42376000FF24A6 /* Products */,
 			);
 			sourceTree = "<group>";
 		};
-		FDB46D0B2D384B4F00D4F9A6 /* Products */ = {
+		FD6B7F5A2D42376000FF24A6 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				FDB46D0A2D384B4F00D4F9A6 /* Barion Demo.app */,
-				FDB46D202D384B5000D4F9A6 /* Barion DemoTests.xctest */,
-				FDB46D2A2D384B5000D4F9A6 /* Barion DemoUITests.xctest */,
+				FD6B7F592D42376000FF24A6 /* FastPaymentDemo.app */,
+				FD6B7F6F2D42376100FF24A6 /* FastPaymentDemoTests.xctest */,
+				FD6B7F792D42376100FF24A6 /* FastPaymentDemoUITests.xctest */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -113,138 +113,138 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		FDB46D092D384B4F00D4F9A6 /* Barion Demo */ = {
+		FD6B7F582D42376000FF24A6 /* FastPaymentDemo */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FDB46D332D384B5000D4F9A6 /* Build configuration list for PBXNativeTarget "Barion Demo" */;
+			buildConfigurationList = FD6B7F822D42376100FF24A6 /* Build configuration list for PBXNativeTarget "FastPaymentDemo" */;
 			buildPhases = (
-				FDB46D062D384B4F00D4F9A6 /* Sources */,
-				FDB46D072D384B4F00D4F9A6 /* Frameworks */,
-				FDB46D082D384B4F00D4F9A6 /* Resources */,
+				FD6B7F552D42376000FF24A6 /* Sources */,
+				FD6B7F562D42376000FF24A6 /* Frameworks */,
+				FD6B7F572D42376000FF24A6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				FDB46D0C2D384B4F00D4F9A6 /* Barion Demo */,
+				FD6B7F5B2D42376000FF24A6 /* FastPaymentDemo */,
 			);
-			name = "Barion Demo";
+			name = FastPaymentDemo;
 			packageProductDependencies = (
-				FDB46D3F2D384B6700D4F9A6 /* Barion-SDK */,
+				FD6B7F8E2D4237B400FF24A6 /* Barion-SDK */,
 			);
-			productName = "Barion Demo";
-			productReference = FDB46D0A2D384B4F00D4F9A6 /* Barion Demo.app */;
+			productName = FastPaymentDemo;
+			productReference = FD6B7F592D42376000FF24A6 /* FastPaymentDemo.app */;
 			productType = "com.apple.product-type.application";
 		};
-		FDB46D1F2D384B5000D4F9A6 /* Barion DemoTests */ = {
+		FD6B7F6E2D42376100FF24A6 /* FastPaymentDemoTests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FDB46D382D384B5000D4F9A6 /* Build configuration list for PBXNativeTarget "Barion DemoTests" */;
+			buildConfigurationList = FD6B7F872D42376100FF24A6 /* Build configuration list for PBXNativeTarget "FastPaymentDemoTests" */;
 			buildPhases = (
-				FDB46D1C2D384B5000D4F9A6 /* Sources */,
-				FDB46D1D2D384B5000D4F9A6 /* Frameworks */,
-				FDB46D1E2D384B5000D4F9A6 /* Resources */,
+				FD6B7F6B2D42376100FF24A6 /* Sources */,
+				FD6B7F6C2D42376100FF24A6 /* Frameworks */,
+				FD6B7F6D2D42376100FF24A6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FDB46D222D384B5000D4F9A6 /* PBXTargetDependency */,
+				FD6B7F712D42376100FF24A6 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				FDB46D232D384B5000D4F9A6 /* Barion DemoTests */,
+				FD6B7F722D42376100FF24A6 /* FastPaymentDemoTests */,
 			);
-			name = "Barion DemoTests";
+			name = FastPaymentDemoTests;
 			packageProductDependencies = (
 			);
-			productName = "Barion DemoTests";
-			productReference = FDB46D202D384B5000D4F9A6 /* Barion DemoTests.xctest */;
+			productName = FastPaymentDemoTests;
+			productReference = FD6B7F6F2D42376100FF24A6 /* FastPaymentDemoTests.xctest */;
 			productType = "com.apple.product-type.bundle.unit-test";
 		};
-		FDB46D292D384B5000D4F9A6 /* Barion DemoUITests */ = {
+		FD6B7F782D42376100FF24A6 /* FastPaymentDemoUITests */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = FDB46D3B2D384B5000D4F9A6 /* Build configuration list for PBXNativeTarget "Barion DemoUITests" */;
+			buildConfigurationList = FD6B7F8A2D42376100FF24A6 /* Build configuration list for PBXNativeTarget "FastPaymentDemoUITests" */;
 			buildPhases = (
-				FDB46D262D384B5000D4F9A6 /* Sources */,
-				FDB46D272D384B5000D4F9A6 /* Frameworks */,
-				FDB46D282D384B5000D4F9A6 /* Resources */,
+				FD6B7F752D42376100FF24A6 /* Sources */,
+				FD6B7F762D42376100FF24A6 /* Frameworks */,
+				FD6B7F772D42376100FF24A6 /* Resources */,
 			);
 			buildRules = (
 			);
 			dependencies = (
-				FDB46D2C2D384B5000D4F9A6 /* PBXTargetDependency */,
+				FD6B7F7B2D42376100FF24A6 /* PBXTargetDependency */,
 			);
 			fileSystemSynchronizedGroups = (
-				FDB46D2D2D384B5000D4F9A6 /* Barion DemoUITests */,
+				FD6B7F7C2D42376100FF24A6 /* FastPaymentDemoUITests */,
 			);
-			name = "Barion DemoUITests";
+			name = FastPaymentDemoUITests;
 			packageProductDependencies = (
 			);
-			productName = "Barion DemoUITests";
-			productReference = FDB46D2A2D384B5000D4F9A6 /* Barion DemoUITests.xctest */;
+			productName = FastPaymentDemoUITests;
+			productReference = FD6B7F792D42376100FF24A6 /* FastPaymentDemoUITests.xctest */;
 			productType = "com.apple.product-type.bundle.ui-testing";
 		};
 /* End PBXNativeTarget section */
 
 /* Begin PBXProject section */
-		FDB46D022D384B4F00D4F9A6 /* Project object */ = {
+		FD6B7F512D42376000FF24A6 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
 				BuildIndependentTargetsInParallel = 1;
 				LastSwiftUpdateCheck = 1620;
 				LastUpgradeCheck = 1620;
 				TargetAttributes = {
-					FDB46D092D384B4F00D4F9A6 = {
+					FD6B7F582D42376000FF24A6 = {
 						CreatedOnToolsVersion = 16.2;
 					};
-					FDB46D1F2D384B5000D4F9A6 = {
+					FD6B7F6E2D42376100FF24A6 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = FDB46D092D384B4F00D4F9A6;
+						TestTargetID = FD6B7F582D42376000FF24A6;
 					};
-					FDB46D292D384B5000D4F9A6 = {
+					FD6B7F782D42376100FF24A6 = {
 						CreatedOnToolsVersion = 16.2;
-						TestTargetID = FDB46D092D384B4F00D4F9A6;
+						TestTargetID = FD6B7F582D42376000FF24A6;
 					};
 				};
 			};
-			buildConfigurationList = FDB46D052D384B4F00D4F9A6 /* Build configuration list for PBXProject "Barion Demo" */;
+			buildConfigurationList = FD6B7F542D42376000FF24A6 /* Build configuration list for PBXProject "FastPaymentDemo" */;
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
 			knownRegions = (
 				en,
 				Base,
 			);
-			mainGroup = FDB46D012D384B4F00D4F9A6;
+			mainGroup = FD6B7F502D42376000FF24A6;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				FDB46D3E2D384B6700D4F9A6 /* XCRemoteSwiftPackageReference "barion-ios" */,
+				FD6B7F8D2D4237B400FF24A6 /* XCRemoteSwiftPackageReference "barion-ios" */,
 			);
 			preferredProjectObjectVersion = 77;
-			productRefGroup = FDB46D0B2D384B4F00D4F9A6 /* Products */;
+			productRefGroup = FD6B7F5A2D42376000FF24A6 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				FDB46D092D384B4F00D4F9A6 /* Barion Demo */,
-				FDB46D1F2D384B5000D4F9A6 /* Barion DemoTests */,
-				FDB46D292D384B5000D4F9A6 /* Barion DemoUITests */,
+				FD6B7F582D42376000FF24A6 /* FastPaymentDemo */,
+				FD6B7F6E2D42376100FF24A6 /* FastPaymentDemoTests */,
+				FD6B7F782D42376100FF24A6 /* FastPaymentDemoUITests */,
 			);
 		};
 /* End PBXProject section */
 
 /* Begin PBXResourcesBuildPhase section */
-		FDB46D082D384B4F00D4F9A6 /* Resources */ = {
+		FD6B7F572D42376000FF24A6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FDB46D1E2D384B5000D4F9A6 /* Resources */ = {
+		FD6B7F6D2D42376100FF24A6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FDB46D282D384B5000D4F9A6 /* Resources */ = {
+		FD6B7F772D42376100FF24A6 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -254,21 +254,21 @@
 /* End PBXResourcesBuildPhase section */
 
 /* Begin PBXSourcesBuildPhase section */
-		FDB46D062D384B4F00D4F9A6 /* Sources */ = {
+		FD6B7F552D42376000FF24A6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FDB46D1C2D384B5000D4F9A6 /* Sources */ = {
+		FD6B7F6B2D42376100FF24A6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
-		FDB46D262D384B5000D4F9A6 /* Sources */ = {
+		FD6B7F752D42376100FF24A6 /* Sources */ = {
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
@@ -278,20 +278,20 @@
 /* End PBXSourcesBuildPhase section */
 
 /* Begin PBXTargetDependency section */
-		FDB46D222D384B5000D4F9A6 /* PBXTargetDependency */ = {
+		FD6B7F712D42376100FF24A6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FDB46D092D384B4F00D4F9A6 /* Barion Demo */;
-			targetProxy = FDB46D212D384B5000D4F9A6 /* PBXContainerItemProxy */;
+			target = FD6B7F582D42376000FF24A6 /* FastPaymentDemo */;
+			targetProxy = FD6B7F702D42376100FF24A6 /* PBXContainerItemProxy */;
 		};
-		FDB46D2C2D384B5000D4F9A6 /* PBXTargetDependency */ = {
+		FD6B7F7B2D42376100FF24A6 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
-			target = FDB46D092D384B4F00D4F9A6 /* Barion Demo */;
-			targetProxy = FDB46D2B2D384B5000D4F9A6 /* PBXContainerItemProxy */;
+			target = FD6B7F582D42376000FF24A6 /* FastPaymentDemo */;
+			targetProxy = FD6B7F7A2D42376100FF24A6 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
 /* Begin XCBuildConfiguration section */
-		FDB46D342D384B5000D4F9A6 /* Debug */ = {
+		FD6B7F832D42376100FF24A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -300,7 +300,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = MJZ8XNV2N3;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Barion Demo/Info.plist";
+				INFOPLIST_FILE = FastPaymentDemo/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "We need camera to scan your card";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -312,7 +312,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sensenet.Barion-Demo";
+				PRODUCT_BUNDLE_IDENTIFIER = com.barion.FastPaymentDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -320,7 +320,7 @@
 			};
 			name = Debug;
 		};
-		FDB46D352D384B5000D4F9A6 /* Release */ = {
+		FD6B7F842D42376100FF24A6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
@@ -329,7 +329,7 @@
 				CURRENT_PROJECT_VERSION = 1;
 				DEVELOPMENT_TEAM = MJZ8XNV2N3;
 				GENERATE_INFOPLIST_FILE = YES;
-				INFOPLIST_FILE = "Barion Demo/Info.plist";
+				INFOPLIST_FILE = FastPaymentDemo/Info.plist;
 				INFOPLIST_KEY_NSCameraUsageDescription = "We need camera to scan your card";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
@@ -341,7 +341,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sensenet.Barion-Demo";
+				PRODUCT_BUNDLE_IDENTIFIER = com.barion.FastPaymentDemo;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = YES;
 				SWIFT_VERSION = 5.0;
@@ -349,7 +349,7 @@
 			};
 			name = Release;
 		};
-		FDB46D362D384B5000D4F9A6 /* Debug */ = {
+		FD6B7F852D42376100FF24A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -412,7 +412,7 @@
 			};
 			name = Debug;
 		};
-		FDB46D372D384B5000D4F9A6 /* Release */ = {
+		FD6B7F862D42376100FF24A6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
@@ -468,7 +468,7 @@
 			};
 			name = Release;
 		};
-		FDB46D392D384B5000D4F9A6 /* Debug */ = {
+		FD6B7F882D42376100FF24A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -478,16 +478,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sensenet.Barion-DemoTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.barion.FastPaymentDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Barion Demo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Barion Demo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FastPaymentDemo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FastPaymentDemo";
 			};
 			name = Debug;
 		};
-		FDB46D3A2D384B5000D4F9A6 /* Release */ = {
+		FD6B7F892D42376100FF24A6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				BUNDLE_LOADER = "$(TEST_HOST)";
@@ -497,16 +497,16 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				IPHONEOS_DEPLOYMENT_TARGET = 18.2;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sensenet.Barion-DemoTests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.barion.FastPaymentDemoTests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/Barion Demo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/Barion Demo";
+				TEST_HOST = "$(BUILT_PRODUCTS_DIR)/FastPaymentDemo.app/$(BUNDLE_EXECUTABLE_FOLDER_PATH)/FastPaymentDemo";
 			};
 			name = Release;
 		};
-		FDB46D3C2D384B5000D4F9A6 /* Debug */ = {
+		FD6B7F8B2D42376100FF24A6 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -514,16 +514,16 @@
 				DEVELOPMENT_TEAM = MJZ8XNV2N3;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sensenet.Barion-DemoUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.barion.FastPaymentDemoUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Barion Demo";
+				TEST_TARGET_NAME = FastPaymentDemo;
 			};
 			name = Debug;
 		};
-		FDB46D3D2D384B5000D4F9A6 /* Release */ = {
+		FD6B7F8C2D42376100FF24A6 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				CODE_SIGN_STYLE = Automatic;
@@ -531,50 +531,50 @@
 				DEVELOPMENT_TEAM = MJZ8XNV2N3;
 				GENERATE_INFOPLIST_FILE = YES;
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = "com.sensenet.Barion-DemoUITests";
+				PRODUCT_BUNDLE_IDENTIFIER = com.barion.FastPaymentDemoUITests;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SWIFT_EMIT_LOC_STRINGS = NO;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
-				TEST_TARGET_NAME = "Barion Demo";
+				TEST_TARGET_NAME = FastPaymentDemo;
 			};
 			name = Release;
 		};
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		FDB46D052D384B4F00D4F9A6 /* Build configuration list for PBXProject "Barion Demo" */ = {
+		FD6B7F542D42376000FF24A6 /* Build configuration list for PBXProject "FastPaymentDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FDB46D362D384B5000D4F9A6 /* Debug */,
-				FDB46D372D384B5000D4F9A6 /* Release */,
+				FD6B7F852D42376100FF24A6 /* Debug */,
+				FD6B7F862D42376100FF24A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FDB46D332D384B5000D4F9A6 /* Build configuration list for PBXNativeTarget "Barion Demo" */ = {
+		FD6B7F822D42376100FF24A6 /* Build configuration list for PBXNativeTarget "FastPaymentDemo" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FDB46D342D384B5000D4F9A6 /* Debug */,
-				FDB46D352D384B5000D4F9A6 /* Release */,
+				FD6B7F832D42376100FF24A6 /* Debug */,
+				FD6B7F842D42376100FF24A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FDB46D382D384B5000D4F9A6 /* Build configuration list for PBXNativeTarget "Barion DemoTests" */ = {
+		FD6B7F872D42376100FF24A6 /* Build configuration list for PBXNativeTarget "FastPaymentDemoTests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FDB46D392D384B5000D4F9A6 /* Debug */,
-				FDB46D3A2D384B5000D4F9A6 /* Release */,
+				FD6B7F882D42376100FF24A6 /* Debug */,
+				FD6B7F892D42376100FF24A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		FDB46D3B2D384B5000D4F9A6 /* Build configuration list for PBXNativeTarget "Barion DemoUITests" */ = {
+		FD6B7F8A2D42376100FF24A6 /* Build configuration list for PBXNativeTarget "FastPaymentDemoUITests" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
-				FDB46D3C2D384B5000D4F9A6 /* Debug */,
-				FDB46D3D2D384B5000D4F9A6 /* Release */,
+				FD6B7F8B2D42376100FF24A6 /* Debug */,
+				FD6B7F8C2D42376100FF24A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
@@ -582,7 +582,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		FDB46D3E2D384B6700D4F9A6 /* XCRemoteSwiftPackageReference "barion-ios" */ = {
+		FD6B7F8D2D4237B400FF24A6 /* XCRemoteSwiftPackageReference "barion-ios" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "git@github.com:barion/barion-ios.git";
 			requirement = {
@@ -593,12 +593,12 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		FDB46D3F2D384B6700D4F9A6 /* Barion-SDK */ = {
+		FD6B7F8E2D4237B400FF24A6 /* Barion-SDK */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = FDB46D3E2D384B6700D4F9A6 /* XCRemoteSwiftPackageReference "barion-ios" */;
+			package = FD6B7F8D2D4237B400FF24A6 /* XCRemoteSwiftPackageReference "barion-ios" */;
 			productName = "Barion-SDK";
 		};
 /* End XCSwiftPackageProductDependency section */
 	};
-	rootObject = FDB46D022D384B4F00D4F9A6 /* Project object */;
+	rootObject = FD6B7F512D42376000FF24A6 /* Project object */;
 }
