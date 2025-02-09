@@ -23,25 +23,20 @@ https://developer.apple.com/documentation/xcode/adding_package_dependencies_to_y
 
 ### Usage
 
-There are 3 modules in the SDK:
-1. FastPayment
-2. ExpressPayment (soon)
-3. CustomPayment (soon)
+#### Setting up the BarionGatewayPlugin
 
-#### Setting up the FastPayment
+The BarionGatewayPlugin needs a client secret at least. You can get a client secret from the Barion API, read more [here](https://docs.barion.com).
 
-The FastPayment needs a client secret at least. You can get a client secret from the Barion API, read more [here](https://docs.barion.com).
-
-Create an instance of `FastPayment` with the `clientSecret`. The SDK can decide which environment used to get the client secret.
+Create an instance of `BarionGatewayPlugin` with the `clientSecret`. The SDK can decide which environment used to get the client secret.
 
 ```swift
-let fastPayment = await FastPayment(paymentClientSecret: clientSecret)
+let barionGatewayPlugin = await BarionGatewayPlugin(paymentClientSecret: clientSecret)
 ```
 
-Call the `present` function of the `FastPayment` instance to present the inline gateway in your app, which will asynchronously return with the result of the payment attempt. You MUST validate the result on your backend as well
+Call the `present` function of the `BarionGatewayPlugin` instance to present the inline gateway in your app, which will asynchronously return with the result of the payment attempt. You MUST validate the result on your backend as well
 
 ```swift
-fastPayment.present(from: self){ result in
+barionGatewayPlugin.present(from: self){ result in
     switch result {
     case .success(let paymentResult):
         // TODO handle successful payment result and validate it on your backend
@@ -57,15 +52,15 @@ The `paymentResult` will contain the funding source of the last payment attempt 
 If there was an error during the payment flow the `paymentError` will contain what the error was. 
 
 You can subscribe to events from the SDK. You can use it to log the progress of the payment flow.
-You should create a `FastPaymentConfiguration` object and pass it to the `FastPayment` initialization method.
+You should create a `BarionGatewayPluginConfiguration` object and pass it to the `BarionGatewayPlugin` initialization method.
 Also, you need to implement the `SDKClientEventListener` protocol to catch the events.
 
 ```swift
-let fastPaymentConfiguration = FastPaymentConfiguration(sdkEventListener: self)
-let fastPayment = await FastPayment(paymentClientSecret: clientSecret, configuration: fastPaymentConfiguration)
+let barionGatewayPluginConfiguration = BarionGatewayPluginConfiguration(sdkEventListener: self)
+let barionGatewayPlugin = await BarionGatewayPlugin(paymentClientSecret: clientSecret, configuration: barionGatewayPluginConfiguration)
 ```
 
-#### Customize the FastPayment
+#### Customize the BarionGatewayPlugin
 
 You can customize the SDK to fit into your application perfectly. Choose your own fonts, colors etc.
 You can customize the order of the available payment methods. The default order is: Apple Pay, new card. If you missed some payment methods don't worry the SDK will put the rest of the available payment methods at the end of the list.
@@ -76,7 +71,7 @@ The `paymentMethodOrder` possible values are:
 
 :warning: _The Apple Pay won't be in the payment method list if your device doesn't support it._
 
-Pass it to the `FastPayment` object `present` function.
+Pass it to the `BarionGatewayPlugin` object `present` function.
 
 ```swift
 let colors = Colors(
@@ -96,9 +91,15 @@ let colors = Colors(
                                                      subtitle: UIColor.darkGray,
                                                      background: UIColor.lightGray)
         )
+
+let shadow: Shadow = Shadow(shadowColor: UIColor.darkGray, 
+                            shadowOffset: CGSize(width: 2, height: 2), 
+                            shadowOpacity: 0.5, 
+                            shadowRadius: 6)
+
 let primaryButton = PrimaryButton(titleColor: UIColor.white,
                                   backgroundColor: UIColor.blue,
-                                  shadowColor: UIColor.darkGray,
+                                  shadow: shadow,
                                   font: UIFont(name: "Noteworthy", size: 15))
         
 let renderOptions = RenderOptions(font: UIFont(name: "Noteworthy", size: 15), 
@@ -107,9 +108,9 @@ let renderOptions = RenderOptions(font: UIFont(name: "Noteworthy", size: 15),
                                   paymentMethodOrder: ["bankCard", "applePay"], 
                                   hidePoweredByLabel: false)
 
-let fastPaymentOptions = FastPaymentOptions(renderOptions: renderOptions)
+let barionGatewayPluginOptions = BarionGatewayPluginOptions(renderOptions: renderOptions, locale: "en_US")
 
-fastPayment.present(from: self, paymentOptions: fastPaymentOptions){ result in
+barionGatewayPlugin.present(from: self, paymentOptions: barionGatewayPluginOptions){ result in
     switch result {
     case .success(let paymentResult):
         // TODO handle successful payment result and validate it on your backend
