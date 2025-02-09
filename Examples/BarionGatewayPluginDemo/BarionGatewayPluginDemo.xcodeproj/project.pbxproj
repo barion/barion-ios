@@ -7,7 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		FDF2824E2D5946B600095AD3 /* Barion-SDK in Frameworks */ = {isa = PBXBuildFile; productRef = FDF2824D2D5946B600095AD3 /* Barion-SDK */; };
+		FD55A1C92D5953A2005657EE /* Barion-SDK in Frameworks */ = {isa = PBXBuildFile; productRef = FD55A1C82D5953A2005657EE /* Barion-SDK */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -40,7 +40,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				FDF2824E2D5946B600095AD3 /* Barion-SDK in Frameworks */,
+				FD55A1C92D5953A2005657EE /* Barion-SDK in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -83,7 +83,7 @@
 			);
 			name = BarionGatewayPluginDemo;
 			packageProductDependencies = (
-				FDF2824D2D5946B600095AD3 /* Barion-SDK */,
+				FD55A1C82D5953A2005657EE /* Barion-SDK */,
 			);
 			productName = BarionGatewayPluginDemo;
 			productReference = FDF282342D59467900095AD3 /* BarionGatewayPluginDemo.app */;
@@ -114,7 +114,7 @@
 			mainGroup = FDF2822B2D59467900095AD3;
 			minimizedProjectReferenceProxies = 1;
 			packageReferences = (
-				FDF2824C2D5946B600095AD3 /* XCRemoteSwiftPackageReference "barion-ios" */,
+				FD55A1C72D5953A2005657EE /* XCRemoteSwiftPackageReference "barion-ios" */,
 			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = FDF282352D59467900095AD3 /* Products */;
@@ -348,7 +348,7 @@
 /* End XCConfigurationList section */
 
 /* Begin XCRemoteSwiftPackageReference section */
-		FDF2824C2D5946B600095AD3 /* XCRemoteSwiftPackageReference "barion-ios" */ = {
+		FD55A1C72D5953A2005657EE /* XCRemoteSwiftPackageReference "barion-ios" */ = {
 			isa = XCRemoteSwiftPackageReference;
 			repositoryURL = "git@github.com:barion/barion-ios.git";
 			requirement = {
@@ -359,9 +359,9 @@
 /* End XCRemoteSwiftPackageReference section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		FDF2824D2D5946B600095AD3 /* Barion-SDK */ = {
+		FD55A1C82D5953A2005657EE /* Barion-SDK */ = {
 			isa = XCSwiftPackageProductDependency;
-			package = FDF2824C2D5946B600095AD3 /* XCRemoteSwiftPackageReference "barion-ios" */;
+			package = FD55A1C72D5953A2005657EE /* XCRemoteSwiftPackageReference "barion-ios" */;
 			productName = "Barion-SDK";
 		};
 /* End XCSwiftPackageProductDependency section */

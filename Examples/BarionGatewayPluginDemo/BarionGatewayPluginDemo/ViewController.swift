@@ -36,10 +36,10 @@ class ViewController: UIViewController, SDKClientEventListener {
     
     func startBarionSDKWithCustomization(clientSecret: String) async {
         
-        // Subscribe for SDK events in the FastPaymentConfiguration:
+        // Subscribe for SDK events in the BarionGatewayPluginConfiguration:
         let barionGatewayPluginConfiguration = prepareBarionGatewayPluginConfiguration()
         
-        // Customize the SDK with the FastPaymentOptions:
+        // Customize the SDK with the BarionGatewayPluginOptions:
         let barionGatewayPluginOptions = prepareBarionGatewayPluginOptions()
         
         // You need to initialize the BarionGatewayPlugin object with the clientSecret and the configuration.
