@@ -6,11 +6,11 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		MnX0qO5TUcHTCay3lar+zfdv2lI=
+		huVt5Wx1wxEgQqnN5PLTJjTw3ls=
 		</data>
 		<key>BRAddNewCardTableViewCell.nib</key>
 		<data>
-		hfTia0IvFa0K+R+EcWcwV4xriGg=
+		U8TgyT2CiC1oGXTaQu0GA8ZLJKk=
 		</data>
 		<key>BRApplePayTableViewCell.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/GHI-EA-gnM-view-0ii-ho-6uH.nib</key>
 		<data>
-		dBJnYT0If5fOyBDuWn1CTGttJ98=
+		hZEjLIiuvlD2NrD9mHdML/kKSXc=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		x4XOiemMdAkO3IfCRFu8brc4RuI=
+		KO6ERABK9Tk9iVmXN8OaGlZ5/1M=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/mts-pb-M5u-view-Usn-kq-V1y.nib</key>
 		<data>
-		+uodYOeuyEeF+dtt2+58d2/N1U4=
+		NRUxsHFZYOBn/NcfDf6Kbr3e2TQ=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/oX1-OO-knt-view-959-MH-zbi.nib</key>
 		<data>
-		f2jvGiqlyT0vT+4xFr2fspiW9kQ=
+		cXoYEMKmhITv0R/YdsSsZfcOiHA=
 		</data>
 		<key>BRPayButtonView.nib</key>
 		<data>
@@ -70,7 +70,7 @@
 		</data>
 		<key>BRSavedCardTableViewCell.nib</key>
 		<data>
-		gQWMEja9Eu2L0KN9BGqFM46d4+4=
+		JHKZcBFn0XISEMbdQHVeIhxCZMo=
 		</data>
 		<key>BarionSDK-Info.plist</key>
 		<data>
@@ -80,9 +80,13 @@
 		<data>
 		zmV6UqBSo6r1NOz798vd5O4zTBA=
 		</data>
+		<key>Base.lproj/Localizable.strings</key>
+		<data>
+		Ct7fGJmo3uunx9tNETTWsV1DSHA=
+		</data>
 		<key>Headers/BarionSDK-Swift.h</key>
 		<data>
-		7t0Y6F70WU3G07AO/VdyVDozDno=
+		I4L/7s7V5i0POmuuiz96+Ozzn6E=
 		</data>
 		<key>Headers/BarionSDK.h</key>
 		<data>
@@ -94,11 +98,11 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		mfcXzfFoY/JgUUzIqQnv8C0HawQ=
+		yxX9tY6dyN5ShL+/o2PcdqnpNyI=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		fgaREI1hAkjXxQdvLGG6h6/KpdM=
+		Sa8PFNVpW5SEL/eiFlUlcNCl7pU=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -106,11 +110,11 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		fgaREI1hAkjXxQdvLGG6h6/KpdM=
+		Sa8PFNVpW5SEL/eiFlUlcNCl7pU=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		K9AYaeMTCpcIlc0bG4Eg+y0iDpU=
+		sVyjP8EykVT6L5sf4qz6+vf2pUE=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -180,11 +184,51 @@
 		<data>
 		uA3l0Th1hUHF8FJlrRRKufqG0ds=
 		</data>
+		<key>cs.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			9Kt2TnJVO2RHWsk1lbjXXBa7+Mo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			Ug02js3QPlhDlgEEaX03AFVq3Ak=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RpLBu81MeRt5lsonw6L+27cgWeQ=
+			Ct7fGJmo3uunx9tNETTWsV1DSHA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>hu.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			/bPL15k4KFA0oP+3l2GaOPTmdVA=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>mobilelog.p12</key>
+		<data>
+		X0j5AYkhyNXrf614tj3minoh8uw=
+		</data>
+		<key>sk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			B16Wsxl/mQLI5UbBRcjwnh+qsMo=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -196,14 +240,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			ES+noxFHxmKWoRIwtG/CdSoyRUw1EYBV+I1PQQr094o=
+			jTTICvIkTNNnnzo0cQDp9s+QLwQMILdqGkYHFtsCtaA=
 			</data>
 		</dict>
 		<key>BRAddNewCardTableViewCell.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			ZNYBZK8oJZI8jZHAMaOtmk23AfWoN2WJRvCSMDrDyjA=
+			MInYpuk7J9L9Vk2FneFH7h48KRgpzrhxMRNM8oo/uF4=
 			</data>
 		</dict>
 		<key>BRApplePayTableViewCell.nib</key>
@@ -245,7 +289,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Lo0Cx6bSIHfBKRiW5ILOgjpDEyOOQo9e/VwL3/LVaDI=
+			CPkT0xONQr6SSKDCkXbt0I/uoIY17cS1LOUPThfsOsE=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/Info.plist</key>
@@ -280,21 +324,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			VtA12FFK5h091nJ1N2G/keiOvUu73CPTi/088tlIQ5U=
+			0xX+J5RK++UwrTuqOp2kf8PkXH7O3uQfhKVO3WcpmhU=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/mts-pb-M5u-view-Usn-kq-V1y.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cxBZ/w2NssbBiFidxPrOwz+908bfCMv2HYZrhOvxUUs=
+			6v/v+Kg2VE8P6XZUVMF3RNOPk7Z0hKQVsbJtK+YW7S4=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/oX1-OO-knt-view-959-MH-zbi.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			zijywC4KXPOmfK+yg2CaBoik//ay5y5KVMDlpXFwmcI=
+			g0VJ24QgQc8uSc65Odvdab8wrIUchydT512V8vAatHY=
 			</data>
 		</dict>
 		<key>BRPayButtonView.nib</key>
@@ -308,7 +352,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			kMrifj+EOnQMJFZCevLHEib2GJYopb28itgP9ps2NYQ=
+			KQxikyKcqwyhDrmEmX6ty2EKf8AQhaAAqXPY5Iqz9Fc=
 			</data>
 		</dict>
 		<key>BarionSDK-Info.plist</key>
@@ -325,11 +369,18 @@
 			kmHsztpgjvF0JW5f3HdMHm49z1M0CcG8OT1JDQHHE/E=
 			</data>
 		</dict>
+		<key>Base.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			TQELXVa8W3uHdwM1IfxO+2/Kj742sHm9Xwuu4jMtXnc=
+			</data>
+		</dict>
 		<key>Headers/BarionSDK-Swift.h</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			8X+z2zC2Lzrqv46vUaBn8ZDGJY86P0U8/EE7FoKuWVw=
+			rK/GpQWVtWR8AHKQ8Yo+BJPeaN10TPpaqGiTFW+VPlo=
 			</data>
 		</dict>
 		<key>Headers/BarionSDK.h</key>
@@ -343,14 +394,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			4iRVG9+Zlel0lOjhaA6CSBgJN8ega65wx/7aSv8FMEg=
+			gvUUPnjm/p8/0Kpx4IJLXcXRLAEjuTEODI9XW9tz0q8=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pLDtvi9tEf5j0wCaHJj3y3ESwcXJe4NGsUlqfxCgQoU=
+			GesNS/NDzJ4bMM5EBErtjSgSvN53EYajfU1LOh/w1+c=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -364,14 +415,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			pLDtvi9tEf5j0wCaHJj3y3ESwcXJe4NGsUlqfxCgQoU=
+			GesNS/NDzJ4bMM5EBErtjSgSvN53EYajfU1LOh/w1+c=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			+WyA/4dTIcjo6e/lrWqJ3er0a0QCs5u2k9zuwFDGNjU=
+			2Jwi2cCAWKjsU/h1feqUhN6/gwakkqfA3Y10bnyESM4=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -493,11 +544,54 @@
 			LDTOHfI7g4xavyp/ZDfMo9MGftUJ/yXxHfaxG1grUes=
 			</data>
 		</dict>
+		<key>cs.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			scmXtqO4FJuZmzZp8Ib8RTmk6K187TzjF7KQfyrJl9w=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>de.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			R7A/IR1U+AiXuNo2w8p1qd5td8WvlwcTcpgmBZV/4NI=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>en.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			K9PGt3nGX5YEssi7LlXL1b/hyLsjMapiJedUOrmwRDE=
+			TQELXVa8W3uHdwM1IfxO+2/Kj742sHm9Xwuu4jMtXnc=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>hu.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			FamOhBa5AqVsoZOen7eHqS8qg9GFFJP3WK4rO93Mh+I=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>mobilelog.p12</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			1GZKtjqDw/HIH5R5VBuqdOvQp6HGNEzADphjEdvQQ0k=
+			</data>
+		</dict>
+		<key>sk.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			r4Fjbb+OLteBQtmcL1hLqFPJtK0Q+PRr1cyg3P1g/wY=
 			</data>
 			<key>optional</key>
 			<true/>

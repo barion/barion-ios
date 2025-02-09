@@ -6,9 +6,11 @@ import AVFoundation
 import AVKit
 import Accelerate
 @_exported import BarionSDK
+import CommonCrypto
 import CoreGraphics
 import CoreML
 import CoreTelephony
+import CryptoKit
 import DeveloperToolsSupport
 import Foundation
 import PassKit
@@ -22,49 +24,85 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 import os.log
 import os
-final public class FastPayment {
-  public init(paymentClientSecret: Swift.String, configuration: BarionSDK.FastPaymentConfiguration? = nil) async
-  @_Concurrency.MainActor final public func present(from rootViewController: UIKit.UIViewController, paymentOptions: BarionSDK.FastPaymentOptions? = nil, completion: @escaping ((Swift.Result<BarionSDK.PaymentResult, BarionSDK.PaymentError>) -> Swift.Void))
+final public class BarionGatewayPlugin {
+  public init(paymentClientSecret: Swift.String, configuration: BarionSDK.BarionGatewayPluginConfiguration? = nil) async
+  @_Concurrency.MainActor final public func present(from rootViewController: UIKit.UIViewController, paymentOptions: BarionSDK.BarionGatewayPluginOptions? = nil, completion: @escaping ((Swift.Result<BarionSDK.PaymentResult, BarionSDK.PaymentError>) -> Swift.Void))
   @objc deinit
 }
-public struct FastPaymentConfiguration {
+public struct BarionGatewayPluginConfiguration {
   public init(sdkEventListener: (any BarionSDK.SDKClientEventListener)? = nil)
 }
-public struct FastPaymentOptions {
-  public init(renderOptions: BarionSDK.RenderOptions? = nil)
+public struct BarionGatewayPluginOptions {
+  public var renderOptions: BarionSDK.RenderOptions?
+  public var merchantOwnedPaymentData: BarionSDK.MerchantOwnedPaymentData?
+  public var locale: Swift.String?
+  public init(renderOptions: BarionSDK.RenderOptions? = nil, merchantOwnedPaymentData: BarionSDK.MerchantOwnedPaymentData? = nil, locale: Swift.String? = nil)
 }
 public struct MerchantOwnedPaymentData {
+  public var methods: [BarionSDK.Method]?
+  public init(methods: [BarionSDK.Method]? = nil)
 }
 public struct Method {
-}
-public enum MethodType {
-  case card
-  case balance
-  public static func == (a: BarionSDK.MethodType, b: BarionSDK.MethodType) -> Swift.Bool
-  public func hash(into hasher: inout Swift.Hasher)
-  public var hashValue: Swift.Int {
-    get
-  }
+  public var methodType: Swift.String?
+  public var token: Swift.String
+  public var title: Swift.String
+  public var subtitle: Swift.String?
+  public init(methodType: Swift.String?, token: Swift.String, title: Swift.String, subtitle: Swift.String? = nil)
 }
 public struct RenderOptions {
-  public init(font: UIKit.UIFont? = nil, colors: BarionSDK.Colors? = nil, primaryButton: BarionSDK.PrimaryButton? = nil)
+  public var font: UIKit.UIFont?
+  public var colors: BarionSDK.Colors?
+  public var primaryButton: BarionSDK.PrimaryButton?
+  public var paymentMethodOrder: [Swift.String]?
+  public var hidePoweredByLabel: Swift.Bool
+  public init(font: UIKit.UIFont? = nil, colors: BarionSDK.Colors? = nil, primaryButton: BarionSDK.PrimaryButton? = nil, paymentMethodOrder: [Swift.String]? = nil, hidePoweredByLabel: Swift.Bool? = nil)
 }
 public struct PrimaryButton {
-  public init(titleColor: UIKit.UIColor? = nil, backgroundColor: UIKit.UIColor? = nil, shadowColor: UIKit.UIColor? = nil, font: UIKit.UIFont? = nil)
+  public var titleColor: UIKit.UIColor?
+  public var backgroundColor: UIKit.UIColor?
+  public var shadow: BarionSDK.Shadow?
+  public var font: UIKit.UIFont?
+  public init(titleColor: UIKit.UIColor? = nil, backgroundColor: UIKit.UIColor? = nil, shadow: BarionSDK.Shadow? = nil, font: UIKit.UIFont? = nil)
+}
+public struct Shadow {
+  public var shadowColor: UIKit.UIColor
+  public var shadowOffset: CoreFoundation.CGSize
+  public var shadowOpacity: Swift.Float
+  public var shadowRadius: CoreFoundation.CGFloat
+  public init(shadowColor: UIKit.UIColor, shadowOffset: CoreFoundation.CGSize, shadowOpacity: Swift.Float, shadowRadius: CoreFoundation.CGFloat)
 }
 public struct Colors {
+  public var background: UIKit.UIColor?
+  public var primary: UIKit.UIColor?
+  public var title: UIKit.UIColor?
+  public var subtitle: UIKit.UIColor?
+  public var text: UIKit.UIColor?
+  public var secondaryText: UIKit.UIColor?
+  public var inputColors: BarionSDK.InputColors?
+  public var fundingSourceColors: BarionSDK.FundingSourceColors?
   public init(background: UIKit.UIColor? = nil, primary: UIKit.UIColor? = nil, title: UIKit.UIColor? = nil, subtitle: UIKit.UIColor? = nil, text: UIKit.UIColor? = nil, secondaryText: UIKit.UIColor? = nil, inputColors: BarionSDK.InputColors? = nil, fundingSourceColors: BarionSDK.FundingSourceColors? = nil)
 }
 public struct FundingSourceColors {
+  public var title: UIKit.UIColor?
+  public var subtitle: UIKit.UIColor?
+  public var background: UIKit.UIColor?
   public init(title: UIKit.UIColor? = nil, subtitle: UIKit.UIColor? = nil, background: UIKit.UIColor? = nil)
 }
 public struct InputColors {
+  public var background: UIKit.UIColor?
+  public var border: UIKit.UIColor?
+  public var placeholder: UIKit.UIColor?
+  public var label: UIKit.UIColor?
+  public var error: UIKit.UIColor?
+  public var link: UIKit.UIColor?
   public init(background: UIKit.UIColor? = nil, border: UIKit.UIColor? = nil, placeholder: UIKit.UIColor? = nil, label: UIKit.UIColor? = nil, error: UIKit.UIColor? = nil, link: UIKit.UIColor? = nil)
 }
 public struct PaymentError : Swift.Error, Swift.Codable {
+  public var message: Swift.String?
   public var errorCode: BarionSDK.PaymentErrorCode
   public enum CodingKeys : Swift.String, Swift.CodingKey {
     case errorCode
+    case message
     public init?(rawValue: Swift.String)
     public init?(stringValue: Swift.String)
     public init?(intValue: Swift.Int)
@@ -100,13 +138,18 @@ public enum PaymentErrorCode : Swift.String, Swift.Codable {
   }
 }
 public struct PaymentResult : Swift.Decodable {
+  public var isSuccessful: Swift.Bool
+  public var fundingInformation: BarionSDK.FundingInformation?
+  public init(from decoder: any Swift.Decoder) throws
+}
+public struct FundingInformation : Swift.Decodable {
+  public var authorizationCode: Swift.String?
+  public var processResult: Swift.String?
   public init(from decoder: any Swift.Decoder) throws
 }
 public protocol SDKClientEventListener {
   func onEvent(_ event: Swift.String)
 }
-extension BarionSDK.MethodType : Swift.Equatable {}
-extension BarionSDK.MethodType : Swift.Hashable {}
 extension BarionSDK.PaymentError.CodingKeys : Swift.Equatable {}
 extension BarionSDK.PaymentError.CodingKeys : Swift.Hashable {}
 extension BarionSDK.PaymentError.CodingKeys : Swift.RawRepresentable {}
