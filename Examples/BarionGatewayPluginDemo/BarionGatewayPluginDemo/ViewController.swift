@@ -1,6 +1,6 @@
 //
 //  ViewController.swift
-//  FastPaymentDemo
+//  BarionGatewayPluginDemo
 //
 
 import UIKit
@@ -12,17 +12,17 @@ class ViewController: UIViewController, SDKClientEventListener {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
     }
-    
+
     /**
      This method shows the simplest integration of the Barion SDK.
      The clientSecret parameter comes from your backend.
      */
     func startBarionSDK(clientSecret: String) async {
-        // You need to initialize the FastPayment object with the clientSecret.
-        let fastPayment = await FastPayment(paymentClientSecret: clientSecret)
-        // After the FastPayment object initialization is done you can show the inline gateway to your customer.
+        // You need to initialize the BarionGatewayPlugin object with the clientSecret.
+        let barionGatewayPlugin = await BarionGatewayPlugin(paymentClientSecret: clientSecret)
+        // After the BarionGatewayPlugin object initialization is done you can show the inline gateway to your customer.
         // The result of the payment attempt will be returned in the callback function, and you MUST validate it on your backend as well.
-        fastPayment.present(from: self){ result in
+        barionGatewayPlugin.present(from: self){ result in
             switch result {
             case .success(let paymentResult):
                 // TODO handle successful payment result and validate it on your backend
@@ -37,18 +37,18 @@ class ViewController: UIViewController, SDKClientEventListener {
     func startBarionSDKWithCustomization(clientSecret: String) async {
         
         // Subscribe for SDK events in the FastPaymentConfiguration:
-        let fastPaymentConfiguration = prepareFastPaymentConfiguration()
+        let barionGatewayPluginConfiguration = prepareBarionGatewayPluginConfiguration()
         
         // Customize the SDK with the FastPaymentOptions:
-        let fastPaymentOptions = prepareFastPaymentOptions()
+        let barionGatewayPluginOptions = prepareBarionGatewayPluginOptions()
         
-        // You need to initialize the FastPayment object with the clientSecret and the configuration.
-        let fastPayment = await FastPayment(paymentClientSecret: clientSecret, configuration: fastPaymentConfiguration)
+        // You need to initialize the BarionGatewayPlugin object with the clientSecret and the configuration.
+        let barionGatewayPlugin = await BarionGatewayPlugin(paymentClientSecret: clientSecret, configuration: barionGatewayPluginConfiguration)
         
-        // After the FastPayment object initialization is done you can show the inline gateway to your customer.
+        // After the BarionGatewayPlugin object initialization is done you can show the inline gateway to your customer.
         // Pass the paymentOptions parameter to fit the Barion SDK into your UI.
         // The result of the payment attempt will be returned in the callback function, and you MUST validate it on your backend as well.
-        fastPayment.present(from: self, paymentOptions: fastPaymentOptions){ result in
+        barionGatewayPlugin.present(from: self, paymentOptions: barionGatewayPluginOptions){ result in
             switch result {
             case .success(let paymentResult):
                 // TODO handle successful payment result and validate it on your backend
@@ -60,10 +60,10 @@ class ViewController: UIViewController, SDKClientEventListener {
         }
     }
     
-    func prepareFastPaymentConfiguration() -> FastPaymentConfiguration {
-        // In the FastPaymentConfiguration object you can subscribe to Barion SDK events.
-        let fastPaymentConfiguration = FastPaymentConfiguration(sdkEventListener: self)
-        return fastPaymentConfiguration
+    func prepareBarionGatewayPluginConfiguration() -> BarionGatewayPluginConfiguration {
+        // In the BarionGatewayPluginConfiguration object you can subscribe to Barion SDK events.
+        let barionGatewayPluginConfiguration = BarionGatewayPluginConfiguration(sdkEventListener: self)
+        return barionGatewayPluginConfiguration
     }
     
     func onEvent(_ event: String) {
@@ -73,7 +73,7 @@ class ViewController: UIViewController, SDKClientEventListener {
     /*
      You can customize the SDK to fit into your application perfectly.
      */
-    func prepareFastPaymentOptions() -> FastPaymentOptions {
+    func prepareBarionGatewayPluginOptions() -> BarionGatewayPluginOptions {
         let colors = Colors(
             background: UIColor.white,
             primary: UIColor.blue,
@@ -91,14 +91,16 @@ class ViewController: UIViewController, SDKClientEventListener {
                                                      subtitle: UIColor.darkGray,
                                                      background: UIColor.lightGray)
         )
+        let shadow: Shadow = Shadow(shadowColor: UIColor.darkGray, shadowOffset: CGSize(width: 2, height: 2), shadowOpacity: 0.5, shadowRadius: 6)
         let primaryButton = PrimaryButton(titleColor: UIColor.white,
                                           backgroundColor: UIColor.blue,
-                                          shadowColor: UIColor.darkGray,
+                                          shadow: shadow,
                                           font: UIFont(name: "Noteworthy", size: 15))
         
         let renderOptions = RenderOptions(font: UIFont(name: "Noteworthy", size: 15), colors: colors, primaryButton: primaryButton)
-        let fastPaymentOptions = FastPaymentOptions(renderOptions: renderOptions)
-        return fastPaymentOptions
+        let barionGatewayPluginOptions = BarionGatewayPluginOptions(renderOptions: renderOptions)
+        return barionGatewayPluginOptions
     }
+
 }
 

@@ -1,6 +1,6 @@
 //
 //  AppDelegate.swift
-//  FastPaymentDemo
+//  BarionGatewayPluginDemo
 //
 
 import UIKit

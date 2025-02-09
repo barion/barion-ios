@@ -1,6 +1,6 @@
 //
 //  SceneDelegate.swift
-//  FastPaymentDemo
+//  BarionGatewayPluginDemo
 //
 
 import UIKit
