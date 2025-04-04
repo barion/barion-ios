@@ -65,11 +65,11 @@ public struct PrimaryButton {
   public init(titleColor: UIKit.UIColor? = nil, backgroundColor: UIKit.UIColor? = nil, shadow: BarionSDK.Shadow? = nil, font: UIKit.UIFont? = nil)
 }
 public struct Shadow {
-  public var shadowColor: UIKit.UIColor
-  public var shadowOffset: CoreFoundation.CGSize
-  public var shadowOpacity: Swift.Float
-  public var shadowRadius: CoreFoundation.CGFloat
-  public init(shadowColor: UIKit.UIColor, shadowOffset: CoreFoundation.CGSize, shadowOpacity: Swift.Float, shadowRadius: CoreFoundation.CGFloat)
+  public var shadowColor: UIKit.UIColor?
+  public var shadowOffset: CoreFoundation.CGSize?
+  public var shadowOpacity: Swift.Float?
+  public var shadowRadius: CoreFoundation.CGFloat?
+  public init(shadowColor: UIKit.UIColor? = nil, shadowOffset: CoreFoundation.CGSize? = nil, shadowOpacity: Swift.Float? = nil, shadowRadius: CoreFoundation.CGFloat? = nil)
 }
 public struct Colors {
   public var background: UIKit.UIColor?

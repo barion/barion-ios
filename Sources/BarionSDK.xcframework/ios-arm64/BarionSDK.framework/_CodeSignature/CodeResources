@@ -18,7 +18,7 @@
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/8Hg-ZN-bk6-view-7Rs-Zm-QgN.nib</key>
 		<data>
-		XfJoxqQ5Oi2p3HnzOLnED7KLciU=
+		KSiIC1jfxUVZyM+tgEZqRu+9hNk=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/BRAddNewCardViewController.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/GHI-EA-gnM-view-0ii-ho-6uH.nib</key>
 		<data>
-		hZEjLIiuvlD2NrD9mHdML/kKSXc=
+		aq4H+8T3TTxHV+gF41Xbf/qxodk=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -50,19 +50,19 @@
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/UINavigationController-KQy-yo-kWS.nib</key>
 		<data>
-		l/qxFZGd6tDe0C+XE2qbQbpDyQY=
+		OdTMWum6Ms/Sd8rh1qfVdXOQkBM=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		KO6ERABK9Tk9iVmXN8OaGlZ5/1M=
+		SDJCbHqIwpP0w/QiSTYd0W9XWEk=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/mts-pb-M5u-view-Usn-kq-V1y.nib</key>
 		<data>
-		NRUxsHFZYOBn/NcfDf6Kbr3e2TQ=
+		KjzQMyzKaEOBwPNMfqm1FyNrMBY=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/oX1-OO-knt-view-959-MH-zbi.nib</key>
 		<data>
-		cXoYEMKmhITv0R/YdsSsZfcOiHA=
+		P4KR3zHKZnFReVrcdrX1W7H+mpQ=
 		</data>
 		<key>BRPayButtonView.nib</key>
 		<data>
@@ -82,7 +82,7 @@
 		</data>
 		<key>Base.lproj/Localizable.strings</key>
 		<data>
-		Ct7fGJmo3uunx9tNETTWsV1DSHA=
+		Bcv/GT4AWzCDr78Bdcx6RsVnP3k=
 		</data>
 		<key>Headers/BarionSDK-Swift.h</key>
 		<data>
@@ -94,15 +94,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		N7M5nrwcPzMvllZaPig92tcGAyE=
+		GgOQ79Q8/JM51ic7BHsGiqfxZCA=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		yxX9tY6dyN5ShL+/o2PcdqnpNyI=
+		oh776WYiFDuODu9q6HOb8tx4Dfk=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		Sa8PFNVpW5SEL/eiFlUlcNCl7pU=
+		2DmLsTG5vZSp2Kteu+ym0J4Q51o=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		Sa8PFNVpW5SEL/eiFlUlcNCl7pU=
+		2DmLsTG5vZSp2Kteu+ym0J4Q51o=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		sVyjP8EykVT6L5sf4qz6+vf2pUE=
+		AJwT/60GEezwsQ1jheB1yjmAER4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -188,7 +188,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			9Kt2TnJVO2RHWsk1lbjXXBa7+Mo=
+			a/Y3/tL0ddncy7BDR4PdnY2p75w=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -197,7 +197,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ug02js3QPlhDlgEEaX03AFVq3Ak=
+			NM8Ct3leMa1F9ezw2APdhUwVCT4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -215,7 +215,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			/bPL15k4KFA0oP+3l2GaOPTmdVA=
+			8PZW/BIQ8bz8qmmg69HHMIwKseU=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -228,7 +228,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			B16Wsxl/mQLI5UbBRcjwnh+qsMo=
+			09nB/sM4wKpK09VByU4kuNCEuUg=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -261,7 +261,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			O7A/QRfHlu3o+fyB6cRV67eKQ6UvzRE0fYmZgQOGpU0=
+			iaEDWCljSbkXuLL7o7IKQ9GN5ZcnnKAzV0CHnK9RS2M=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/BRAddNewCardViewController.nib</key>
@@ -289,7 +289,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			CPkT0xONQr6SSKDCkXbt0I/uoIY17cS1LOUPThfsOsE=
+			ONWbOTMDYQP12GTCOoxHL2VCVt8Ky9woruxZKprJ/gY=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/Info.plist</key>
@@ -317,28 +317,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			0Yi/tKthbKzcA8SJqILu7CDjf2jji6PJbQC+VKwSKMs=
+			kkygYBg8iUyZJaLQWyD0yvG/FJnubIVWN6NzuwQopH8=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			0xX+J5RK++UwrTuqOp2kf8PkXH7O3uQfhKVO3WcpmhU=
+			xzU9rRmd4geEAdxkRJaO9eb6PrxsBmGWDXZXOGL989c=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/mts-pb-M5u-view-Usn-kq-V1y.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			6v/v+Kg2VE8P6XZUVMF3RNOPk7Z0hKQVsbJtK+YW7S4=
+			opjPI0u8alK1+6PA81M5s22s9M/bhzF918oTjaBN5a0=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/oX1-OO-knt-view-959-MH-zbi.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			g0VJ24QgQc8uSc65Odvdab8wrIUchydT512V8vAatHY=
+			CeX2nAE/88WVR6qpmRiy0KWi6UEWuxl9Abwr/Nel4Wc=
 			</data>
 		</dict>
 		<key>BRPayButtonView.nib</key>
@@ -373,7 +373,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TQELXVa8W3uHdwM1IfxO+2/Kj742sHm9Xwuu4jMtXnc=
+			L+NykImx9JfQP0zpvSoBrg1jemGmIzLbo42t7NzDQn4=
 			</data>
 		</dict>
 		<key>Headers/BarionSDK-Swift.h</key>
@@ -394,14 +394,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gvUUPnjm/p8/0Kpx4IJLXcXRLAEjuTEODI9XW9tz0q8=
+			SWHf8uTtwUZXMADG6r6//AvSGKKputoZMeuLcvCSsME=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			GesNS/NDzJ4bMM5EBErtjSgSvN53EYajfU1LOh/w1+c=
+			42x/JPYJyjSWNJAbxF2Y0ByPu6tNLKfkMyNJsmHrn1E=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -415,14 +415,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			GesNS/NDzJ4bMM5EBErtjSgSvN53EYajfU1LOh/w1+c=
+			42x/JPYJyjSWNJAbxF2Y0ByPu6tNLKfkMyNJsmHrn1E=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2Jwi2cCAWKjsU/h1feqUhN6/gwakkqfA3Y10bnyESM4=
+			fc6j6nD89xqpdMIhCTggVpWG+GbSSVGL0/oqf83HaDc=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -548,7 +548,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			scmXtqO4FJuZmzZp8Ib8RTmk6K187TzjF7KQfyrJl9w=
+			nzPZLgF2GtEzjzqCwohx1jdVOev7O+kY3b0x4asBXjc=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -557,7 +557,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			R7A/IR1U+AiXuNo2w8p1qd5td8WvlwcTcpgmBZV/4NI=
+			91R4CSSrj1w1LhRdrNd2rIMCRYc+FXdGQFbxtt211yM=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -575,7 +575,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FamOhBa5AqVsoZOen7eHqS8qg9GFFJP3WK4rO93Mh+I=
+			1WhE5cC3fGBfMPRBtH5cHjEKxha5PK3DIPsirAlJn34=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -591,7 +591,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			r4Fjbb+OLteBQtmcL1hLqFPJtK0Q+PRr1cyg3P1g/wY=
+			THlyRDvvkt6RR3ru+9KbQpF8765U/OGrjOCi0ndFVL8=
 			</data>
 			<key>optional</key>
 			<true/>
