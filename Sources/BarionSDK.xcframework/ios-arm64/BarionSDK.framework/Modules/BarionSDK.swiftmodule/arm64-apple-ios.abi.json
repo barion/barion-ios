@@ -9891,14 +9891,14 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
       "kind": "StringLiteral",
-      "offset": 544,
+      "offset": 596,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
       "kind": "Array",
-      "offset": 952,
+      "offset": 1004,
       "length": 2,
       "value": "[]"
     },
