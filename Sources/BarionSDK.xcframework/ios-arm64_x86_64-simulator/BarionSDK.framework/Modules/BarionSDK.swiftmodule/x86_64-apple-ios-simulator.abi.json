@@ -9903,6 +9903,13 @@
       "value": "[]"
     },
     {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1196,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRBaseUtils.swift",
       "kind": "StringLiteral",
       "offset": 1159,
