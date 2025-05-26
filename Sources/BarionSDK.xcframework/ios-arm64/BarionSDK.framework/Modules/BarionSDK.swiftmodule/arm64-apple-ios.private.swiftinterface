@@ -97,7 +97,7 @@ public struct InputColors {
   public var link: UIKit.UIColor?
   public init(background: UIKit.UIColor? = nil, border: UIKit.UIColor? = nil, placeholder: UIKit.UIColor? = nil, label: UIKit.UIColor? = nil, error: UIKit.UIColor? = nil, link: UIKit.UIColor? = nil)
 }
-public struct PaymentError : Swift.Error, Swift.Codable {
+public struct PaymentError : Swift.Codable {
   public var message: Swift.String?
   public var errorCode: BarionSDK.PaymentErrorCode
   public enum CodingKeys : Swift.String, Swift.CodingKey {

@@ -7791,13 +7791,6 @@
           },
           {
             "kind": "Conformance",
-            "name": "Error",
-            "printedName": "Error",
-            "usr": "s:s5ErrorP",
-            "mangledName": "$ss5ErrorP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -7809,13 +7802,6 @@
             "printedName": "Encodable",
             "usr": "s:SE",
             "mangledName": "$sSE"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
           }
         ]
       },
@@ -12177,84 +12163,84 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 254,
+      "offset": 247,
       "length": 11,
       "value": "\"errorCode\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 289,
+      "offset": 282,
       "length": 9,
       "value": "\"message\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 530,
+      "offset": 523,
       "length": 17,
       "value": "\"INVALID_REQUEST\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 575,
+      "offset": 568,
       "length": 18,
       "value": "\"INVALID_RESPONSE\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 619,
+      "offset": 612,
       "length": 17,
       "value": "\"INVALID_API_KEY\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 665,
+      "offset": 658,
       "length": 20,
       "value": "\"INVALID_PAYMENT_ID\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 717,
+      "offset": 710,
       "length": 22,
       "value": "\"INITIALIZATION_ERROR\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 764,
+      "offset": 757,
       "length": 15,
       "value": "\"UNKNOWN_ERROR\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 807,
+      "offset": 800,
       "length": 18,
       "value": "\"PAYMENT_CANCELED\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 865,
+      "offset": 858,
       "length": 31,
       "value": "\"NAVIGATION_CONTROLLER_MISSING\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 936,
+      "offset": 929,
       "length": 32,
       "value": "\"APPLE_PAY_INITIALIZATION_ERROR\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 1001,
+      "offset": 994,
       "length": 25,
       "value": "\"APPLE_PAY_PAYMENT_ERROR\""
     },
