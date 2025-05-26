@@ -7396,6 +7396,48 @@
           {
             "kind": "Constructor",
             "name": "init",
+            "printedName": "init(message:errorCode:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PaymentError",
+                "printedName": "BarionSDK.PaymentError",
+                "usr": "s:9BarionSDK12PaymentErrorV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "PaymentErrorCode",
+                "printedName": "BarionSDK.PaymentErrorCode",
+                "usr": "s:9BarionSDK16PaymentErrorCodeO"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9BarionSDK12PaymentErrorV7message9errorCodeACSSSg_AA0cdG0Otcfc",
+            "mangledName": "$s9BarionSDK12PaymentErrorV7message9errorCodeACSSSg_AA0cdG0Otcfc",
+            "moduleName": "BarionSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
             "printedName": "init(from:)",
             "children": [
               {
@@ -8233,6 +8275,48 @@
           {
             "kind": "Constructor",
             "name": "init",
+            "printedName": "init(isSuccessful:fundingInformation:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "PaymentResult",
+                "printedName": "BarionSDK.PaymentResult",
+                "usr": "s:9BarionSDK13PaymentResultV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "BarionSDK.FundingInformation?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "FundingInformation",
+                    "printedName": "BarionSDK.FundingInformation",
+                    "usr": "s:9BarionSDK18FundingInformationV"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9BarionSDK13PaymentResultV12isSuccessful18fundingInformationACSb_AA07FundingH0VSgtcfc",
+            "mangledName": "$s9BarionSDK13PaymentResultV12isSuccessful18fundingInformationACSb_AA07FundingH0VSgtcfc",
+            "moduleName": "BarionSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
             "printedName": "init(from:)",
             "children": [
               {
@@ -8913,6 +8997,57 @@
                 "mangledName": "$ss8SendableP"
               }
             ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(authorizationCode:processResult:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "FundingInformation",
+                "printedName": "BarionSDK.FundingInformation",
+                "usr": "s:9BarionSDK18FundingInformationV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9BarionSDK18FundingInformationV17authorizationCode13processResultACSSSg_AFtcfc",
+            "mangledName": "$s9BarionSDK18FundingInformationV17authorizationCode13processResultACSSSg_AFtcfc",
+            "moduleName": "BarionSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
           },
           {
             "kind": "Constructor",
@@ -11461,84 +11596,84 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 382,
+      "offset": 530,
       "length": 17,
       "value": "\"INVALID_REQUEST\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 427,
+      "offset": 575,
       "length": 18,
       "value": "\"INVALID_RESPONSE\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 471,
+      "offset": 619,
       "length": 17,
       "value": "\"INVALID_API_KEY\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 517,
+      "offset": 665,
       "length": 20,
       "value": "\"INVALID_PAYMENT_ID\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 569,
+      "offset": 717,
       "length": 22,
       "value": "\"INITIALIZATION_ERROR\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 616,
+      "offset": 764,
       "length": 15,
       "value": "\"UNKNOWN_ERROR\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 659,
+      "offset": 807,
       "length": 18,
       "value": "\"PAYMENT_CANCELED\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 717,
+      "offset": 865,
       "length": 31,
       "value": "\"NAVIGATION_CONTROLLER_MISSING\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 788,
+      "offset": 936,
       "length": 32,
       "value": "\"APPLE_PAY_INITIALIZATION_ERROR\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
       "kind": "StringLiteral",
-      "offset": 853,
+      "offset": 1001,
       "length": 25,
       "value": "\"APPLE_PAY_PAYMENT_ERROR\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
       "kind": "StringLiteral",
-      "offset": 406,
+      "offset": 591,
       "length": 19,
       "value": "\"AuthorizationCode\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
       "kind": "StringLiteral",
-      "offset": 455,
+      "offset": 640,
       "length": 15,
       "value": "\"ProcessResult\""
     },

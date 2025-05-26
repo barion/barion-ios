@@ -94,15 +94,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		RTaF4yrMpCX4T08G8S83nNJHY0Y=
+		/PsjxixZtvj9AJ7GoKcwHmB59Ow=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		fVIsCedmmc0u3bqqrfyKkpk41xQ=
+		Vumej+KBBpuW3OaUmySQqH+pU88=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
-		3SD2psIQFGY7n4y71TxqnwLfFEc=
+		SMZA1qUWuNA0NcwdvKB7kGl0Zfs=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
 		<data>
@@ -110,11 +110,11 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftinterface</key>
 		<data>
-		3SD2psIQFGY7n4y71TxqnwLfFEc=
+		SMZA1qUWuNA0NcwdvKB7kGl0Zfs=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		I9xaQH2G/yecHUu0XLGu3lIgu1c=
+		ENS1cyaALtB7lQtHggrR9lxY4Sc=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -394,14 +394,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			+jtieFQMgOmWRevFQhIZzcATQWplRQVHSQ+1TpRtx+w=
+			0CagHncPsCzA9mEGWX4M5my/PMk6eMwtyjeS/5Rmkj0=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FhgJcb2jYrcYLlxH9Um/uqdj+ZF7uWbqn3Sq6vPklzs=
+			N50gHjFi+C4UssVEArjxVhHsrN9IRmFRBq3wlk4ctC0=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftdoc</key>
@@ -415,14 +415,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FhgJcb2jYrcYLlxH9Um/uqdj+ZF7uWbqn3Sq6vPklzs=
+			N50gHjFi+C4UssVEArjxVhHsrN9IRmFRBq3wlk4ctC0=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			cIinAm14rkyp9m6Ab25cAovKFJpLqv9TKpJocEwAH3I=
+			PZlalL4xmx6YllBy5mMe+0pgVFMEhM1oJaXmgkWFLW8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

@@ -117,6 +117,7 @@ public struct PaymentError : Swift.Error, Swift.Codable {
       get
     }
   }
+  public init(message: Swift.String? = nil, errorCode: BarionSDK.PaymentErrorCode)
   public func encode(to encoder: any Swift.Encoder) throws
   public init(from decoder: any Swift.Decoder) throws
 }
@@ -140,6 +141,7 @@ public enum PaymentErrorCode : Swift.String, Swift.Codable {
 public struct PaymentResult : Swift.Decodable {
   public var isSuccessful: Swift.Bool
   public var fundingInformation: BarionSDK.FundingInformation?
+  public init(isSuccessful: Swift.Bool, fundingInformation: BarionSDK.FundingInformation? = nil)
   public init(from decoder: any Swift.Decoder) throws
 }
 public struct FundingInformation : Swift.Decodable {
@@ -162,6 +164,7 @@ public struct FundingInformation : Swift.Decodable {
       get
     }
   }
+  public init(authorizationCode: Swift.String? = nil, processResult: Swift.String? = nil)
   public init(from decoder: any Swift.Decoder) throws
 }
 public protocol SDKClientEventListener {
