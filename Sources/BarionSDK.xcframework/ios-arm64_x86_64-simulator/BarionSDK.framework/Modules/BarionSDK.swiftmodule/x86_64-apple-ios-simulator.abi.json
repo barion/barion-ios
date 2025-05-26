@@ -8514,6 +8514,407 @@
             ]
           },
           {
+            "kind": "TypeDecl",
+            "name": "CodingKeys",
+            "printedName": "CodingKeys",
+            "children": [
+              {
+                "kind": "Var",
+                "name": "authorizationCode",
+                "printedName": "authorizationCode",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(BarionSDK.FundingInformation.CodingKeys.Type) -> BarionSDK.FundingInformation.CodingKeys",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CodingKeys",
+                        "printedName": "BarionSDK.FundingInformation.CodingKeys",
+                        "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "BarionSDK.FundingInformation.CodingKeys.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CodingKeys",
+                            "printedName": "BarionSDK.FundingInformation.CodingKeys",
+                            "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO17authorizationCodeyA2EmF",
+                "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO17authorizationCodeyA2EmF",
+                "moduleName": "BarionSDK"
+              },
+              {
+                "kind": "Var",
+                "name": "processResult",
+                "printedName": "processResult",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(BarionSDK.FundingInformation.CodingKeys.Type) -> BarionSDK.FundingInformation.CodingKeys",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CodingKeys",
+                        "printedName": "BarionSDK.FundingInformation.CodingKeys",
+                        "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Metatype",
+                        "printedName": "BarionSDK.FundingInformation.CodingKeys.Type",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "CodingKeys",
+                            "printedName": "BarionSDK.FundingInformation.CodingKeys",
+                            "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO"
+                          }
+                        ]
+                      }
+                    ]
+                  }
+                ],
+                "declKind": "EnumElement",
+                "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO13processResultyA2EmF",
+                "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO13processResultyA2EmF",
+                "moduleName": "BarionSDK"
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(rawValue:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "BarionSDK.FundingInformation.CodingKeys?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CodingKeys",
+                        "printedName": "BarionSDK.FundingInformation.CodingKeys",
+                        "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO8rawValueAESgSS_tcfc",
+                "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO8rawValueAESgSS_tcfc",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Var",
+                "name": "rawValue",
+                "printedName": "rawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO8rawValueSSvp",
+                "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO8rawValueSSvp",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO8rawValueSSvg",
+                    "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO8rawValueSSvg",
+                    "moduleName": "BarionSDK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Var",
+                "name": "stringValue",
+                "printedName": "stringValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO11stringValueSSvp",
+                "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO11stringValueSSvp",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO11stringValueSSvg",
+                    "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO11stringValueSSvg",
+                    "moduleName": "BarionSDK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(stringValue:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "BarionSDK.FundingInformation.CodingKeys?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CodingKeys",
+                        "printedName": "BarionSDK.FundingInformation.CodingKeys",
+                        "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO11stringValueAESgSS_tcfc",
+                "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO11stringValueAESgSS_tcfc",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "init_kind": "Designated"
+              },
+              {
+                "kind": "Var",
+                "name": "intValue",
+                "printedName": "intValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.Int?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Var",
+                "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO8intValueSiSgvp",
+                "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO8intValueSiSgvp",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessors": [
+                  {
+                    "kind": "Accessor",
+                    "name": "Get",
+                    "printedName": "Get()",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Optional",
+                        "printedName": "Swift.Int?",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "Int",
+                            "printedName": "Swift.Int",
+                            "usr": "s:Si"
+                          }
+                        ],
+                        "usr": "s:Sq"
+                      }
+                    ],
+                    "declKind": "Accessor",
+                    "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO8intValueSiSgvg",
+                    "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO8intValueSiSgvg",
+                    "moduleName": "BarionSDK",
+                    "implicit": true,
+                    "accessorKind": "get"
+                  }
+                ]
+              },
+              {
+                "kind": "Constructor",
+                "name": "init",
+                "printedName": "init(intValue:)",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "BarionSDK.FundingInformation.CodingKeys?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "CodingKeys",
+                        "printedName": "BarionSDK.FundingInformation.CodingKeys",
+                        "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Constructor",
+                "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO8intValueAESgSi_tcfc",
+                "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO8intValueAESgSi_tcfc",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "init_kind": "Designated"
+              }
+            ],
+            "declKind": "Enum",
+            "usr": "s:9BarionSDK18FundingInformationV10CodingKeysO",
+            "mangledName": "$s9BarionSDK18FundingInformationV10CodingKeysO",
+            "moduleName": "BarionSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "enumRawTypeName": "String",
+            "conformances": [
+              {
+                "kind": "Conformance",
+                "name": "Copyable",
+                "printedName": "Copyable",
+                "usr": "s:s8CopyableP",
+                "mangledName": "$ss8CopyableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Escapable",
+                "printedName": "Escapable",
+                "usr": "s:s9EscapableP",
+                "mangledName": "$ss9EscapableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Hashable",
+                "printedName": "Hashable",
+                "usr": "s:SH",
+                "mangledName": "$sSH"
+              },
+              {
+                "kind": "Conformance",
+                "name": "RawRepresentable",
+                "printedName": "RawRepresentable",
+                "children": [
+                  {
+                    "kind": "TypeWitness",
+                    "name": "RawValue",
+                    "printedName": "RawValue",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ]
+                  }
+                ],
+                "usr": "s:SY",
+                "mangledName": "$sSY"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CodingKey",
+                "printedName": "CodingKey",
+                "usr": "s:s9CodingKeyP",
+                "mangledName": "$ss9CodingKeyP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CustomDebugStringConvertible",
+                "printedName": "CustomDebugStringConvertible",
+                "usr": "s:s28CustomDebugStringConvertibleP",
+                "mangledName": "$ss28CustomDebugStringConvertibleP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "CustomStringConvertible",
+                "printedName": "CustomStringConvertible",
+                "usr": "s:s23CustomStringConvertibleP",
+                "mangledName": "$ss23CustomStringConvertibleP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Sendable",
+                "printedName": "Sendable",
+                "usr": "s:s8SendableP",
+                "mangledName": "$ss8SendableP"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
             "printedName": "init(from:)",
@@ -11130,14 +11531,14 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
       "kind": "StringLiteral",
-      "offset": 399,
+      "offset": 406,
       "length": 19,
       "value": "\"AuthorizationCode\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
       "kind": "StringLiteral",
-      "offset": 448,
+      "offset": 455,
       "length": 15,
       "value": "\"ProcessResult\""
     },

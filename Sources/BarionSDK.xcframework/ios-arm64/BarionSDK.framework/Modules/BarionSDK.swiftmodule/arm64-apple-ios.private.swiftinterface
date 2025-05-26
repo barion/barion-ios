@@ -145,6 +145,23 @@ public struct PaymentResult : Swift.Decodable {
 public struct FundingInformation : Swift.Decodable {
   public var authorizationCode: Swift.String?
   public var processResult: Swift.String?
+  public enum CodingKeys : Swift.String, Swift.CodingKey {
+    case authorizationCode
+    case processResult
+    public init?(rawValue: Swift.String)
+    public init?(stringValue: Swift.String)
+    public init?(intValue: Swift.Int)
+    public typealias RawValue = Swift.String
+    public var intValue: Swift.Int? {
+      get
+    }
+    public var rawValue: Swift.String {
+      get
+    }
+    public var stringValue: Swift.String {
+      get
+    }
+  }
   public init(from decoder: any Swift.Decoder) throws
 }
 public protocol SDKClientEventListener {
@@ -156,3 +173,6 @@ extension BarionSDK.PaymentError.CodingKeys : Swift.RawRepresentable {}
 extension BarionSDK.PaymentErrorCode : Swift.Equatable {}
 extension BarionSDK.PaymentErrorCode : Swift.Hashable {}
 extension BarionSDK.PaymentErrorCode : Swift.RawRepresentable {}
+extension BarionSDK.FundingInformation.CodingKeys : Swift.Equatable {}
+extension BarionSDK.FundingInformation.CodingKeys : Swift.Hashable {}
+extension BarionSDK.FundingInformation.CodingKeys : Swift.RawRepresentable {}
