@@ -1356,6 +1356,300 @@
       },
       {
         "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ipworks3ds_sdk",
+        "printedName": "ipworks3ds_sdk",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ipworks3ds_sdk",
+        "printedName": "ipworks3ds_sdk",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ipworks3ds_sdk",
+        "printedName": "ipworks3ds_sdk",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -1442,7 +1736,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(Swift.Result<BarionSDK.PaymentResult, BarionSDK.PaymentError>) -> ()",
+                "printedName": "(BarionSDK.PluginResult) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -1451,30 +1745,16 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "Result",
-                    "printedName": "Swift.Result<BarionSDK.PaymentResult, BarionSDK.PaymentError>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "PaymentResult",
-                        "printedName": "BarionSDK.PaymentResult",
-                        "usr": "s:9BarionSDK13PaymentResultV"
-                      },
-                      {
-                        "kind": "TypeNominal",
-                        "name": "PaymentError",
-                        "printedName": "BarionSDK.PaymentError",
-                        "usr": "s:9BarionSDK12PaymentErrorV"
-                      }
-                    ],
-                    "usr": "s:s6ResultO"
+                    "name": "PluginResult",
+                    "printedName": "BarionSDK.PluginResult",
+                    "usr": "s:9BarionSDK12PluginResultO"
                   }
                 ]
               }
             ],
             "declKind": "Func",
-            "usr": "s:9BarionSDK0A13GatewayPluginC7present4from14paymentOptions10completionySo16UIViewControllerC_AA0acdH0VSgys6ResultOyAA07PaymentL0VAA0M5ErrorVGctF",
-            "mangledName": "$s9BarionSDK0A13GatewayPluginC7present4from14paymentOptions10completionySo16UIViewControllerC_AA0acdH0VSgys6ResultOyAA07PaymentL0VAA0M5ErrorVGctF",
+            "usr": "s:9BarionSDK0A13GatewayPluginC7present4from14paymentOptions10completionySo16UIViewControllerC_AA0acdH0VSgyAA0D6ResultOctF",
+            "mangledName": "$s9BarionSDK0A13GatewayPluginC7present4from14paymentOptions10completionySo16UIViewControllerC_AA0acdH0VSgyAA0D6ResultOctF",
             "moduleName": "BarionSDK",
             "declAttributes": [
               "Final",
@@ -9119,6 +9399,146 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "PluginResult",
+        "printedName": "PluginResult",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "success",
+            "printedName": "success",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BarionSDK.PluginResult.Type) -> (BarionSDK.PaymentResult) -> BarionSDK.PluginResult",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(BarionSDK.PaymentResult) -> BarionSDK.PluginResult",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PluginResult",
+                        "printedName": "BarionSDK.PluginResult",
+                        "usr": "s:9BarionSDK12PluginResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PaymentResult",
+                        "printedName": "BarionSDK.PaymentResult",
+                        "usr": "s:9BarionSDK13PaymentResultV"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BarionSDK.PluginResult.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PluginResult",
+                        "printedName": "BarionSDK.PluginResult",
+                        "usr": "s:9BarionSDK12PluginResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9BarionSDK12PluginResultO7successyAcA07PaymentD0VcACmF",
+            "mangledName": "$s9BarionSDK12PluginResultO7successyAcA07PaymentD0VcACmF",
+            "moduleName": "BarionSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "failure",
+            "printedName": "failure",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BarionSDK.PluginResult.Type) -> (BarionSDK.PaymentError) -> BarionSDK.PluginResult",
+                "children": [
+                  {
+                    "kind": "TypeFunc",
+                    "name": "Function",
+                    "printedName": "(BarionSDK.PaymentError) -> BarionSDK.PluginResult",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PluginResult",
+                        "printedName": "BarionSDK.PluginResult",
+                        "usr": "s:9BarionSDK12PluginResultO"
+                      },
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PaymentError",
+                        "printedName": "BarionSDK.PaymentError",
+                        "usr": "s:9BarionSDK12PaymentErrorV"
+                      }
+                    ]
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BarionSDK.PluginResult.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "PluginResult",
+                        "printedName": "BarionSDK.PluginResult",
+                        "usr": "s:9BarionSDK12PluginResultO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9BarionSDK12PluginResultO7failureyAcA12PaymentErrorVcACmF",
+            "mangledName": "$s9BarionSDK12PluginResultO7failureyAcA12PaymentErrorVcACmF",
+            "moduleName": "BarionSDK"
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9BarionSDK12PluginResultO",
+        "mangledName": "$s9BarionSDK12PluginResultO",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "SDKClientEventListener",
         "printedName": "SDKClientEventListener",
         "children": [
@@ -9172,300 +9592,6 @@
             "usr": "s:s8CopyableP",
             "mangledName": "$ss8CopyableP"
           }
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ipworks3ds_sdk",
-        "printedName": "ipworks3ds_sdk",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ipworks3ds_sdk",
-        "printedName": "ipworks3ds_sdk",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ipworks3ds_sdk",
-        "printedName": "ipworks3ds_sdk",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
         ]
       },
       {
@@ -10441,7 +10567,7 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1196,
+      "offset": 1173,
       "length": 5,
       "value": "false"
     },
@@ -11573,111 +11699,6 @@
       "value": "\"ios\""
     },
     {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1314,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 254,
-      "length": 11,
-      "value": "\"errorCode\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 289,
-      "length": 9,
-      "value": "\"message\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 530,
-      "length": 17,
-      "value": "\"INVALID_REQUEST\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 575,
-      "length": 18,
-      "value": "\"INVALID_RESPONSE\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 619,
-      "length": 17,
-      "value": "\"INVALID_API_KEY\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 665,
-      "length": 20,
-      "value": "\"INVALID_PAYMENT_ID\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 717,
-      "length": 22,
-      "value": "\"INITIALIZATION_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 764,
-      "length": 15,
-      "value": "\"UNKNOWN_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 807,
-      "length": 18,
-      "value": "\"PAYMENT_CANCELED\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 865,
-      "length": 31,
-      "value": "\"NAVIGATION_CONTROLLER_MISSING\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 936,
-      "length": 32,
-      "value": "\"APPLE_PAY_INITIALIZATION_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 1001,
-      "length": 25,
-      "value": "\"APPLE_PAY_PAYMENT_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
-      "kind": "StringLiteral",
-      "offset": 591,
-      "length": 19,
-      "value": "\"AuthorizationCode\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
-      "kind": "StringLiteral",
-      "offset": 640,
-      "length": 15,
-      "value": "\"ProcessResult\""
-    },
-    {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
       "kind": "StringLiteral",
       "offset": 183,
@@ -12145,6 +12166,111 @@
       "offset": 350,
       "length": 16,
       "value": "\"BarionCardScan\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1314,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 254,
+      "length": 11,
+      "value": "\"errorCode\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 289,
+      "length": 9,
+      "value": "\"message\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 530,
+      "length": 17,
+      "value": "\"INVALID_REQUEST\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 575,
+      "length": 18,
+      "value": "\"INVALID_RESPONSE\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 619,
+      "length": 17,
+      "value": "\"INVALID_API_KEY\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 665,
+      "length": 20,
+      "value": "\"INVALID_PAYMENT_ID\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 717,
+      "length": 22,
+      "value": "\"INITIALIZATION_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 764,
+      "length": 15,
+      "value": "\"UNKNOWN_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 807,
+      "length": 18,
+      "value": "\"PAYMENT_CANCELED\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 865,
+      "length": 31,
+      "value": "\"NAVIGATION_CONTROLLER_MISSING\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 936,
+      "length": 32,
+      "value": "\"APPLE_PAY_INITIALIZATION_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 1001,
+      "length": 25,
+      "value": "\"APPLE_PAY_PAYMENT_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 591,
+      "length": 19,
+      "value": "\"AuthorizationCode\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 640,
+      "length": 15,
+      "value": "\"ProcessResult\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/FadeInAnimation.swift",

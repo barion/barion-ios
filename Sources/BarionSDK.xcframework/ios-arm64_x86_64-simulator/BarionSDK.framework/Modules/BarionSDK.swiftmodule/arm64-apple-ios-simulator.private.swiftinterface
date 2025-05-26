@@ -26,7 +26,7 @@ import os.log
 import os
 final public class BarionGatewayPlugin {
   public init(paymentClientSecret: Swift.String, configuration: BarionSDK.BarionGatewayPluginConfiguration? = nil) async
-  @_Concurrency.MainActor final public func present(from rootViewController: UIKit.UIViewController, paymentOptions: BarionSDK.BarionGatewayPluginOptions? = nil, completion: @escaping ((Swift.Result<BarionSDK.PaymentResult, BarionSDK.PaymentError>) -> Swift.Void))
+  @_Concurrency.MainActor final public func present(from rootViewController: UIKit.UIViewController, paymentOptions: BarionSDK.BarionGatewayPluginOptions? = nil, completion: @escaping ((BarionSDK.PluginResult) -> Swift.Void))
   @objc deinit
 }
 public struct BarionGatewayPluginConfiguration {
@@ -166,6 +166,10 @@ public struct FundingInformation : Swift.Decodable {
   }
   public init(authorizationCode: Swift.String? = nil, processResult: Swift.String? = nil)
   public init(from decoder: any Swift.Decoder) throws
+}
+public enum PluginResult {
+  case success(BarionSDK.PaymentResult)
+  case failure(BarionSDK.PaymentError)
 }
 public protocol SDKClientEventListener {
   func onEvent(_ event: Swift.String)
