@@ -26,7 +26,7 @@ import os.log
 import os
 final public class BarionGatewayPlugin {
   public init(paymentClientSecret: Swift.String, configuration: BarionSDK.BarionGatewayPluginConfiguration? = nil) async
-  @_Concurrency.MainActor final public func present(from rootViewController: UIKit.UIViewController, paymentOptions: BarionSDK.BarionGatewayPluginOptions? = nil, completion: @escaping ((BarionSDK.PluginResult) -> Swift.Void))
+  @_Concurrency.MainActor final public func present(from rootViewController: UIKit.UIViewController, paymentOptions: BarionSDK.BarionGatewayPluginOptions? = nil, onSuccess: @escaping (BarionSDK.PaymentResult) -> Swift.Void, onFailure: @escaping (BarionSDK.PaymentError) -> Swift.Void)
   @objc deinit
 }
 public struct BarionGatewayPluginConfiguration {

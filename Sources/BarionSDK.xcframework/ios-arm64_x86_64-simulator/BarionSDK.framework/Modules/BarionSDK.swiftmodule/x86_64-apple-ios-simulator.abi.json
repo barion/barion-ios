@@ -1705,7 +1705,7 @@
           {
             "kind": "Function",
             "name": "present",
-            "printedName": "present(from:paymentOptions:completion:)",
+            "printedName": "present(from:paymentOptions:onSuccess:onFailure:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -1736,7 +1736,7 @@
               {
                 "kind": "TypeFunc",
                 "name": "Function",
-                "printedName": "(BarionSDK.PluginResult) -> ()",
+                "printedName": "(BarionSDK.PaymentResult) -> ()",
                 "children": [
                   {
                     "kind": "TypeNominal",
@@ -1745,16 +1745,34 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "PluginResult",
-                    "printedName": "BarionSDK.PluginResult",
-                    "usr": "s:9BarionSDK12PluginResultO"
+                    "name": "PaymentResult",
+                    "printedName": "BarionSDK.PaymentResult",
+                    "usr": "s:9BarionSDK13PaymentResultV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BarionSDK.PaymentError) -> ()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "PaymentError",
+                    "printedName": "BarionSDK.PaymentError",
+                    "usr": "s:9BarionSDK12PaymentErrorV"
                   }
                 ]
               }
             ],
             "declKind": "Func",
-            "usr": "s:9BarionSDK0A13GatewayPluginC7present4from14paymentOptions10completionySo16UIViewControllerC_AA0acdH0VSgyAA0D6ResultOctF",
-            "mangledName": "$s9BarionSDK0A13GatewayPluginC7present4from14paymentOptions10completionySo16UIViewControllerC_AA0acdH0VSgyAA0D6ResultOctF",
+            "usr": "s:9BarionSDK0A13GatewayPluginC7present4from14paymentOptions9onSuccess0I7FailureySo16UIViewControllerC_AA0acdH0VSgyAA13PaymentResultVcyAA0N5ErrorVctF",
+            "mangledName": "$s9BarionSDK0A13GatewayPluginC7present4from14paymentOptions9onSuccess0I7FailureySo16UIViewControllerC_AA0acdH0VSgyAA13PaymentResultVcyAA0N5ErrorVctF",
             "moduleName": "BarionSDK",
             "declAttributes": [
               "Final",
@@ -9964,7 +9982,7 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1173,
+      "offset": 1239,
       "length": 5,
       "value": "false"
     },

@@ -94,15 +94,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		mFL7gxCUbtB9rBVbuprZzuN9+Lo=
+		X41Yzgyf9HtpgmputNoWdAtJJAk=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		CpyfiVIRi+l/jcYxjEMEkvATsYo=
+		BN8VaiseycwSJNHxDbzhuh1t3ZA=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		Dc0LrkKOiFtAiwIJajMEARxefkE=
+		wC2j0WH8XFXaDSxaitT7weVOEWM=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -110,19 +110,19 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		Dc0LrkKOiFtAiwIJajMEARxefkE=
+		wC2j0WH8XFXaDSxaitT7weVOEWM=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ZDLgE8EFm6B0IYMXay2r+8nprGY=
+		178eCeJbwqvHDQlFsYFu1OIwjZU=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		CpyfiVIRi+l/jcYxjEMEkvATsYo=
+		BN8VaiseycwSJNHxDbzhuh1t3ZA=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		28saNfaQC46HN6v0xZCGFPtAOYE=
+		m+hhHTHT/tp1D2eX5qsLGJBZ5Sg=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -130,11 +130,11 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		28saNfaQC46HN6v0xZCGFPtAOYE=
+		m+hhHTHT/tp1D2eX5qsLGJBZ5Sg=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		7734zmumzDWrDiO3cYwiplo0tSk=
+		0XjR2TunJ3lryPo0zhZK2lJhMK4=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -414,14 +414,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FSJZ1Fbea42zxqelia12Jq1ocgUdS7ciAg+0EMmv8ig=
+			aSdZqe82w5yb4fQ8HFWOZzUOiReHcfiwsO7eVRVLWI8=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			nYhvbFDA1Tx4xhJEL5affMmmO+w2c0OBk12u0CvPvIU=
+			cko1OOrgaL8Qt0hKfjBzegG3BSlKGBxqe4doKfhhyFY=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -435,28 +435,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			nYhvbFDA1Tx4xhJEL5affMmmO+w2c0OBk12u0CvPvIU=
+			cko1OOrgaL8Qt0hKfjBzegG3BSlKGBxqe4doKfhhyFY=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			xMsHQBOlYFZH3DrUjNTrTOIvP8fCXS8jn1UY3AsGyjo=
+			d8Qhj4d5Z3tnfXSs5yGXfXJVxmXTxDHPM1/4K3LGO9g=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FSJZ1Fbea42zxqelia12Jq1ocgUdS7ciAg+0EMmv8ig=
+			aSdZqe82w5yb4fQ8HFWOZzUOiReHcfiwsO7eVRVLWI8=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			LtlW2O0DAxIQ0XVikB5cp/BNhXokwMe5+ZTqJFfQjn0=
+			fFdCwfVQoE7BlpypIXYQucXo1L0RagGAp+ZhD7FG+Ls=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -470,14 +470,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			LtlW2O0DAxIQ0XVikB5cp/BNhXokwMe5+ZTqJFfQjn0=
+			fFdCwfVQoE7BlpypIXYQucXo1L0RagGAp+ZhD7FG+Ls=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2IXRST2VUVC2gBvT5C8D7Fy9bRkQ+kdcbKaf/C/Gry4=
+			9QbEqvm/vSMP4KyAAQtRSgARlDKjCzVjFylCwsF3va8=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
