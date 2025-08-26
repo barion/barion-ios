@@ -36,16 +36,16 @@ let barionGatewayPlugin = await BarionGatewayPlugin(paymentClientSecret: clientS
 Call the `present` function of the `BarionGatewayPlugin` instance to present the inline gateway in your app, which will asynchronously return with the result of the payment attempt. You MUST validate the result on your backend as well
 
 ```swift
-barionGatewayPlugin.present(from: self){ result in
-    switch result {
-    case .success(let paymentResult):
-        // TODO handle successful payment result and validate it on your backend
-        print("success")
-    case .failure(let paymentError):
-        // TODO handle the error
-        print("error")
-    }
-}
+barionGatewayPlugin.present(
+        from: rootVC,
+        paymentOptions: paymentOptions,
+        onSuccess: { result in
+            print("Payment result: \(result)")
+        },
+        onFailure: { result in
+            print("Payment result: \(result)")
+        }
+    )
 ```
 
 The `paymentResult` will contain the funding source of the last payment attempt (even if it was unsuccessful).
@@ -106,20 +106,21 @@ let renderOptions = RenderOptions(font: UIFont(name: "Noteworthy", size: 15),
                                   colors: colors, 
                                   primaryButton: primaryButton,
                                   paymentMethodOrder: ["bankCard", "applePay"], 
-                                  hidePoweredByLabel: false)
+                                  hidePoweredByLabel: false,
+                                  appearance: .automatic)
 
 let barionGatewayPluginOptions = BarionGatewayPluginOptions(renderOptions: renderOptions, locale: "en_US")
 
-barionGatewayPlugin.present(from: self, paymentOptions: barionGatewayPluginOptions){ result in
-    switch result {
-    case .success(let paymentResult):
-        // TODO handle successful payment result and validate it on your backend
-        print("success")
-    case .failure(let paymentError):
-        // TODO handle the error
-        print("error")
-    }
-}
+barionGatewayPlugin.present(from: self, paymentOptions: barionGatewayPluginOptions,
+        onSuccess: { result in
+            // TODO handle successful payment result and validate it on your backend
+            print("success")
+        },
+        onFailure: { result in
+            // TODO handle the error
+            print("error")
+        }
+)
 ```
 
 :warning: _The font family of the fonts is used throughout the SDK. The SDK uses this font at multiple weights (e.g., regular, medium, semibold) if they exist._
