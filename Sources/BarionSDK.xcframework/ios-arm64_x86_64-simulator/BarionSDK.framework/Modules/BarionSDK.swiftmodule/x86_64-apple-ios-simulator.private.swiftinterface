@@ -10,6 +10,7 @@ import CommonCrypto
 import CoreGraphics
 import CoreML
 import CoreTelephony
+import CoreText
 import CryptoKit
 import DeveloperToolsSupport
 import Foundation
@@ -49,13 +50,24 @@ public struct Method {
   public var subtitle: Swift.String?
   public init(methodType: Swift.String?, token: Swift.String, title: Swift.String, subtitle: Swift.String? = nil)
 }
+public enum BarionSDKAppearance : Swift.String {
+  case automatic
+  case light
+  case dark
+  public init?(rawValue: Swift.String)
+  public typealias RawValue = Swift.String
+  public var rawValue: Swift.String {
+    get
+  }
+}
 public struct RenderOptions {
   public var font: UIKit.UIFont?
   public var colors: BarionSDK.Colors?
   public var primaryButton: BarionSDK.PrimaryButton?
   public var paymentMethodOrder: [Swift.String]?
   public var hidePoweredByLabel: Swift.Bool
-  public init(font: UIKit.UIFont? = nil, colors: BarionSDK.Colors? = nil, primaryButton: BarionSDK.PrimaryButton? = nil, paymentMethodOrder: [Swift.String]? = nil, hidePoweredByLabel: Swift.Bool? = nil)
+  public var appearance: BarionSDK.BarionSDKAppearance
+  public init(font: UIKit.UIFont? = nil, colors: BarionSDK.Colors? = nil, primaryButton: BarionSDK.PrimaryButton? = nil, paymentMethodOrder: [Swift.String]? = nil, hidePoweredByLabel: Swift.Bool? = nil, appearance: BarionSDK.BarionSDKAppearance = .automatic)
 }
 public struct PrimaryButton {
   public var titleColor: UIKit.UIColor?
@@ -154,6 +166,13 @@ public enum PluginResult {
 public protocol SDKClientEventListener {
   func onEvent(_ event: Swift.String)
 }
+@_hasMissingDesignatedInitializers final public class BRFontLoader {
+  public static func registerFonts()
+  @objc deinit
+}
+extension BarionSDK.BarionSDKAppearance : Swift.Equatable {}
+extension BarionSDK.BarionSDKAppearance : Swift.Hashable {}
+extension BarionSDK.BarionSDKAppearance : Swift.RawRepresentable {}
 extension BarionSDK.PaymentErrorCode : Swift.Equatable {}
 extension BarionSDK.PaymentErrorCode : Swift.Hashable {}
 extension BarionSDK.PaymentErrorCode : Swift.RawRepresentable {}

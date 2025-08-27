@@ -56,149 +56,10 @@
       },
       {
         "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "PassKit",
-        "printedName": "PassKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "PassKit",
-        "printedName": "PassKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "PassKit",
-        "printedName": "PassKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -334,121 +195,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CryptoKit",
-        "printedName": "CryptoKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CommonCrypto",
-        "printedName": "CommonCrypto",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
       },
       {
         "kind": "Import",
@@ -770,6 +516,37 @@
       },
       {
         "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -782,37 +559,6 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
         "declKind": "Import",
         "moduleName": "BarionSDK"
       },
@@ -1060,583 +806,6 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "AVKit",
-        "printedName": "AVKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Vision",
-        "printedName": "Vision",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "AVKit",
-        "printedName": "AVKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "VideoToolbox",
-        "printedName": "VideoToolbox",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreTelephony",
-        "printedName": "CoreTelephony",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ipworks3ds_sdk",
-        "printedName": "ipworks3ds_sdk",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ipworks3ds_sdk",
-        "printedName": "ipworks3ds_sdk",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ipworks3ds_sdk",
-        "printedName": "ipworks3ds_sdk",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ipworks3ds_sdk",
-        "printedName": "ipworks3ds_sdk",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -3018,6 +2187,256 @@
       },
       {
         "kind": "TypeDecl",
+        "name": "BarionSDKAppearance",
+        "printedName": "BarionSDKAppearance",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "automatic",
+            "printedName": "automatic",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BarionSDK.BarionSDKAppearance.Type) -> BarionSDK.BarionSDKAppearance",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BarionSDKAppearance",
+                    "printedName": "BarionSDK.BarionSDKAppearance",
+                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BarionSDK.BarionSDKAppearance.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BarionSDKAppearance",
+                        "printedName": "BarionSDK.BarionSDKAppearance",
+                        "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9BarionSDK0A13SDKAppearanceO9automaticyA2CmF",
+            "mangledName": "$s9BarionSDK0A13SDKAppearanceO9automaticyA2CmF",
+            "moduleName": "BarionSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "light",
+            "printedName": "light",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BarionSDK.BarionSDKAppearance.Type) -> BarionSDK.BarionSDKAppearance",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BarionSDKAppearance",
+                    "printedName": "BarionSDK.BarionSDKAppearance",
+                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BarionSDK.BarionSDKAppearance.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BarionSDKAppearance",
+                        "printedName": "BarionSDK.BarionSDKAppearance",
+                        "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9BarionSDK0A13SDKAppearanceO5lightyA2CmF",
+            "mangledName": "$s9BarionSDK0A13SDKAppearanceO5lightyA2CmF",
+            "moduleName": "BarionSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "dark",
+            "printedName": "dark",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BarionSDK.BarionSDKAppearance.Type) -> BarionSDK.BarionSDKAppearance",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BarionSDKAppearance",
+                    "printedName": "BarionSDK.BarionSDKAppearance",
+                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BarionSDK.BarionSDKAppearance.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "BarionSDKAppearance",
+                        "printedName": "BarionSDK.BarionSDKAppearance",
+                        "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9BarionSDK0A13SDKAppearanceO4darkyA2CmF",
+            "mangledName": "$s9BarionSDK0A13SDKAppearanceO4darkyA2CmF",
+            "moduleName": "BarionSDK"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "BarionSDK.BarionSDKAppearance?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BarionSDKAppearance",
+                    "printedName": "BarionSDK.BarionSDKAppearance",
+                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9BarionSDK0A13SDKAppearanceO8rawValueACSgSS_tcfc",
+            "mangledName": "$s9BarionSDK0A13SDKAppearanceO8rawValueACSgSS_tcfc",
+            "moduleName": "BarionSDK",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9BarionSDK0A13SDKAppearanceO8rawValueSSvp",
+            "mangledName": "$s9BarionSDK0A13SDKAppearanceO8rawValueSSvp",
+            "moduleName": "BarionSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK0A13SDKAppearanceO8rawValueSSvg",
+                "mangledName": "$s9BarionSDK0A13SDKAppearanceO8rawValueSSvg",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9BarionSDK0A13SDKAppearanceO",
+        "mangledName": "$s9BarionSDK0A13SDKAppearanceO",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "String",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
         "name": "RenderOptions",
         "printedName": "RenderOptions",
         "children": [
@@ -3572,9 +2991,95 @@
             ]
           },
           {
+            "kind": "Var",
+            "name": "appearance",
+            "printedName": "appearance",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "BarionSDKAppearance",
+                "printedName": "BarionSDK.BarionSDKAppearance",
+                "usr": "s:9BarionSDK0A13SDKAppearanceO"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvp",
+            "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvp",
+            "moduleName": "BarionSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BarionSDKAppearance",
+                    "printedName": "BarionSDK.BarionSDKAppearance",
+                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvg",
+                "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvg",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BarionSDKAppearance",
+                    "printedName": "BarionSDK.BarionSDKAppearance",
+                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvs",
+                "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvs",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvM",
+                "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvM",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(font:colors:primaryButton:paymentMethodOrder:hidePoweredByLabel:)",
+            "printedName": "init(font:colors:primaryButton:paymentMethodOrder:hidePoweredByLabel:appearance:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3664,11 +3169,18 @@
                 ],
                 "hasDefaultArg": true,
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BarionSDKAppearance",
+                "printedName": "BarionSDK.BarionSDKAppearance",
+                "hasDefaultArg": true,
+                "usr": "s:9BarionSDK0A13SDKAppearanceO"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:9BarionSDK13RenderOptionsV4font6colors13primaryButton18paymentMethodOrder18hidePoweredByLabelACSo6UIFontCSg_AA6ColorsVSgAA07PrimaryH0VSgSaySSGSgSbSgtcfc",
-            "mangledName": "$s9BarionSDK13RenderOptionsV4font6colors13primaryButton18paymentMethodOrder18hidePoweredByLabelACSo6UIFontCSg_AA6ColorsVSgAA07PrimaryH0VSgSaySSGSgSbSgtcfc",
+            "usr": "s:9BarionSDK13RenderOptionsV4font6colors13primaryButton18paymentMethodOrder18hidePoweredByLabel10appearanceACSo6UIFontCSg_AA6ColorsVSgAA07PrimaryH0VSgSaySSGSgSbSgAA0A13SDKAppearanceOtcfc",
+            "mangledName": "$s9BarionSDK13RenderOptionsV4font6colors13primaryButton18paymentMethodOrder18hidePoweredByLabel10appearanceACSo6UIFontCSg_AA6ColorsVSgAA07PrimaryH0VSgSaySSGSgSbSgAA0A13SDKAppearanceOtcfc",
             "moduleName": "BarionSDK",
             "declAttributes": [
               "AccessControl"
@@ -9011,6 +8523,410 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "VideoToolbox",
+        "printedName": "VideoToolbox",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "AVKit",
         "printedName": "AVKit",
         "declKind": "Import",
@@ -9163,6 +9079,118 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreText",
+        "printedName": "CoreText",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BRFontLoader",
+        "printedName": "BRFontLoader",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "registerFonts",
+            "printedName": "registerFonts()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9BarionSDK12BRFontLoaderC13registerFontsyyFZ",
+            "mangledName": "$s9BarionSDK12BRFontLoaderC13registerFontsyyFZ",
+            "moduleName": "BarionSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9BarionSDK12BRFontLoaderC",
+        "mangledName": "$s9BarionSDK12BRFontLoaderC",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "Final",
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -9195,6 +9223,426 @@
         "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CryptoKit",
+        "printedName": "CryptoKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CommonCrypto",
+        "printedName": "CommonCrypto",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PassKit",
+        "printedName": "PassKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ipworks3ds_sdk",
+        "printedName": "ipworks3ds_sdk",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ipworks3ds_sdk",
+        "printedName": "ipworks3ds_sdk",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ipworks3ds_sdk",
+        "printedName": "ipworks3ds_sdk",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ipworks3ds_sdk",
+        "printedName": "ipworks3ds_sdk",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "PassKit",
+        "printedName": "PassKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "PassKit",
+        "printedName": "PassKit",
         "declKind": "Import",
         "moduleName": "BarionSDK"
       },
@@ -9285,370 +9733,6 @@
       "offset": 714,
       "length": 13,
       "value": "\"Description\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 555,
-      "length": 16,
-      "value": "\"PaymentMethods\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 600,
-      "length": 10,
-      "value": "\"Merchant\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 640,
-      "length": 11,
-      "value": "\"PaymentId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 677,
-      "length": 7,
-      "value": "\"Total\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 715,
-      "length": 12,
-      "value": "\"PayerEmail\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 757,
-      "length": 11,
-      "value": "\"PayerName\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 821,
-      "length": 33,
-      "value": "\"FundingSourceInfoToRecurrenceId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 881,
-      "length": 8,
-      "value": "\"Errors\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 4601,
-      "length": 14,
-      "value": "\"RecurrenceId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 4645,
-      "length": 15,
-      "value": "\"FundingSource\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 4685,
-      "length": 10,
-      "value": "\"CardInfo\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 4718,
-      "length": 8,
-      "value": "\"Status\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 5003,
-      "length": 12,
-      "value": "\"CardScheme\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 5035,
-      "length": 5,
-      "value": "\"Bin\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 5071,
-      "length": 16,
-      "value": "\"LastFourDigits\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 5110,
-      "length": 8,
-      "value": "\"Expiry\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 5146,
-      "length": 13,
-      "value": "\"ThreeDsInfo\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 5361,
-      "length": 9,
-      "value": "\"Version\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 5404,
-      "length": 19,
-      "value": "\"IsFallbackVersion\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 5601,
-      "length": 4,
-      "value": "\"Ok\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 5626,
-      "length": 10,
-      "value": "\"NotFound\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 5838,
-      "length": 14,
-      "value": "\"MerchantName\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 5884,
-      "length": 17,
-      "value": "\"MerchantCountry\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 6108,
-      "length": 7,
-      "value": "\"Value\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 6140,
-      "length": 10,
-      "value": "\"Currency\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 6365,
-      "length": 8,
-      "value": "\"Method\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 7132,
-      "length": 10,
-      "value": "\"ApplePay\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 7159,
-      "length": 10,
-      "value": "\"BankCard\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 7194,
-      "length": 14,
-      "value": "\"BarionWallet\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 7224,
-      "length": 5,
-      "value": "\"Cof\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 7249,
-      "length": 9,
-      "value": "\"NewCard\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 7505,
-      "length": 17,
-      "value": "\"MerchantAppleId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 7554,
-      "length": 17,
-      "value": "\"MerchantCountry\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 7769,
-      "length": 12,
-      "value": "\"SavedCards\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 7987,
-      "length": 7,
-      "value": "\"Token\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 8016,
-      "length": 7,
-      "value": "\"Title\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 8357,
-      "length": 7,
-      "value": "\"Token\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 8386,
-      "length": 7,
-      "value": "\"Title\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 8795,
-      "length": 4,
-      "value": "\"Id\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 8832,
-      "length": 18,
-      "value": "\"MaskedCardNumber\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 8873,
-      "length": 8,
-      "value": "\"Scheme\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 8909,
-      "length": 13,
-      "value": "\"ExpiryMonth\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 8949,
-      "length": 12,
-      "value": "\"ExpiryYear\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 8985,
-      "length": 9,
-      "value": "\"CardArt\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 9118,
-      "length": 10,
-      "value": "\"BankCard\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 9149,
-      "length": 10,
-      "value": "\"ApplePay\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
-      "kind": "StringLiteral",
-      "offset": 9181,
-      "length": 11,
-      "value": "\"GooglePay\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPayWithApplePayResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 384,
-      "length": 8,
-      "value": "\"Errors\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPayWithApplePayResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 421,
-      "length": 14,
-      "value": "\"IsSuccessful\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPayWithApplePayResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 461,
-      "length": 11,
-      "value": "\"PaymentId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPayWithApplePayResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 502,
-      "length": 15,
-      "value": "\"PaymentStatus\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Processing\/UI\/BRProcessingPaymentViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 387,
-      "length": 5,
-      "value": "false"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Extensions\/BRStringExtensions.swift",
@@ -9744,7 +9828,21 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BRCurrency.swift",
       "kind": "StringLiteral",
-      "offset": 231,
+      "offset": 227,
+      "length": 5,
+      "value": "\"PLN\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BRCurrency.swift",
+      "kind": "StringLiteral",
+      "offset": 248,
+      "length": 5,
+      "value": "\"RON\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BRCurrency.swift",
+      "kind": "StringLiteral",
+      "offset": 273,
       "length": 2,
       "value": "\"\""
     },
@@ -9887,223 +9985,6 @@
       "offset": 1364,
       "length": 20,
       "value": "\"\/v5\/payment\/config\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 163,
-      "length": 6,
-      "value": "\"test\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 186,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 205,
-      "length": 6,
-      "value": "\"demo\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 227,
-      "length": 5,
-      "value": "\"dev\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 249,
-      "length": 6,
-      "value": "\"hera\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 272,
-      "length": 6,
-      "value": "\"thor\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 295,
-      "length": 6,
-      "value": "\"zeus\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 318,
-      "length": 6,
-      "value": "\"odin\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 341,
-      "length": 6,
-      "value": "\"loki\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
-      "kind": "StringLiteral",
-      "offset": 367,
-      "length": 9,
-      "value": "\"sandbox\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 3995,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRBaseViewController.swift",
-      "kind": "StringLiteral",
-      "offset": 4023,
-      "length": 28,
-      "value": "\"Oops! Something went wrong\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
-      "kind": "StringLiteral",
-      "offset": 596,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
-      "kind": "Array",
-      "offset": 1004,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1239,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRBaseUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 1159,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRLocalizationManager.swift",
-      "kind": "StringLiteral",
-      "offset": 296,
-      "length": 16,
-      "value": "\"selectedLocale\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 134,
-      "length": 12,
-      "value": "\"LogLevel=1\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 178,
-      "length": 12,
-      "value": "\"LogLevel=3\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 227,
-      "length": 21,
-      "value": "\"MaskSensitive=false\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 280,
-      "length": 20,
-      "value": "\"MaskSensitive=true\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 329,
-      "length": 130,
-      "value": "\"5453433244414E58524635464B4635303136000000000000000000000000000000000000000000003030303030303030000038584438303132594A344E520000\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 486,
-      "length": 31,
-      "value": "\"com.sensenet.barion.BarionSDK\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 567,
-      "length": 32,
-      "value": "\"ShowWhiteBoxInProcessingScreen\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 653,
-      "length": 6,
-      "value": "\"true\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 702,
-      "length": 26,
-      "value": "\"FireChallengeStatusFirst\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 776,
-      "length": 6,
-      "value": "\"true\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 822,
-      "length": 25,
-      "value": "\"navigation_header_title\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 899,
-      "length": 39,
-      "value": "\"navigation_header_cancel_button_title\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 974,
-      "length": 9,
-      "value": "\"Parking\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
-      "kind": "StringLiteral",
-      "offset": 1022,
-      "length": 30,
-      "value": "\"ParkingDetailsViewController\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
@@ -10484,20 +10365,6 @@
       "value": "false"
     },
     {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Result\/UI\/BRPaymentResultViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 454,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Result\/UI\/BRPaymentResultViewController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 505,
-      "length": 5,
-      "value": "false"
-    },
-    {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/MLRuntime\/DetectedAllBoxes.swift",
       "kind": "Array",
       "offset": 219,
@@ -10510,6 +10377,20 @@
       "offset": 192,
       "length": 2,
       "value": "[]"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Result\/UI\/BRPaymentResultViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 454,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Result\/UI\/BRPaymentResultViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 505,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/MLRuntime\/OcrDD.swift",
@@ -10876,6 +10757,97 @@
       "value": "true"
     },
     {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1407,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 524,
+      "length": 17,
+      "value": "\"INVALID_REQUEST\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 569,
+      "length": 18,
+      "value": "\"INVALID_RESPONSE\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 613,
+      "length": 17,
+      "value": "\"INVALID_API_KEY\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 659,
+      "length": 20,
+      "value": "\"INVALID_PAYMENT_ID\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 711,
+      "length": 22,
+      "value": "\"INITIALIZATION_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 758,
+      "length": 15,
+      "value": "\"UNKNOWN_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 801,
+      "length": 18,
+      "value": "\"PAYMENT_CANCELED\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 859,
+      "length": 31,
+      "value": "\"NAVIGATION_CONTROLLER_MISSING\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 930,
+      "length": 32,
+      "value": "\"APPLE_PAY_INITIALIZATION_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 995,
+      "length": 25,
+      "value": "\"APPLE_PAY_PAYMENT_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 548,
+      "length": 19,
+      "value": "\"AuthorizationCode\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 597,
+      "length": 15,
+      "value": "\"ProcessResult\""
+    },
+    {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/UI\/ScanBaseViewController.swift",
       "kind": "StringLiteral",
       "offset": 475,
@@ -11119,6 +11091,1007 @@
       "offset": 792,
       "length": 5,
       "value": "\"ios\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Processing\/UI\/BRProcessingPaymentViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 387,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Managers.swift",
+      "kind": "Array",
+      "offset": 541,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Managers.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1729,
+      "length": 2,
+      "value": "-1"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "StringLiteral",
+      "offset": 246,
+      "length": 9,
+      "value": "\"success\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "StringLiteral",
+      "offset": 275,
+      "length": 9,
+      "value": "\"failure\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "StringLiteral",
+      "offset": 311,
+      "length": 11,
+      "value": "\"supported\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "StringLiteral",
+      "offset": 351,
+      "length": 13,
+      "value": "\"unsupported\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "StringLiteral",
+      "offset": 396,
+      "length": 23,
+      "value": "\"first_image_processed\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "StringLiteral",
+      "offset": 446,
+      "length": 18,
+      "value": "\"ocr_pan_observed\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "StringLiteral",
+      "offset": 488,
+      "length": 14,
+      "value": "\"card_scanned\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "StringLiteral",
+      "offset": 532,
+      "length": 21,
+      "value": "\"enter_card_manually\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "StringLiteral",
+      "offset": 573,
+      "length": 9,
+      "value": "\"unknown\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "StringLiteral",
+      "offset": 607,
+      "length": 15,
+      "value": "\"user_canceled\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "StringLiteral",
+      "offset": 650,
+      "length": 19,
+      "value": "\"user_missing_card\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1764,
+      "length": 4,
+      "value": "true"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/BRCardScanBundleLocator.swift",
+      "kind": "StringLiteral",
+      "offset": 350,
+      "length": 16,
+      "value": "\"BarionCardScan\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/FadeInAnimation.swift",
+      "kind": "FloatLiteral",
+      "offset": 165,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/FadeInAnimation.swift",
+      "kind": "FloatLiteral",
+      "offset": 561,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/FadeInAnimation.swift",
+      "kind": "FloatLiteral",
+      "offset": 984,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/FadeInAnimation.swift",
+      "kind": "FloatLiteral",
+      "offset": 1399,
+      "length": 3,
+      "value": "0.4"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/UxAnalyzer.swift",
+      "kind": "StringLiteral",
+      "offset": 228,
+      "length": 9,
+      "value": "\"UxModel\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/UxAnalyzer.swift",
+      "kind": "StringLiteral",
+      "offset": 267,
+      "length": 10,
+      "value": "\"mlmodelc\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 1133,
+      "length": 9,
+      "value": "\"#F45774\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
+      "kind": "IntegerLiteral",
+      "offset": 2395,
+      "length": 2,
+      "value": "22"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
+      "kind": "StringLiteral",
+      "offset": 2979,
+      "length": 18,
+      "value": "\"border-secondary\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRAddNewCardViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1270,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRPayButtonView.swift",
+      "kind": "BooleanLiteral",
+      "offset": 358,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 163,
+      "length": 6,
+      "value": "\"test\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 186,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 205,
+      "length": 6,
+      "value": "\"demo\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 227,
+      "length": 5,
+      "value": "\"dev\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 249,
+      "length": 6,
+      "value": "\"hera\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 272,
+      "length": 6,
+      "value": "\"thor\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 295,
+      "length": 6,
+      "value": "\"zeus\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 318,
+      "length": 6,
+      "value": "\"odin\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 341,
+      "length": 6,
+      "value": "\"loki\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 367,
+      "length": 9,
+      "value": "\"sandbox\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4167,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRBaseViewController.swift",
+      "kind": "StringLiteral",
+      "offset": 4195,
+      "length": 28,
+      "value": "\"Oops! Something went wrong\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 4990,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRBaseViewController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 5293,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
+      "kind": "StringLiteral",
+      "offset": 625,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
+      "kind": "Array",
+      "offset": 1033,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1268,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRBaseUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 1159,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRFontLoader.swift",
+      "kind": "Array",
+      "offset": 247,
+      "length": 191,
+      "value": "[\"weblysleekuil\", \"weblysleekuili\", \"weblysleekuisb\", \"weblysleekuisbi\", \"weblysleekuisl\", \"weblysleekuisli\"]"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRLocalizationManager.swift",
+      "kind": "StringLiteral",
+      "offset": 296,
+      "length": 16,
+      "value": "\"selectedLocale\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 134,
+      "length": 12,
+      "value": "\"LogLevel=1\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 178,
+      "length": 12,
+      "value": "\"LogLevel=3\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 227,
+      "length": 21,
+      "value": "\"MaskSensitive=false\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 280,
+      "length": 20,
+      "value": "\"MaskSensitive=true\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 329,
+      "length": 130,
+      "value": "\"5453433244414E58524635464B4635303136000000000000000000000000000000000000000000003030303030303030000038584438303132594A344E520000\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 486,
+      "length": 31,
+      "value": "\"com.sensenet.barion.BarionSDK\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 567,
+      "length": 32,
+      "value": "\"ShowWhiteBoxInProcessingScreen\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 653,
+      "length": 6,
+      "value": "\"true\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 702,
+      "length": 26,
+      "value": "\"FireChallengeStatusFirst\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 776,
+      "length": 6,
+      "value": "\"true\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 822,
+      "length": 25,
+      "value": "\"navigation_header_title\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 899,
+      "length": 39,
+      "value": "\"navigation_header_cancel_button_title\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 974,
+      "length": 9,
+      "value": "\"Parking\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRSysKeys.swift",
+      "kind": "StringLiteral",
+      "offset": 1022,
+      "length": 30,
+      "value": "\"ParkingDetailsViewController\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 468,
+      "length": 11,
+      "value": "\"resources\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 506,
+      "length": 12,
+      "value": "\"attributes\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 544,
+      "length": 12,
+      "value": "\"@timestamp\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 577,
+      "length": 9,
+      "value": "\"message\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 611,
+      "length": 15,
+      "value": "\"severity_text\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 648,
+      "length": 7,
+      "value": "\"scope\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 873,
+      "length": 6,
+      "value": "\"name\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 902,
+      "length": 8,
+      "value": "\"domain\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1054,
+      "length": 6,
+      "value": "\"name\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1616,
+      "length": 13,
+      "value": "\"information\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1647,
+      "length": 7,
+      "value": "\"debug\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1672,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 228,
+      "length": 20,
+      "value": "\"BarionMobileSDK-UI\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 266,
+      "length": 23,
+      "value": "\"BarionMobileSDK-Error\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 309,
+      "length": 25,
+      "value": "\"BarionMobileSDK-Process\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 357,
+      "length": 28,
+      "value": "\"BarionMobileSDK-SCAProcess\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 401,
+      "length": 21,
+      "value": "\"BarionMobileSDK-SCA\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 442,
+      "length": 21,
+      "value": "\"BarionMobileSDK-3DS\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 488,
+      "length": 26,
+      "value": "\"BarionMobileSDK-3DSError\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 541,
+      "length": 28,
+      "value": "\"BarionMobileSDK-3DSProcess\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 590,
+      "length": 26,
+      "value": "\"BarionMobileSDK-SCAError\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 666,
+      "length": 17,
+      "value": "\"BarionMobileSDK\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 740,
+      "length": 9,
+      "value": "\"Process\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 767,
+      "length": 7,
+      "value": "\"Error\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 797,
+      "length": 12,
+      "value": "\"SCAProcess\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 825,
+      "length": 5,
+      "value": "\"SCA\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 850,
+      "length": 5,
+      "value": "\"3DS\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 880,
+      "length": 10,
+      "value": "\"3DSError\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 917,
+      "length": 12,
+      "value": "\"3DSProcess\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 950,
+      "length": 10,
+      "value": "\"SCAError\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
+      "kind": "StringLiteral",
+      "offset": 988,
+      "length": 17,
+      "value": "\"UserInteraction\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 555,
+      "length": 16,
+      "value": "\"PaymentMethods\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 600,
+      "length": 10,
+      "value": "\"Merchant\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 640,
+      "length": 11,
+      "value": "\"PaymentId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 677,
+      "length": 7,
+      "value": "\"Total\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 715,
+      "length": 12,
+      "value": "\"PayerEmail\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 757,
+      "length": 11,
+      "value": "\"PayerName\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 821,
+      "length": 33,
+      "value": "\"FundingSourceInfoToRecurrenceId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 881,
+      "length": 8,
+      "value": "\"Errors\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 4602,
+      "length": 14,
+      "value": "\"RecurrenceId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 4646,
+      "length": 15,
+      "value": "\"FundingSource\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 4686,
+      "length": 10,
+      "value": "\"CardInfo\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 4719,
+      "length": 8,
+      "value": "\"Status\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5004,
+      "length": 12,
+      "value": "\"CardScheme\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5036,
+      "length": 5,
+      "value": "\"Bin\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5072,
+      "length": 16,
+      "value": "\"LastFourDigits\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5111,
+      "length": 8,
+      "value": "\"Expiry\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5147,
+      "length": 13,
+      "value": "\"ThreeDsInfo\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5362,
+      "length": 9,
+      "value": "\"Version\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5405,
+      "length": 19,
+      "value": "\"IsFallbackVersion\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5602,
+      "length": 4,
+      "value": "\"Ok\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5627,
+      "length": 10,
+      "value": "\"NotFound\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5839,
+      "length": 14,
+      "value": "\"MerchantName\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5885,
+      "length": 17,
+      "value": "\"MerchantCountry\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 6109,
+      "length": 7,
+      "value": "\"Value\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 6141,
+      "length": 10,
+      "value": "\"Currency\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 6366,
+      "length": 8,
+      "value": "\"Method\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 7133,
+      "length": 10,
+      "value": "\"ApplePay\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 7160,
+      "length": 10,
+      "value": "\"BankCard\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 7195,
+      "length": 14,
+      "value": "\"BarionWallet\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 7225,
+      "length": 5,
+      "value": "\"Cof\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 7250,
+      "length": 9,
+      "value": "\"NewCard\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 7506,
+      "length": 17,
+      "value": "\"MerchantAppleId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 7555,
+      "length": 17,
+      "value": "\"MerchantCountry\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 7770,
+      "length": 12,
+      "value": "\"SavedCards\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 7988,
+      "length": 7,
+      "value": "\"Token\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 8017,
+      "length": 7,
+      "value": "\"Title\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 8358,
+      "length": 7,
+      "value": "\"Token\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 8387,
+      "length": 7,
+      "value": "\"Title\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 8796,
+      "length": 4,
+      "value": "\"Id\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 8833,
+      "length": 18,
+      "value": "\"MaskedCardNumber\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 8874,
+      "length": 8,
+      "value": "\"Scheme\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 8910,
+      "length": 13,
+      "value": "\"ExpiryMonth\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 8950,
+      "length": 12,
+      "value": "\"ExpiryYear\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 8986,
+      "length": 9,
+      "value": "\"CardArt\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 9119,
+      "length": 10,
+      "value": "\"BankCard\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 9150,
+      "length": 10,
+      "value": "\"ApplePay\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 9182,
+      "length": 11,
+      "value": "\"GooglePay\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPayWithApplePayResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 384,
+      "length": 8,
+      "value": "\"Errors\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPayWithApplePayResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 421,
+      "length": 14,
+      "value": "\"IsSuccessful\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPayWithApplePayResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 461,
+      "length": 11,
+      "value": "\"PaymentId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPayWithApplePayResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 502,
+      "length": 15,
+      "value": "\"PaymentStatus\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
@@ -11429,6 +12402,27 @@
       "value": "\"TransStatusReason\""
     },
     {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/Utils\/Visa3ds.swift",
+      "kind": "StringLiteral",
+      "offset": 157,
+      "length": 12,
+      "value": "\"A000000003\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/Utils\/Visa3ds.swift",
+      "kind": "StringLiteral",
+      "offset": 715,
+      "length": 1825,
+      "value": "\"-----BEGIN CERTIFICATE-----\nMIIEcjCCA1qgAwIBAgIQfZ1PKYCZBvhKmrsQ5pjn6zANBgkqhkiG9w0BAQsFADB0\nMQswCQYDVQQGEwJVUzENMAsGA1UEChMEVklTQTEvMC0GA1UECxMmVmlzYSBJbnRl\ncm5hdGlvbmFsIFNlcnZpY2UgQXNzb2NpYXRpb24xJTAjBgNVBAMTHFZpc2EgZUNv\nbW1lcmNlIFFBIElzc3VpbmcgQ0EwHhcNMjQwNTAzMjI0ODQwWhcNMjYwNzIyMjI0\nODM5WjBfMQ8wDQYDVQQHDAZBVVNUSU4xCzAJBgNVBAgMAlRYMQswCQYDVQQGEwJV\nUzENMAsGA1UECgwEVklTQTENMAsGA1UECwwEVlNUUzEUMBIGA1UEAwwLVlNUU19E\nU19SU0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDu7NhfHETZhiKu\nb61DmQKubIaSm4OzRqeK05PBeaOp6IrGfHtG2qjtI9oxoxbq8qfgCvlbWJSa5Dhu\nOPNyulMSQUTxxXIrqdk90S\/thtR\/5N1MvpwV8R\/E\/scPI7QgghtHSoO+c49WWBEL\nc+pUrGpaYAa5SXuN\/N11DowzIX0NPUNwe7G8oj7PC7j7SXo9hi+a\/hZtA6KxbSL1\nTxTeJOsDoPIjpWVcjcuWnB4N9VJ1\/Og+LtOdagMa2zezUPRGFeguDftp5bURNUuK\niqcbW4i1i+pQAGVz1K10SpFeJSZodcU6t7d0AAKpFulH34eCjRGVQBuy7eoLuNhC\nXdPVD2gHAgMBAAGjggETMIIBDzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFHgN\nq2t+SstM0II4XZ1oqXlVB9UBMGYGCCsGAQUFBwEBBFowWDAtBggrBgEFBQcwAoYh\naHR0cDovL2FpYXFhLnZpc2EuY29tL2VDb21tUUEuY2VyMCcGCCsGAQUFBzABhhto\ndHRwOi8vb2NzcHFhLnZpc2EuY29tL29jc3AwEwYDVR0lBAwwCgYIKwYBBQUHAwIw\nMgYDVR0fBCswKTAnoCWgI4YhaHR0cDovL2FpYXFhLnZpc2EuY29tL2VDb21tUUEu\nY3JsMB0GA1UdDgQWBBRF4I6w+\/eBXfxuaTt9+7RiYkqftDAOBgNVHQ8BAf8EBAMC\nB4AwDQYJKoZIhvcNAQELBQADggEBAJpp\/XJ4d4SxA1R+FFQErs28\/bPPoT6HZQ7k\nb4a1yu34Hr5vBJ+RhEIhSvbHynBV2KoM7xKH\/bJok94UfXay7JeH3L58F5n7e8yn\nLzntBE1PZvKT+LN\/7RD1J5xIbxVtxdaXnMp8aBOSkAcHUpHizW0T1WEh4POLsfe5\n3SHv4lTYyTICt80UGQ91ujBAqCXmwZ2\/3W3K0LXl+4+6wdpdI9gYxKfOLCtsnZ\/T\nbzcp1QQs5vuVi4v3t9jL9v4N2LgmB8duauDgKgFKJWQwAxqNdAYzG1K8zxpIZ5hq\nplHgjolXQWDdCWjwImQgBkDIm0\/CgMXGabXWJqBjqCMua86yyMA=\n-----END CERTIFICATE-----\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/Utils\/Visa3ds.swift",
+      "kind": "StringLiteral",
+      "offset": 2569,
+      "length": 1683,
+      "value": "\"-----BEGIN CERTIFICATE-----\nMIIEFjCCAv6gAwIBAgIQetu1SMxpnENAnnOz1P+PtTANBgkqhkiG9w0BAQUFADBp\nMQswCQYDVQQGEwJVUzENMAsGA1UEChMEVmlzYTEvMC0GA1UECxMmVmlzYSBJbnRl\ncm5hdGlvbmFsIFNlcnZpY2UgQXNzb2NpYXRpb24xGjAYBgNVBAMTEVZpc2EgZWNv\nbW1lcmNlIFFBMB4XDTEzMDExMjAzMzc0OVoXDTMzMDExMjAzMzc0OVowaTELMAkG\nA1UEBhMCVVMxDTALBgNVBAoTBFZpc2ExLzAtBgNVBAsTJlZpc2EgSW50ZXJuYXRp\nb25hbCBTZXJ2aWNlIEFzc29jaWF0aW9uMRowGAYDVQQDExFWaXNhIGVjb21tZXJj\nZSBRQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANkUflKmpn52tYI3\nZtBNPWPY4s4KJn\/HVWcFD+SViaOUBWh8GeydubN\/oCwGItkfKxvSiDRRmSfCUIJB\nq0WlEQ3ucALb\/B+IOrRwQgisq3bN0IZLAc0zHIpyWXumaoks7saRvDsa2wrbz\/Et\n1qkM0j\/oH\/vOrDdaKH9J95qkCq4TZ7sEcy5nKwfDkpF2fokZt0UKKFtxVHcSEPSE\n1zNN1xkNxSNp7vpXyxvLSsC\/Xdr8G7TCg2b1yxXWFjrP01uAv6EnJKTnZI4C2Ueh\nwxjuTACfSsT\/AGvxDhfWPrrEtA6TCcD9rOp9DpwXNiSJGPzkcUUWfHGUxXg9eYgi\nTEo924cCAwEAAaOBuTCBtjAPBgNVHRMBAf8EBTADAQH\/MHQGA1UdIARtMGswaQYF\nZ4EDAQEwYDAjBggrBgEFBQcCARYXaHR0cDovL3d3dy52aXNhLmNvbS9wa2kwOQYI\nKwYBBQUHAgIwLTAYFhFSZXBsYWNlIFRoaXMgVGV4dDADAgEBGhFSZXBsYWNlIFRo\naXMgVGV4dDAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYEFBx8HyadQAWl4BuB3UDx\n9zzFNkIzMA0GCSqGSIb3DQEBBQUAA4IBAQCe1G2hPsAA+RoNo0cVn1+Tec8SYdQB\nAF7qCnL9Fehau47e36fVGNizOkyIT9AHGor6R1LIahKX+E6mqQTYsznJS5hXJ8G8\nc0P0mxjVScb7ykwQ5wBYqXWM2bXKpiLTeYVWf1ArFWqp1y9G6R0AOanLjmwNRBAr\ngyv6l1QZb7UM3Bf9S5l0urFML06En8B79lle5X32Iv9jfucu6caIrBLkPSx6Yq+q\n8ECs48NRSON+\/Pqm9Hxw1H3\/yz2qLG4zTI7xJVDESZGEXadLwCJXD6OReX2F\/BtU\nd8q23djXZbVYiIfE9ebr4g3152BlVCHZ2GyPdjhIuLeH21VbT\/dyEHHA\n-----END CERTIFICATE-----\""
+    },
+    {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "BooleanLiteral",
       "offset": 1253,
@@ -11485,639 +12479,387 @@
       "value": "false"
     },
     {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Managers.swift",
-      "kind": "Array",
-      "offset": 541,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Managers.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1729,
-      "length": 2,
-      "value": "-1"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 246,
-      "length": 9,
-      "value": "\"success\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
-      "kind": "StringLiteral",
-      "offset": 275,
-      "length": 9,
-      "value": "\"failure\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
-      "kind": "StringLiteral",
-      "offset": 311,
-      "length": 11,
-      "value": "\"supported\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
-      "kind": "StringLiteral",
-      "offset": 351,
-      "length": 13,
-      "value": "\"unsupported\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
-      "kind": "StringLiteral",
-      "offset": 396,
-      "length": 23,
-      "value": "\"first_image_processed\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
-      "kind": "StringLiteral",
-      "offset": 446,
-      "length": 18,
-      "value": "\"ocr_pan_observed\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
-      "kind": "StringLiteral",
-      "offset": 488,
-      "length": 14,
-      "value": "\"card_scanned\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
-      "kind": "StringLiteral",
-      "offset": 532,
-      "length": 21,
-      "value": "\"enter_card_manually\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
-      "kind": "StringLiteral",
-      "offset": 573,
-      "length": 9,
-      "value": "\"unknown\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
-      "kind": "StringLiteral",
-      "offset": 607,
-      "length": 15,
-      "value": "\"user_canceled\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
-      "kind": "StringLiteral",
-      "offset": 650,
-      "length": 19,
-      "value": "\"user_missing_card\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/Card Image Verification\/ScanAnalyticsManager+Tasks.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1764,
-      "length": 4,
-      "value": "true"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/BRCardScanBundleLocator.swift",
-      "kind": "StringLiteral",
-      "offset": 350,
-      "length": 16,
-      "value": "\"BarionCardScan\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1314,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 524,
-      "length": 17,
-      "value": "\"INVALID_REQUEST\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 569,
-      "length": 18,
-      "value": "\"INVALID_RESPONSE\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 613,
-      "length": 17,
-      "value": "\"INVALID_API_KEY\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 659,
-      "length": 20,
-      "value": "\"INVALID_PAYMENT_ID\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 711,
-      "length": 22,
-      "value": "\"INITIALIZATION_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 758,
-      "length": 15,
-      "value": "\"UNKNOWN_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 801,
-      "length": 18,
-      "value": "\"PAYMENT_CANCELED\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 859,
-      "length": 31,
-      "value": "\"NAVIGATION_CONTROLLER_MISSING\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 930,
-      "length": 32,
-      "value": "\"APPLE_PAY_INITIALIZATION_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 995,
-      "length": 25,
-      "value": "\"APPLE_PAY_PAYMENT_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
-      "kind": "StringLiteral",
-      "offset": 548,
-      "length": 19,
-      "value": "\"AuthorizationCode\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
-      "kind": "StringLiteral",
-      "offset": 597,
-      "length": 15,
-      "value": "\"ProcessResult\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/FadeInAnimation.swift",
-      "kind": "FloatLiteral",
-      "offset": 165,
-      "length": 3,
-      "value": "0.4"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/FadeInAnimation.swift",
-      "kind": "FloatLiteral",
-      "offset": 561,
-      "length": 3,
-      "value": "0.4"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/FadeInAnimation.swift",
-      "kind": "FloatLiteral",
-      "offset": 984,
-      "length": 3,
-      "value": "0.4"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/FadeInAnimation.swift",
-      "kind": "FloatLiteral",
-      "offset": 1399,
-      "length": 3,
-      "value": "0.4"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/UxAnalyzer.swift",
-      "kind": "StringLiteral",
-      "offset": 228,
-      "length": 9,
-      "value": "\"UxModel\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/UxAnalyzer.swift",
-      "kind": "StringLiteral",
-      "offset": 267,
-      "length": 10,
-      "value": "\"mlmodelc\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
-      "kind": "StringLiteral",
-      "offset": 181,
-      "length": 9,
-      "value": "\"#F45774\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1369,
-      "length": 2,
-      "value": "22"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
-      "kind": "StringLiteral",
-      "offset": 1832,
-      "length": 9,
-      "value": "\"#DCDFE5\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 468,
-      "length": 11,
-      "value": "\"resources\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 506,
-      "length": 12,
-      "value": "\"attributes\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 544,
-      "length": 12,
-      "value": "\"@timestamp\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 577,
-      "length": 9,
-      "value": "\"message\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 611,
-      "length": 15,
-      "value": "\"severity_text\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 648,
+      "offset": 618,
       "length": 7,
-      "value": "\"scope\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 873,
-      "length": 6,
-      "value": "\"name\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 902,
-      "length": 8,
-      "value": "\"domain\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 1054,
-      "length": 6,
-      "value": "\"name\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 1616,
-      "length": 13,
-      "value": "\"information\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 1647,
-      "length": 7,
-      "value": "\"debug\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 1672,
-      "length": 7,
-      "value": "\"error\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 228,
-      "length": 20,
-      "value": "\"BarionMobileSDK-UI\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 266,
-      "length": 23,
-      "value": "\"BarionMobileSDK-Error\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 309,
-      "length": 25,
-      "value": "\"BarionMobileSDK-Process\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 357,
-      "length": 28,
-      "value": "\"BarionMobileSDK-SCAProcess\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 401,
-      "length": 21,
-      "value": "\"BarionMobileSDK-SCA\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 442,
-      "length": 21,
-      "value": "\"BarionMobileSDK-3DS\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 488,
-      "length": 26,
-      "value": "\"BarionMobileSDK-3DSError\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 541,
-      "length": 28,
-      "value": "\"BarionMobileSDK-3DSProcess\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 590,
-      "length": 26,
-      "value": "\"BarionMobileSDK-SCAError\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 666,
-      "length": 17,
-      "value": "\"BarionMobileSDK\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 740,
-      "length": 9,
-      "value": "\"Process\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 767,
-      "length": 7,
-      "value": "\"Error\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 797,
-      "length": 12,
-      "value": "\"SCAProcess\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 825,
-      "length": 5,
-      "value": "\"SCA\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 850,
-      "length": 5,
-      "value": "\"3DS\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 880,
-      "length": 10,
-      "value": "\"3DSError\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 917,
-      "length": 12,
-      "value": "\"3DSProcess\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 950,
-      "length": 10,
-      "value": "\"SCAError\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
-      "kind": "StringLiteral",
-      "offset": 988,
-      "length": 17,
-      "value": "\"UserInteraction\""
+      "value": "\"Color\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 735,
+      "offset": 760,
+      "length": 15,
+      "value": "\"border-active\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 908,
+      "length": 14,
+      "value": "\"border-brand\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1055,
+      "length": 14,
+      "value": "\"border-error\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1206,
+      "length": 16,
+      "value": "\"border-primary\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1363,
+      "length": 18,
+      "value": "\"border-secondary\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1503,
+      "length": 8,
+      "value": "\"button\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1640,
+      "length": 12,
+      "value": "\"icon-brand\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1784,
+      "length": 14,
+      "value": "\"icon-brand-2\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 1933,
+      "length": 15,
+      "value": "\"icon-disabled\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2077,
+      "length": 12,
+      "value": "\"icon-error\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2220,
+      "length": 13,
+      "value": "\"icon-invert\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2366,
+      "length": 14,
+      "value": "\"icon-primary\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2517,
+      "length": 16,
+      "value": "\"icon-secondary\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2668,
+      "length": 15,
+      "value": "\"surface-brand\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2824,
+      "length": 18,
+      "value": "\"surface-disabled\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 2977,
+      "length": 15,
+      "value": "\"surface-error\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3125,
+      "length": 14,
+      "value": "\"surface-fill\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3276,
+      "length": 16,
+      "value": "\"surface-invert\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3431,
+      "length": 17,
+      "value": "\"surface-primary\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3591,
+      "length": 19,
+      "value": "\"surface-secondary\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3739,
+      "length": 12,
+      "value": "\"text-brand\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 3886,
+      "length": 15,
+      "value": "\"text-disabled\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4030,
+      "length": 12,
+      "value": "\"text-error\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4177,
+      "length": 15,
+      "value": "\"text-inactive\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4323,
+      "length": 13,
+      "value": "\"text-invert\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4466,
+      "length": 13,
+      "value": "\"text-link-1\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4609,
+      "length": 13,
+      "value": "\"text-link-2\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4755,
+      "length": 14,
+      "value": "\"text-primary\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 4906,
+      "length": 16,
+      "value": "\"text-secondary\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5159,
       "length": 14,
       "value": "\"add_new_card\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 918,
+      "offset": 5342,
       "length": 34,
       "value": "\"add_new_card_without_saved_cards\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1079,
+      "offset": 5503,
       "length": 11,
       "value": "\"apple_pay\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1221,
+      "offset": 5643,
+      "length": 12,
+      "value": "\"back_arrow\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 5786,
       "length": 13,
       "value": "\"barion_logo\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1361,
+      "offset": 5926,
       "length": 11,
       "value": "\"card_amex\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1503,
+      "offset": 6068,
       "length": 13,
       "value": "\"card_diners\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1651,
+      "offset": 6216,
       "length": 15,
       "value": "\"card_discover\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1799,
+      "offset": 6364,
       "length": 14,
       "value": "\"card_maestro\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 1952,
+      "offset": 6517,
       "length": 17,
       "value": "\"card_mastercard\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2096,
+      "offset": 6661,
       "length": 11,
       "value": "\"card_visa\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2257,
+      "offset": 6822,
       "length": 23,
       "value": "\"diners_discover_check\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2413,
+      "offset": 6978,
       "length": 14,
       "value": "\"failed_event\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2563,
+      "offset": 7128,
       "length": 16,
       "value": "\"failed_event_1\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2713,
+      "offset": 7278,
       "length": 15,
       "value": "\"hsbc_card_art\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 2858,
+      "offset": 7423,
       "length": 13,
       "value": "\"mc_id_check\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3003,
+      "offset": 7568,
       "length": 14,
       "value": "\"otp_card_art\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3157,
+      "offset": 7722,
       "length": 18,
       "value": "\"revolut_card_art\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3306,
+      "offset": 7871,
       "length": 13,
       "value": "\"right_arrow\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3451,
+      "offset": 8016,
       "length": 14,
       "value": "\"saved_card_1\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3597,
+      "offset": 8162,
       "length": 14,
       "value": "\"saved_card_2\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3738,
+      "offset": 8303,
       "length": 11,
       "value": "\"scan_card\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 3870,
+      "offset": 8452,
+      "length": 17,
+      "value": "\"secured_by_logo\""
+    },
+    {
+      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
+      "kind": "StringLiteral",
+      "offset": 8590,
       "length": 8,
       "value": "\"succ_1\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 4019,
+      "offset": 8739,
       "length": 18,
       "value": "\"successful_event\""
     }
