@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		WO4R3RsZtQxwuPHJPP0B+VJsQEg=
+		pE8w5p+xCt7g7KXY686H6adQEsc=
 		</data>
 		<key>BRAddNewCardTableViewCell.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/GHI-EA-gnM-view-0ii-ho-6uH.nib</key>
 		<data>
-		wZNpDnn7HcN/ZmPPaBDT9u/3km4=
+		oZ9vJTQ8axynqZzm99e6vfUJLpM=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		gYwtmELbQMfQ3N2ykY8cS0LYq5w=
+		T3j1YbvKJ/UMeU+6qARqZDXiWDg=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/mts-pb-M5u-view-Usn-kq-V1y.nib</key>
 		<data>
-		Hd6j9+4oP3ztIoM1PK2xT0UxUqg=
+		JXfecTCoNVco/3xIhN/vxQut2cA=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/oX1-OO-knt-view-959-MH-zbi.nib</key>
 		<data>
-		x46iZPc+5ia4pvxgd9oOtdNjDEQ=
+		mDiqM711F/BEoWdJe2+dYA2PXSs=
 		</data>
 		<key>BRPayButtonView.nib</key>
 		<data>
@@ -90,7 +90,7 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		KdCjbrRDZl6bnRT5hBo5ob1iFDg=
+		UCdFjeUXZ1oxGG6fN8tFCmsG9gA=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
@@ -260,7 +260,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			WqZY4G+/uCXFqHZViSVu/dxGw9aiKYXw1n1itX0b+NY=
+			1rvAVQ9klxQXTbMn7UL1slt2k1klrhn6x9qDqSuVQy8=
 			</data>
 		</dict>
 		<key>BRAddNewCardTableViewCell.nib</key>
@@ -309,7 +309,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			YkPyAqN6IjaXjKrbhemhVmWKdBsTcZUR7DSLUZECxtQ=
+			gUoYGuaTuCVNInfsMshgOhstDL6wgXpi8B/opDnMoiM=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/Info.plist</key>
@@ -344,21 +344,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			asVP2dDZv/tqQy+odWWvJNswWJmvn2mCFsQPAeJ8uiQ=
+			mQVoEZMRFqZgC/jWflNQsq/rH4IkrLn/4frBlQDRgww=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/mts-pb-M5u-view-Usn-kq-V1y.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			FDpzV4jgQ55cqu1JNQj20ehJhtRCKtcz67zNHp4Hp4c=
+			46X/pBbPksxc8MdrOW9ufxZbQciXtrqyA4TiG08MQhU=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/oX1-OO-knt-view-959-MH-zbi.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			wFj2cKf6bfTfxOJdJE1bFuYjOQxaNwROuqJdDRRm7ao=
+			pCpoNpCXWSwBOe63D12jQjDiny2eV060MbEa7yh8A7w=
 			</data>
 		</dict>
 		<key>BRPayButtonView.nib</key>
