@@ -63,10 +63,15 @@ let barionGatewayPlugin = await BarionGatewayPlugin(paymentClientSecret: clientS
 #### Customize the BarionGatewayPlugin
 
 You can customize the SDK to fit into your application perfectly. Choose your own fonts, colors etc.
+The SDK automatically turns into dark or light mode if you leave the `appearance` on the default value. If your application supports only light mode, we recommend configuring this to `.light` and our SDK will fit into your application.
 You can customize the order of the available payment methods. The default order is: Apple Pay, new card. If you missed some payment methods don't worry the SDK will put the rest of the available payment methods at the end of the list.
 The `paymentMethodOrder` possible values are:
 ```swift
 ["applePay", "bankCard", "barionWallet", "newCard"]
+```
+The `appearance` possible values are (the default value is `.automatic`):
+```swift
+.automatic, .dark, .light
 ```
 
 :warning: _The Apple Pay won't be in the payment method list if your device doesn't support it._
