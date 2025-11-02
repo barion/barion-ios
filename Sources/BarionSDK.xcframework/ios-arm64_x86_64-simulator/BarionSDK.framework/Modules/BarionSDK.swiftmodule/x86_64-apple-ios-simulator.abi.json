@@ -9997,50 +9997,43 @@
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
       "kind": "IntegerLiteral",
       "offset": 169,
-      "length": 4,
+      "length": 8,
       "value": "2"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
       "kind": "IntegerLiteral",
-      "offset": 183,
+      "offset": 187,
       "length": 8,
       "value": "3"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
       "kind": "IntegerLiteral",
-      "offset": 201,
-      "length": 8,
+      "offset": 205,
+      "length": 3,
       "value": "4"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
       "kind": "IntegerLiteral",
-      "offset": 219,
-      "length": 3,
+      "offset": 218,
+      "length": 10,
       "value": "5"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
       "kind": "IntegerLiteral",
-      "offset": 232,
-      "length": 10,
+      "offset": 238,
+      "length": 8,
       "value": "6"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
       "kind": "IntegerLiteral",
-      "offset": 252,
-      "length": 8,
-      "value": "7"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
-      "kind": "IntegerLiteral",
-      "offset": 270,
+      "offset": 256,
       "length": 7,
-      "value": "8"
+      "value": "7"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/CardUtils\/CardType.swift",
@@ -11248,24 +11241,10 @@
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
-      "kind": "StringLiteral",
-      "offset": 1133,
-      "length": 9,
-      "value": "\"#F45774\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
       "kind": "IntegerLiteral",
-      "offset": 2395,
+      "offset": 4740,
       "length": 2,
       "value": "22"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
-      "kind": "StringLiteral",
-      "offset": 2979,
-      "length": 18,
-      "value": "\"border-secondary\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRAddNewCardViewController.swift",
@@ -11280,6 +11259,34 @@
       "offset": 358,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRUITextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 158,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRUITextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 167,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRUITextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 178,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRUITextField.swift",
+      "kind": "IntegerLiteral",
+      "offset": 188,
+      "length": 1,
+      "value": "8"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
@@ -12117,35 +12124,28 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
       "kind": "StringLiteral",
-      "offset": 264,
-      "length": 6,
-      "value": "\"Amex\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
-      "kind": "StringLiteral",
-      "offset": 295,
+      "offset": 272,
       "length": 14,
       "value": "\"VisaElectron\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
       "kind": "StringLiteral",
-      "offset": 328,
+      "offset": 305,
       "length": 8,
       "value": "\"Diners\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
       "kind": "StringLiteral",
-      "offset": 357,
+      "offset": 334,
       "length": 10,
       "value": "\"Discover\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
       "kind": "StringLiteral",
-      "offset": 387,
+      "offset": 364,
       "length": 9,
       "value": "\"Unknown\""
     },
@@ -12474,7 +12474,7 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 14592,
+      "offset": 14628,
       "length": 5,
       "value": "false"
     },
@@ -12726,140 +12726,133 @@
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 5926,
-      "length": 11,
-      "value": "\"card_amex\""
-    },
-    {
-      "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
-      "kind": "StringLiteral",
-      "offset": 6068,
+      "offset": 5930,
       "length": 13,
       "value": "\"card_diners\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6216,
+      "offset": 6078,
       "length": 15,
       "value": "\"card_discover\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6364,
+      "offset": 6226,
       "length": 14,
       "value": "\"card_maestro\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6517,
+      "offset": 6379,
       "length": 17,
       "value": "\"card_mastercard\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6661,
+      "offset": 6523,
       "length": 11,
       "value": "\"card_visa\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6822,
+      "offset": 6684,
       "length": 23,
       "value": "\"diners_discover_check\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 6978,
+      "offset": 6840,
       "length": 14,
       "value": "\"failed_event\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7128,
+      "offset": 6990,
       "length": 16,
       "value": "\"failed_event_1\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7278,
+      "offset": 7140,
       "length": 15,
       "value": "\"hsbc_card_art\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7423,
+      "offset": 7285,
       "length": 13,
       "value": "\"mc_id_check\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7568,
+      "offset": 7430,
       "length": 14,
       "value": "\"otp_card_art\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7722,
+      "offset": 7584,
       "length": 18,
       "value": "\"revolut_card_art\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 7871,
+      "offset": 7733,
       "length": 13,
       "value": "\"right_arrow\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8016,
+      "offset": 7878,
       "length": 14,
       "value": "\"saved_card_1\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8162,
+      "offset": 8024,
       "length": 14,
       "value": "\"saved_card_2\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8303,
+      "offset": 8165,
       "length": 11,
       "value": "\"scan_card\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8452,
+      "offset": 8314,
       "length": 17,
       "value": "\"secured_by_logo\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8590,
+      "offset": 8452,
       "length": 8,
       "value": "\"succ_1\""
     },
     {
       "filePath": "\/Users\/buildagent\/Library\/Developer\/Xcode\/DerivedData\/BarionSDK-edbelrawtcwthggfgcndrwjbtanl\/Build\/Intermediates.noindex\/ArchiveIntermediates\/BarionSDK\/IntermediateBuildFilesPath\/BarionSDK.build\/Release-iphonesimulator\/BarionSDK.build\/DerivedSources\/GeneratedAssetSymbols.swift",
       "kind": "StringLiteral",
-      "offset": 8739,
+      "offset": 8601,
       "length": 18,
       "value": "\"successful_event\""
     }

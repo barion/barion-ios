@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		pE8w5p+xCt7g7KXY686H6adQEsc=
+		/lU7afiaR4QVuTCMpTVBJGQ5QPw=
 		</data>
 		<key>BRAddNewCardTableViewCell.nib</key>
 		<data>
@@ -14,7 +14,7 @@
 		</data>
 		<key>BRApplePayTableViewCell.nib</key>
 		<data>
-		haed3ikxqYBkG6clEhOLmkCiZyM=
+		msCCz1CiUpBMvWJjzpypKz4qV8U=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/8Hg-ZN-bk6-view-7Rs-Zm-QgN.nib</key>
 		<data>
@@ -34,7 +34,7 @@
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/GHI-EA-gnM-view-0ii-ho-6uH.nib</key>
 		<data>
-		oZ9vJTQ8axynqZzm99e6vfUJLpM=
+		wZNpDnn7HcN/ZmPPaBDT9u/3km4=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/Info.plist</key>
 		<data>
@@ -54,15 +54,15 @@
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/Y6W-OH-hqX-view-5EZ-qb-Rvc.nib</key>
 		<data>
-		T3j1YbvKJ/UMeU+6qARqZDXiWDg=
+		b0Pr0XXfdY/xAKbg/adwaApkMRk=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/mts-pb-M5u-view-Usn-kq-V1y.nib</key>
 		<data>
-		JXfecTCoNVco/3xIhN/vxQut2cA=
+		Hd6j9+4oP3ztIoM1PK2xT0UxUqg=
 		</data>
 		<key>BRGatewayStoryboard.storyboardc/oX1-OO-knt-view-959-MH-zbi.nib</key>
 		<data>
-		mDiqM711F/BEoWdJe2+dYA2PXSs=
+		LzPc1QEM3n+Qo/zPifwvHLrrgUo=
 		</data>
 		<key>BRPayButtonView.nib</key>
 		<data>
@@ -78,7 +78,7 @@
 		</data>
 		<key>Base.lproj/Localizable.strings</key>
 		<data>
-		Bcv/GT4AWzCDr78Bdcx6RsVnP3k=
+		J6GWqS1FS2/xhOulYpJu+qmMUKM=
 		</data>
 		<key>Headers/BarionSDK-Swift.h</key>
 		<data>
@@ -90,11 +90,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		UCdFjeUXZ1oxGG6fN8tFCmsG9gA=
+		NVItZrciJLJXn3RFUfWMo2K4XXs=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		c0H0aZ6jQnk0S485YPyJWMwUxcM=
+		uHedNQtVNwhBw5Ckdt3SgJbVioU=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		HW9VISymiTCj/RJ0TbX9e7lEHzA=
+		0fOZVEX0NjpZy9U376Fajcb3ivY=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -202,7 +202,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			Ct7fGJmo3uunx9tNETTWsV1DSHA=
+			mowPGXAca6pGwPwbChnuLE5qaWA=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -220,6 +220,24 @@
 		<data>
 		X0j5AYkhyNXrf614tj3minoh8uw=
 		</data>
+		<key>pl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			J9hjXDrZR/mOVpS/K0gKvRZLDeU=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ro.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			3mbZHkfTvBf7EJQPrK5h5NDp9Mo=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
 		<key>sk.lproj/Localizable.strings</key>
 		<dict>
 			<key>hash</key>
@@ -260,7 +278,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			1rvAVQ9klxQXTbMn7UL1slt2k1klrhn6x9qDqSuVQy8=
+			ANTjgKCquJLuxKXWA9DXnR+vDZ8FxV+a6Kqg4doXk7I=
 			</data>
 		</dict>
 		<key>BRAddNewCardTableViewCell.nib</key>
@@ -274,7 +292,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			XmyLTdXxATPx9clIioLIQGkw/FcyXXEwzvlL64KkssI=
+			gw6Rd5Sd290yCaNzSLMaZO50Rp9eKPYfON+otDWalmk=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/8Hg-ZN-bk6-view-7Rs-Zm-QgN.nib</key>
@@ -309,7 +327,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			gUoYGuaTuCVNInfsMshgOhstDL6wgXpi8B/opDnMoiM=
+			YkPyAqN6IjaXjKrbhemhVmWKdBsTcZUR7DSLUZECxtQ=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/Info.plist</key>
@@ -344,21 +362,21 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			mQVoEZMRFqZgC/jWflNQsq/rH4IkrLn/4frBlQDRgww=
+			GlpCB+R1uqm0Yq3lgQ1G61jnSro0fGZZEVYA4MOKUK0=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/mts-pb-M5u-view-Usn-kq-V1y.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			46X/pBbPksxc8MdrOW9ufxZbQciXtrqyA4TiG08MQhU=
+			FDpzV4jgQ55cqu1JNQj20ehJhtRCKtcz67zNHp4Hp4c=
 			</data>
 		</dict>
 		<key>BRGatewayStoryboard.storyboardc/oX1-OO-knt-view-959-MH-zbi.nib</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			pCpoNpCXWSwBOe63D12jQjDiny2eV060MbEa7yh8A7w=
+			nh0GsIg8iH2ZKnwhJufMewQvFbQY+Zz7ydXwOM0z8BQ=
 			</data>
 		</dict>
 		<key>BRPayButtonView.nib</key>
@@ -386,7 +404,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			L+NykImx9JfQP0zpvSoBrg1jemGmIzLbo42t7NzDQn4=
+			+TyIQX2k1vCo62GOVXRRgrHS1wJqdB4SPuNsQrR526w=
 			</data>
 		</dict>
 		<key>Headers/BarionSDK-Swift.h</key>
@@ -407,7 +425,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			9h3tEhjNf3fZ699mO19YG/gikYmTVXlgfIf3nVTz76A=
+			TMPm/yyn2Uicw9moBllib78I268PSaYES5DNFesleEs=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -435,7 +453,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			8ss88n1AMLw6tT/Gak4enOasPrmoRvc6aME7tAwYugA=
+			7cbffLNqTVa2rFR7xKLb5fyhBcJhcAD+7WJn2bEbBKU=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>
@@ -579,7 +597,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			TQELXVa8W3uHdwM1IfxO+2/Kj742sHm9Xwuu4jMtXnc=
+			RBV4E7lhJsMqAAwZ5A8yjQWtKQIlx7amh75Z0QE0g1c=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -599,6 +617,24 @@
 			<data>
 			1GZKtjqDw/HIH5R5VBuqdOvQp6HGNEzADphjEdvQQ0k=
 			</data>
+		</dict>
+		<key>pl.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			Frqir/bnuLLKtHh5r1UUijktQljfAMnLZOBzFYbesM4=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>ro.lproj/Localizable.strings</key>
+		<dict>
+			<key>hash2</key>
+			<data>
+			HCtxjcIG2sfjW3KmMD/N6ZVHe+wxlMZgMm0R9H+Tzb4=
+			</data>
+			<key>optional</key>
+			<true/>
 		</dict>
 		<key>sk.lproj/Localizable.strings</key>
 		<dict>
