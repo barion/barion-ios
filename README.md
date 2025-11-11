@@ -132,8 +132,8 @@ barionGatewayPlugin.present(from: self, paymentOptions: barionGatewayPluginOptio
 
 ## Localization
 
-The SDK support these languages:
-English, Hungarian, Czech, German, Slovak
+The SDK supports these languages:
+English, Hungarian, Czech, German, Slovak, Polish, Romanian
 
 
 ## See also
