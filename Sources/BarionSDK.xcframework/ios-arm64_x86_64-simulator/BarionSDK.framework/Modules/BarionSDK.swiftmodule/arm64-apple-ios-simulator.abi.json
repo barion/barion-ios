@@ -11242,14 +11242,14 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
       "kind": "IntegerLiteral",
-      "offset": 4740,
+      "offset": 4876,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRAddNewCardViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1270,
+      "offset": 1319,
       "length": 5,
       "value": "false"
     },
@@ -11389,21 +11389,21 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
       "kind": "StringLiteral",
-      "offset": 625,
+      "offset": 714,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
       "kind": "Array",
-      "offset": 1033,
+      "offset": 1122,
       "length": 2,
       "value": "[]"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1268,
+      "offset": 1357,
       "length": 5,
       "value": "false"
     },
