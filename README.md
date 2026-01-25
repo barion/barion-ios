@@ -130,6 +130,48 @@ barionGatewayPlugin.present(from: self, paymentOptions: barionGatewayPluginOptio
 
 :warning: _The font family of the fonts is used throughout the SDK. The SDK uses this font at multiple weights (e.g., regular, medium, semibold) if they exist._
 
+#### Apple Pay Component
+The Barion SDK supports presenting an Apple Pay button directly in your UI.
+
+##### Usage
+
+Using the Apple Pay–only flow is almost identical to using the full BarionGatewayPlugin. You still need to initialize the SDK, but you must set the `useApplePayButton` parameter:
+```swift
+let barionGatewayPlugin = await BarionGatewayPlugin(paymentClientSecret: clientSecret, useApplePayButton: true)
+```
+After the `barionGatewayPlugin` instance is created, you can retrieve the Apple Pay button by calling:
+```swift
+barionGatewayPlugin.getApplePayButton(onSuccess: { result in
+                            print("Apple Pay Success: \(result)")
+                        }, onFailure: { error in
+                            print("Apple Pay Failure: \(error)")
+                        })
+```
+That’s it! When the customer taps the button, the SDK will handle the complete Apple Pay payment flow and will return the payment result.
+You MUST validate this result on your backend as well.
+
+##### Customization
+
+You can customize the Apple Pay button by passing an `ApplePayButtonOptions` instance to the `getApplePayButton()` method. You can configure the button type and style. The available values match those provided by PassKit.
+
+```swift
+barionGatewayPlugin.getApplePayButton(
+    buttonOptions: ApplePayButtonOptions(
+        buttonRenderOptions: ApplePayButtonRenderOptions(
+            buttonType: .checkout, 
+            buttonStyle: .automatic
+        )
+    ), 
+    onSuccess: { result in        
+        print("Apple Pay Success: \(result)")
+    }, 
+    onFailure: { error in
+        print("Apple Pay Failure: \(error)")
+    }
+)
+```
+:warning: _The .checkout button type and .automatic button style are the default values._
+
 ## Localization
 
 The SDK supports these languages:
