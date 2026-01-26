@@ -158,7 +158,7 @@ You can customize the Apple Pay button by passing an `ApplePayButtonOptions` ins
 barionGatewayPlugin.getApplePayButton(
     buttonOptions: ApplePayButtonOptions(
         buttonRenderOptions: ApplePayButtonRenderOptions(
-            buttonType: .checkout, 
+            buttonType: .plain, 
             buttonStyle: .automatic
         )
     ), 
