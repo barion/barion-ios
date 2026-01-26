@@ -170,7 +170,7 @@ barionGatewayPlugin.getApplePayButton(
     }
 )
 ```
-:warning: _The .checkout button type and .automatic button style are the default values._
+:warning: _The .plain button type and .automatic button style are the default values._
 
 ## Localization
 
