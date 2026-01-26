@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		4DqmsCtXqFNay8NYlRstN3X+yRY=
+		C4IC/WVAc93WfzMQLyZ5iewNj7o=
 		</data>
 		<key>BRAddNewCardTableViewCell.nib</key>
 		<data>
@@ -90,15 +90,15 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		rKAiCSUDtvYfKB3HpO2424hr16s=
+		dBaLOmpasHipTTgT2wo6vzPiL+A=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.abi.json</key>
 		<data>
-		cxzrrVLJOVSsYt965KB1akGZnAY=
+		opmSWfMmx5s9W+iGmBeNwLOhU1M=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		4w+CgwIMKavz13k9miP77RvEjvA=
+		vIhkQRx9lHBLsVrQCkoJxYmcbUc=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -106,19 +106,19 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		4w+CgwIMKavz13k9miP77RvEjvA=
+		vIhkQRx9lHBLsVrQCkoJxYmcbUc=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		ynVVzbHXQFSeuFQEA/a7xu6ORUY=
+		wvNrWUHJcspUpiKh95uYYDw1YEo=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<data>
-		cxzrrVLJOVSsYt965KB1akGZnAY=
+		opmSWfMmx5s9W+iGmBeNwLOhU1M=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<data>
-		gTC1GVBcVzFau65kjmumn934hkE=
+		EnxtOLMeBbyBUl7gmfUaiM+ybQg=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
 		<data>
@@ -126,11 +126,11 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftinterface</key>
 		<data>
-		gTC1GVBcVzFau65kjmumn934hkE=
+		EnxtOLMeBbyBUl7gmfUaiM+ybQg=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<data>
-		vkUIh7kYci7I3i8SYBomRIZRZBc=
+		uouoJ/3QB/I9N02UQajnkAiUaqA=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -298,7 +298,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			yrG9Qppa1XyFoKdnbOCDaassAC2PsKemFQvIluSUcp8=
+			7y/g5ijEKYN38HHgfl9QtYAkla2uTC0PwRJTFQ/lTjc=
 			</data>
 		</dict>
 		<key>BRAddNewCardTableViewCell.nib</key>
@@ -445,14 +445,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ht9xXKRMFpyYU2NihSeMv7fQjLpRdhOVDHPJ8Qw/E2w=
+			VFnTancJSIQYLwl2cuWVUDwwY3Re6SGhj/s80MjaP98=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			2+3ehyM98KvGgz4p1tgNfLwvC07PWh5vNx03VyZCrD4=
+			ix/u7++KpuCEcpq3jDN53GVPJk3tbhuDHNY4xdDAfBM=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.swiftdoc</key>
@@ -466,28 +466,28 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			2+3ehyM98KvGgz4p1tgNfLwvC07PWh5vNx03VyZCrD4=
+			ix/u7++KpuCEcpq3jDN53GVPJk3tbhuDHNY4xdDAfBM=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			4tJSopVjQS/f4txaM2NrpORGL9J9r3iVIXWGPeZpYp4=
+			Dl9J54XhpWS7RRGEqCSgPzvVJIr84HnOy+hxe5UmgWA=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.abi.json</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			Ht9xXKRMFpyYU2NihSeMv7fQjLpRdhOVDHPJ8Qw/E2w=
+			VFnTancJSIQYLwl2cuWVUDwwY3Re6SGhj/s80MjaP98=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.private.swiftinterface</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			A7XvkV9rBSRxSsI7im+pDBhZEULwsMLPkKBkhK67TQo=
+			AEUVFP+6ZQCHIbMvgxsHuPvuomgCwHvBnl1GwUuyIkI=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftdoc</key>
@@ -501,14 +501,14 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			A7XvkV9rBSRxSsI7im+pDBhZEULwsMLPkKBkhK67TQo=
+			AEUVFP+6ZQCHIbMvgxsHuPvuomgCwHvBnl1GwUuyIkI=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/x86_64-apple-ios-simulator.swiftmodule</key>
 		<dict>
 			<key>hash2</key>
 			<data>
-			5mwJGklzP5hceiz6kIlHB0UfXlk6TaoxMD7vPy1ett8=
+			kz4idzQgkSnhrfJ5QpUKEsxP1E/3fpjKS4Bn+GaKyxs=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

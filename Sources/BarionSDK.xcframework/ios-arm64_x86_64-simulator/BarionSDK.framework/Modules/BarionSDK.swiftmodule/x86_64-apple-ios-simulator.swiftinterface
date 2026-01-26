@@ -21,13 +21,64 @@ import UIKit
 import VideoToolbox
 import Vision
 import _Concurrency
+import _PassKit_SwiftUI
 import _StringProcessing
 import _SwiftConcurrencyShims
 import os.log
 import os
+@_hasMissingDesignatedInitializers final public class BRFontLoader {
+  public static func registerFonts()
+  @objc deinit
+}
+public struct ApplePayButtonOptions {
+  public var buttonRenderOptions: BarionSDK.ApplePayButtonRenderOptions?
+  public init(buttonRenderOptions: BarionSDK.ApplePayButtonRenderOptions? = nil)
+}
+public struct ApplePayButtonRenderOptions {
+  public var buttonType: BarionSDK.ApplePayButtonType?
+  public var buttonStyle: BarionSDK.ApplePayButtonStyle?
+  public init(buttonType: BarionSDK.ApplePayButtonType? = nil, buttonStyle: BarionSDK.ApplePayButtonStyle? = nil)
+}
+public enum ApplePayButtonStyle : Swift.Int {
+  case white
+  case whiteOutline
+  case black
+  case automatic
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
+public enum ApplePayButtonType : Swift.Int {
+  case plain
+  case buy
+  case setUp
+  case inStore
+  case donate
+  case checkout
+  case book
+  case subscribe
+  case reload
+  case addMoney
+  case topUp
+  case order
+  case rent
+  case support
+  case contribute
+  case tip
+  case `continue`
+  public init?(rawValue: Swift.Int)
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
+}
 final public class BarionGatewayPlugin {
-  public init(paymentClientSecret: Swift.String, configuration: BarionSDK.BarionGatewayPluginConfiguration? = nil) async
+  public init(paymentClientSecret: Swift.String, configuration: BarionSDK.BarionGatewayPluginConfiguration? = nil, useApplePayButton: Swift.Bool = false) async
   @_Concurrency.MainActor final public func present(from rootViewController: UIKit.UIViewController, paymentOptions: BarionSDK.BarionGatewayPluginOptions? = nil, onSuccess: @escaping (BarionSDK.PaymentResult) -> Swift.Void, onFailure: @escaping (BarionSDK.PaymentError) -> Swift.Void)
+  @_Concurrency.MainActor final public func getApplePayButton(buttonOptions: BarionSDK.ApplePayButtonOptions? = nil, onSuccess: @escaping (BarionSDK.PaymentResult) -> Swift.Void, onFailure: @escaping (BarionSDK.PaymentError) -> Swift.Void) -> some SwiftUICore.View
+  
   @objc deinit
 }
 public struct BarionGatewayPluginConfiguration {
@@ -166,13 +217,15 @@ public enum PluginResult {
 public protocol SDKClientEventListener {
   func onEvent(_ event: Swift.String)
 }
-@_hasMissingDesignatedInitializers final public class BRFontLoader {
-  public static func registerFonts()
-  @objc deinit
-}
 extension BarionSDK.BarionSDKAppearance : Swift.Equatable {}
 extension BarionSDK.BarionSDKAppearance : Swift.Hashable {}
 extension BarionSDK.BarionSDKAppearance : Swift.RawRepresentable {}
+extension BarionSDK.ApplePayButtonStyle : Swift.Equatable {}
+extension BarionSDK.ApplePayButtonStyle : Swift.Hashable {}
+extension BarionSDK.ApplePayButtonStyle : Swift.RawRepresentable {}
+extension BarionSDK.ApplePayButtonType : Swift.Equatable {}
+extension BarionSDK.ApplePayButtonType : Swift.Hashable {}
+extension BarionSDK.ApplePayButtonType : Swift.RawRepresentable {}
 extension BarionSDK.PaymentErrorCode : Swift.Equatable {}
 extension BarionSDK.PaymentErrorCode : Swift.Hashable {}
 extension BarionSDK.PaymentErrorCode : Swift.RawRepresentable {}
