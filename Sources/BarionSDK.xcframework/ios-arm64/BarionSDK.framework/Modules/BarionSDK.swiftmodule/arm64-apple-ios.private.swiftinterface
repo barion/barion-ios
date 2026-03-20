@@ -1,7 +1,7 @@
 // swift-interface-format-version: 1.0
-// swift-compiler-version: Apple Swift version 6.0.3 effective-5.10 (swiftlang-6.0.3.1.10 clang-1600.0.30.1)
-// swift-module-flags: -target arm64-apple-ios15.6 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-bare-slash-regex -module-name BarionSDK
-// swift-module-flags-ignorable: -no-verify-emitted-module-interface
+// swift-compiler-version: Apple Swift version 6.2.3 effective-5.10 (swiftlang-6.2.3.3.21 clang-1700.6.3.2)
+// swift-module-flags: -target arm64-apple-ios15.6 -enable-objc-interop -enable-library-evolution -swift-version 5 -enforce-exclusivity=checked -O -enable-experimental-feature DebugDescriptionMacro -enable-bare-slash-regex -module-name BarionSDK
+// swift-module-flags-ignorable: -no-verify-emitted-module-interface -formal-cxx-interoperability-mode=off -interface-compiler-version 6.2.3
 import AVFoundation
 import AVKit
 import Accelerate
@@ -26,25 +26,27 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 import os.log
 import os
-@_hasMissingDesignatedInitializers final public class BRFontLoader {
-  public static func registerFonts()
-  @objc deinit
-}
 public struct ApplePayButtonOptions {
   public var buttonRenderOptions: BarionSDK.ApplePayButtonRenderOptions?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(buttonRenderOptions: BarionSDK.ApplePayButtonRenderOptions? = nil)
+  #endif
 }
 public struct ApplePayButtonRenderOptions {
   public var buttonType: BarionSDK.ApplePayButtonType?
   public var buttonStyle: BarionSDK.ApplePayButtonStyle?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(buttonType: BarionSDK.ApplePayButtonType? = nil, buttonStyle: BarionSDK.ApplePayButtonStyle? = nil)
+  #endif
 }
 public enum ApplePayButtonStyle : Swift.Int {
   case white
   case whiteOutline
   case black
   case automatic
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.Int)
+  #endif
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
@@ -68,48 +70,54 @@ public enum ApplePayButtonType : Swift.Int {
   case contribute
   case tip
   case `continue`
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.Int)
+  #endif
   public typealias RawValue = Swift.Int
   public var rawValue: Swift.Int {
     get
   }
 }
 final public class BarionGatewayPlugin {
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(paymentClientSecret: Swift.String, configuration: BarionSDK.BarionGatewayPluginConfiguration? = nil, useApplePayButton: Swift.Bool = false) async
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor final public func present(from rootViewController: UIKit.UIViewController, paymentOptions: BarionSDK.BarionGatewayPluginOptions? = nil, onSuccess: @escaping (BarionSDK.PaymentResult) -> Swift.Void, onFailure: @escaping (BarionSDK.PaymentError) -> Swift.Void)
+  #endif
+  #if compiler(>=5.3) && $NonescapableTypes
   @_Concurrency.MainActor final public func getApplePayButton(buttonOptions: BarionSDK.ApplePayButtonOptions? = nil, onSuccess: @escaping (BarionSDK.PaymentResult) -> Swift.Void, onFailure: @escaping (BarionSDK.PaymentError) -> Swift.Void) -> some SwiftUICore.View
   
+  #endif
   @objc deinit
 }
 public struct BarionGatewayPluginConfiguration {
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(sdkEventListener: (any BarionSDK.SDKClientEventListener)? = nil)
+  #endif
 }
 public struct BarionGatewayPluginOptions {
   public var renderOptions: BarionSDK.RenderOptions?
   public var merchantOwnedPaymentData: BarionSDK.MerchantOwnedPaymentData?
   public var locale: Swift.String?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(renderOptions: BarionSDK.RenderOptions? = nil, merchantOwnedPaymentData: BarionSDK.MerchantOwnedPaymentData? = nil, locale: Swift.String? = nil)
+  #endif
 }
 public struct MerchantOwnedPaymentData {
   public var methods: [BarionSDK.Method]?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(methods: [BarionSDK.Method]? = nil)
+  #endif
 }
 public struct Method {
   public var methodType: Swift.String?
   public var token: Swift.String
   public var title: Swift.String
   public var subtitle: Swift.String?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(methodType: Swift.String?, token: Swift.String, title: Swift.String, subtitle: Swift.String? = nil)
-}
-public enum BarionSDKAppearance : Swift.String {
-  case automatic
-  case light
-  case dark
-  public init?(rawValue: Swift.String)
-  public typealias RawValue = Swift.String
-  public var rawValue: Swift.String {
-    get
-  }
+  #endif
 }
 public struct RenderOptions {
   public var font: UIKit.UIFont?
@@ -117,22 +125,40 @@ public struct RenderOptions {
   public var primaryButton: BarionSDK.PrimaryButton?
   public var paymentMethodOrder: [Swift.String]?
   public var hidePoweredByLabel: Swift.Bool
-  public var appearance: BarionSDK.BarionSDKAppearance
-  public init(font: UIKit.UIFont? = nil, colors: BarionSDK.Colors? = nil, primaryButton: BarionSDK.PrimaryButton? = nil, paymentMethodOrder: [Swift.String]? = nil, hidePoweredByLabel: Swift.Bool? = nil, appearance: BarionSDK.BarionSDKAppearance = .automatic)
+  public var appearance: BarionSDK.Appearance?
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init(font: UIKit.UIFont? = nil, colors: BarionSDK.Colors? = nil, primaryButton: BarionSDK.PrimaryButton? = nil, paymentMethodOrder: [Swift.String]? = nil, hidePoweredByLabel: Swift.Bool? = nil, appearance: BarionSDK.Appearance? = nil)
+  #endif
+}
+public enum Appearance : Swift.Int {
+  case automatic
+  case light
+  case dark
+  #if compiler(>=5.3) && $NonescapableTypes
+  public init?(rawValue: Swift.Int)
+  #endif
+  public typealias RawValue = Swift.Int
+  public var rawValue: Swift.Int {
+    get
+  }
 }
 public struct PrimaryButton {
   public var titleColor: UIKit.UIColor?
   public var backgroundColor: UIKit.UIColor?
   public var shadow: BarionSDK.Shadow?
   public var font: UIKit.UIFont?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(titleColor: UIKit.UIColor? = nil, backgroundColor: UIKit.UIColor? = nil, shadow: BarionSDK.Shadow? = nil, font: UIKit.UIFont? = nil)
+  #endif
 }
 public struct Shadow {
   public var shadowColor: UIKit.UIColor?
   public var shadowOffset: CoreFoundation.CGSize?
   public var shadowOpacity: Swift.Float?
   public var shadowRadius: CoreFoundation.CGFloat?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(shadowColor: UIKit.UIColor? = nil, shadowOffset: CoreFoundation.CGSize? = nil, shadowOpacity: Swift.Float? = nil, shadowRadius: CoreFoundation.CGFloat? = nil)
+  #endif
 }
 public struct Colors {
   public var background: UIKit.UIColor?
@@ -143,13 +169,17 @@ public struct Colors {
   public var secondaryText: UIKit.UIColor?
   public var inputColors: BarionSDK.InputColors?
   public var fundingSourceColors: BarionSDK.FundingSourceColors?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(background: UIKit.UIColor? = nil, primary: UIKit.UIColor? = nil, title: UIKit.UIColor? = nil, subtitle: UIKit.UIColor? = nil, text: UIKit.UIColor? = nil, secondaryText: UIKit.UIColor? = nil, inputColors: BarionSDK.InputColors? = nil, fundingSourceColors: BarionSDK.FundingSourceColors? = nil)
+  #endif
 }
 public struct FundingSourceColors {
   public var title: UIKit.UIColor?
   public var subtitle: UIKit.UIColor?
   public var background: UIKit.UIColor?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(title: UIKit.UIColor? = nil, subtitle: UIKit.UIColor? = nil, background: UIKit.UIColor? = nil)
+  #endif
 }
 public struct InputColors {
   public var background: UIKit.UIColor?
@@ -158,12 +188,16 @@ public struct InputColors {
   public var label: UIKit.UIColor?
   public var error: UIKit.UIColor?
   public var link: UIKit.UIColor?
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(background: UIKit.UIColor? = nil, border: UIKit.UIColor? = nil, placeholder: UIKit.UIColor? = nil, label: UIKit.UIColor? = nil, error: UIKit.UIColor? = nil, link: UIKit.UIColor? = nil)
+  #endif
 }
 public struct PaymentError {
   public var message: Swift.String?
   public var errorCode: BarionSDK.PaymentErrorCode
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(message: Swift.String? = nil, errorCode: BarionSDK.PaymentErrorCode)
+  #endif
 }
 public enum PaymentErrorCode : Swift.String, Swift.Codable {
   case invalidRequest
@@ -176,7 +210,9 @@ public enum PaymentErrorCode : Swift.String, Swift.Codable {
   case navigationControllerMissing
   case applePayInitializationError
   case applePayPaymentError
+  #if compiler(>=5.3) && $NonescapableTypes
   public init?(rawValue: Swift.String)
+  #endif
   public typealias RawValue = Swift.String
   public var rawValue: Swift.String {
     get
@@ -193,13 +229,21 @@ public struct FundingInformation : Swift.Decodable {
   public enum CodingKeys : Swift.String, Swift.CodingKey {
     case authorizationCode
     case processResult
+    #if compiler(>=5.3) && $NonescapableTypes
     public init?(rawValue: Swift.String)
+    #endif
+    #if compiler(>=5.3) && $NonescapableTypes
     public init?(stringValue: Swift.String)
+    #endif
+    #if compiler(>=5.3) && $NonescapableTypes
     public init?(intValue: Swift.Int)
+    #endif
     public typealias RawValue = Swift.String
+    #if compiler(>=5.3) && $NonescapableTypes
     public var intValue: Swift.Int? {
       get
     }
+    #endif
     public var rawValue: Swift.String {
       get
     }
@@ -207,7 +251,9 @@ public struct FundingInformation : Swift.Decodable {
       get
     }
   }
+  #if compiler(>=5.3) && $NonescapableTypes
   public init(authorizationCode: Swift.String? = nil, processResult: Swift.String? = nil)
+  #endif
   public init(from decoder: any Swift.Decoder) throws
 }
 public enum PluginResult {
@@ -217,15 +263,19 @@ public enum PluginResult {
 public protocol SDKClientEventListener {
   func onEvent(_ event: Swift.String)
 }
-extension BarionSDK.BarionSDKAppearance : Swift.Equatable {}
-extension BarionSDK.BarionSDKAppearance : Swift.Hashable {}
-extension BarionSDK.BarionSDKAppearance : Swift.RawRepresentable {}
+@_hasMissingDesignatedInitializers final public class BRFontLoader {
+  public static func registerFonts()
+  @objc deinit
+}
 extension BarionSDK.ApplePayButtonStyle : Swift.Equatable {}
 extension BarionSDK.ApplePayButtonStyle : Swift.Hashable {}
 extension BarionSDK.ApplePayButtonStyle : Swift.RawRepresentable {}
 extension BarionSDK.ApplePayButtonType : Swift.Equatable {}
 extension BarionSDK.ApplePayButtonType : Swift.Hashable {}
 extension BarionSDK.ApplePayButtonType : Swift.RawRepresentable {}
+extension BarionSDK.Appearance : Swift.Equatable {}
+extension BarionSDK.Appearance : Swift.Hashable {}
+extension BarionSDK.Appearance : Swift.RawRepresentable {}
 extension BarionSDK.PaymentErrorCode : Swift.Equatable {}
 extension BarionSDK.PaymentErrorCode : Swift.Hashable {}
 extension BarionSDK.PaymentErrorCode : Swift.RawRepresentable {}

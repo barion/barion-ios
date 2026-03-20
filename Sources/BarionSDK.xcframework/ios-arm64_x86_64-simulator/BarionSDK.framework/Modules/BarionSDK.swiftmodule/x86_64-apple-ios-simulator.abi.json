@@ -446,13 +446,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -470,84 +463,6 @@
         "declAttributes": [
           "RawDocComment"
         ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
       },
       {
         "kind": "Import",
@@ -642,6 +557,13 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -652,10 +574,20 @@
       },
       {
         "kind": "Import",
-        "name": "CoreText",
-        "printedName": "CoreText",
+        "name": "UIKit",
+        "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -665,58 +597,51 @@
         "moduleName": "BarionSDK"
       },
       {
-        "kind": "TypeDecl",
-        "name": "BRFontLoader",
-        "printedName": "BRFontLoader",
-        "children": [
-          {
-            "kind": "Function",
-            "name": "registerFonts",
-            "printedName": "registerFonts()",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Void",
-                "printedName": "()"
-              }
-            ],
-            "declKind": "Func",
-            "usr": "s:9BarionSDK12BRFontLoaderC13registerFontsyyFZ",
-            "mangledName": "$s9BarionSDK12BRFontLoaderC13registerFontsyyFZ",
-            "moduleName": "BarionSDK",
-            "static": true,
-            "declAttributes": [
-              "Final",
-              "AccessControl"
-            ],
-            "funcSelfKind": "NonMutating"
-          }
-        ],
-        "declKind": "Class",
-        "usr": "s:9BarionSDK12BRFontLoaderC",
-        "mangledName": "$s9BarionSDK12BRFontLoaderC",
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
         "moduleName": "BarionSDK",
         "declAttributes": [
-          "Final",
-          "AccessControl"
-        ],
-        "hasMissingDesignatedInitializers": true,
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          }
+          "RawDocComment"
         ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
       },
       {
         "kind": "Import",
@@ -3891,256 +3816,6 @@
       },
       {
         "kind": "TypeDecl",
-        "name": "BarionSDKAppearance",
-        "printedName": "BarionSDKAppearance",
-        "children": [
-          {
-            "kind": "Var",
-            "name": "automatic",
-            "printedName": "automatic",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(BarionSDK.BarionSDKAppearance.Type) -> BarionSDK.BarionSDKAppearance",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "BarionSDKAppearance",
-                    "printedName": "BarionSDK.BarionSDKAppearance",
-                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "BarionSDK.BarionSDKAppearance.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BarionSDKAppearance",
-                        "printedName": "BarionSDK.BarionSDKAppearance",
-                        "usr": "s:9BarionSDK0A13SDKAppearanceO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:9BarionSDK0A13SDKAppearanceO9automaticyA2CmF",
-            "mangledName": "$s9BarionSDK0A13SDKAppearanceO9automaticyA2CmF",
-            "moduleName": "BarionSDK"
-          },
-          {
-            "kind": "Var",
-            "name": "light",
-            "printedName": "light",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(BarionSDK.BarionSDKAppearance.Type) -> BarionSDK.BarionSDKAppearance",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "BarionSDKAppearance",
-                    "printedName": "BarionSDK.BarionSDKAppearance",
-                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "BarionSDK.BarionSDKAppearance.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BarionSDKAppearance",
-                        "printedName": "BarionSDK.BarionSDKAppearance",
-                        "usr": "s:9BarionSDK0A13SDKAppearanceO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:9BarionSDK0A13SDKAppearanceO5lightyA2CmF",
-            "mangledName": "$s9BarionSDK0A13SDKAppearanceO5lightyA2CmF",
-            "moduleName": "BarionSDK"
-          },
-          {
-            "kind": "Var",
-            "name": "dark",
-            "printedName": "dark",
-            "children": [
-              {
-                "kind": "TypeFunc",
-                "name": "Function",
-                "printedName": "(BarionSDK.BarionSDKAppearance.Type) -> BarionSDK.BarionSDKAppearance",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "BarionSDKAppearance",
-                    "printedName": "BarionSDK.BarionSDKAppearance",
-                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
-                  },
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Metatype",
-                    "printedName": "BarionSDK.BarionSDKAppearance.Type",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "BarionSDKAppearance",
-                        "printedName": "BarionSDK.BarionSDKAppearance",
-                        "usr": "s:9BarionSDK0A13SDKAppearanceO"
-                      }
-                    ]
-                  }
-                ]
-              }
-            ],
-            "declKind": "EnumElement",
-            "usr": "s:9BarionSDK0A13SDKAppearanceO4darkyA2CmF",
-            "mangledName": "$s9BarionSDK0A13SDKAppearanceO4darkyA2CmF",
-            "moduleName": "BarionSDK"
-          },
-          {
-            "kind": "Constructor",
-            "name": "init",
-            "printedName": "init(rawValue:)",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "Optional",
-                "printedName": "BarionSDK.BarionSDKAppearance?",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "BarionSDKAppearance",
-                    "printedName": "BarionSDK.BarionSDKAppearance",
-                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
-                  }
-                ],
-                "usr": "s:Sq"
-              },
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Constructor",
-            "usr": "s:9BarionSDK0A13SDKAppearanceO8rawValueACSgSS_tcfc",
-            "mangledName": "$s9BarionSDK0A13SDKAppearanceO8rawValueACSgSS_tcfc",
-            "moduleName": "BarionSDK",
-            "implicit": true,
-            "init_kind": "Designated"
-          },
-          {
-            "kind": "Var",
-            "name": "rawValue",
-            "printedName": "rawValue",
-            "children": [
-              {
-                "kind": "TypeNominal",
-                "name": "String",
-                "printedName": "Swift.String",
-                "usr": "s:SS"
-              }
-            ],
-            "declKind": "Var",
-            "usr": "s:9BarionSDK0A13SDKAppearanceO8rawValueSSvp",
-            "mangledName": "$s9BarionSDK0A13SDKAppearanceO8rawValueSSvp",
-            "moduleName": "BarionSDK",
-            "implicit": true,
-            "accessors": [
-              {
-                "kind": "Accessor",
-                "name": "Get",
-                "printedName": "Get()",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ],
-                "declKind": "Accessor",
-                "usr": "s:9BarionSDK0A13SDKAppearanceO8rawValueSSvg",
-                "mangledName": "$s9BarionSDK0A13SDKAppearanceO8rawValueSSvg",
-                "moduleName": "BarionSDK",
-                "implicit": true,
-                "accessorKind": "get"
-              }
-            ]
-          }
-        ],
-        "declKind": "Enum",
-        "usr": "s:9BarionSDK0A13SDKAppearanceO",
-        "mangledName": "$s9BarionSDK0A13SDKAppearanceO",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ],
-        "enumRawTypeName": "String",
-        "conformances": [
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "RawRepresentable",
-            "printedName": "RawRepresentable",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "RawValue",
-                "printedName": "RawValue",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "String",
-                    "printedName": "Swift.String",
-                    "usr": "s:SS"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:SY",
-            "mangledName": "$sSY"
-          }
-        ]
-      },
-      {
-        "kind": "TypeDecl",
         "name": "RenderOptions",
         "printedName": "RenderOptions",
         "children": [
@@ -4701,14 +4376,22 @@
             "children": [
               {
                 "kind": "TypeNominal",
-                "name": "BarionSDKAppearance",
-                "printedName": "BarionSDK.BarionSDKAppearance",
-                "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                "name": "Optional",
+                "printedName": "BarionSDK.Appearance?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Appearance",
+                    "printedName": "BarionSDK.Appearance",
+                    "usr": "s:9BarionSDK10AppearanceO"
+                  }
+                ],
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Var",
-            "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvp",
-            "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvp",
+            "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA10AppearanceOSgvp",
+            "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA10AppearanceOSgvp",
             "moduleName": "BarionSDK",
             "declAttributes": [
               "HasInitialValue",
@@ -4724,14 +4407,22 @@
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "BarionSDKAppearance",
-                    "printedName": "BarionSDK.BarionSDKAppearance",
-                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                    "name": "Optional",
+                    "printedName": "BarionSDK.Appearance?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Appearance",
+                        "printedName": "BarionSDK.Appearance",
+                        "usr": "s:9BarionSDK10AppearanceO"
+                      }
+                    ],
+                    "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvg",
-                "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvg",
+                "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA10AppearanceOSgvg",
+                "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA10AppearanceOSgvg",
                 "moduleName": "BarionSDK",
                 "implicit": true,
                 "accessorKind": "get"
@@ -4748,14 +4439,22 @@
                   },
                   {
                     "kind": "TypeNominal",
-                    "name": "BarionSDKAppearance",
-                    "printedName": "BarionSDK.BarionSDKAppearance",
-                    "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                    "name": "Optional",
+                    "printedName": "BarionSDK.Appearance?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Appearance",
+                        "printedName": "BarionSDK.Appearance",
+                        "usr": "s:9BarionSDK10AppearanceO"
+                      }
+                    ],
+                    "usr": "s:Sq"
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvs",
-                "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvs",
+                "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA10AppearanceOSgvs",
+                "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA10AppearanceOSgvs",
                 "moduleName": "BarionSDK",
                 "implicit": true,
                 "accessorKind": "set"
@@ -4772,8 +4471,8 @@
                   }
                 ],
                 "declKind": "Accessor",
-                "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvM",
-                "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA0A13SDKAppearanceOvM",
+                "usr": "s:9BarionSDK13RenderOptionsV10appearanceAA10AppearanceOSgvM",
+                "mangledName": "$s9BarionSDK13RenderOptionsV10appearanceAA10AppearanceOSgvM",
                 "moduleName": "BarionSDK",
                 "implicit": true,
                 "accessorKind": "_modify"
@@ -4876,15 +4575,23 @@
               },
               {
                 "kind": "TypeNominal",
-                "name": "BarionSDKAppearance",
-                "printedName": "BarionSDK.BarionSDKAppearance",
+                "name": "Optional",
+                "printedName": "BarionSDK.Appearance?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Appearance",
+                    "printedName": "BarionSDK.Appearance",
+                    "usr": "s:9BarionSDK10AppearanceO"
+                  }
+                ],
                 "hasDefaultArg": true,
-                "usr": "s:9BarionSDK0A13SDKAppearanceO"
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:9BarionSDK13RenderOptionsV4font6colors13primaryButton18paymentMethodOrder18hidePoweredByLabel10appearanceACSo6UIFontCSg_AA6ColorsVSgAA07PrimaryH0VSgSaySSGSgSbSgAA0A13SDKAppearanceOtcfc",
-            "mangledName": "$s9BarionSDK13RenderOptionsV4font6colors13primaryButton18paymentMethodOrder18hidePoweredByLabel10appearanceACSo6UIFontCSg_AA6ColorsVSgAA07PrimaryH0VSgSaySSGSgSbSgAA0A13SDKAppearanceOtcfc",
+            "usr": "s:9BarionSDK13RenderOptionsV4font6colors13primaryButton18paymentMethodOrder18hidePoweredByLabel10appearanceACSo6UIFontCSg_AA6ColorsVSgAA07PrimaryH0VSgSaySSGSgSbSgAA10AppearanceOSgtcfc",
+            "mangledName": "$s9BarionSDK13RenderOptionsV4font6colors13primaryButton18paymentMethodOrder18hidePoweredByLabel10appearanceACSo6UIFontCSg_AA6ColorsVSgAA07PrimaryH0VSgSaySSGSgSbSgAA10AppearanceOSgtcfc",
             "moduleName": "BarionSDK",
             "declAttributes": [
               "AccessControl"
@@ -4913,6 +4620,256 @@
             "printedName": "Escapable",
             "usr": "s:s9EscapableP",
             "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Appearance",
+        "printedName": "Appearance",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "automatic",
+            "printedName": "automatic",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BarionSDK.Appearance.Type) -> BarionSDK.Appearance",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Appearance",
+                    "printedName": "BarionSDK.Appearance",
+                    "usr": "s:9BarionSDK10AppearanceO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BarionSDK.Appearance.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Appearance",
+                        "printedName": "BarionSDK.Appearance",
+                        "usr": "s:9BarionSDK10AppearanceO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9BarionSDK10AppearanceO9automaticyA2CmF",
+            "mangledName": "$s9BarionSDK10AppearanceO9automaticyA2CmF",
+            "moduleName": "BarionSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "light",
+            "printedName": "light",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BarionSDK.Appearance.Type) -> BarionSDK.Appearance",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Appearance",
+                    "printedName": "BarionSDK.Appearance",
+                    "usr": "s:9BarionSDK10AppearanceO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BarionSDK.Appearance.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Appearance",
+                        "printedName": "BarionSDK.Appearance",
+                        "usr": "s:9BarionSDK10AppearanceO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9BarionSDK10AppearanceO5lightyA2CmF",
+            "mangledName": "$s9BarionSDK10AppearanceO5lightyA2CmF",
+            "moduleName": "BarionSDK"
+          },
+          {
+            "kind": "Var",
+            "name": "dark",
+            "printedName": "dark",
+            "children": [
+              {
+                "kind": "TypeFunc",
+                "name": "Function",
+                "printedName": "(BarionSDK.Appearance.Type) -> BarionSDK.Appearance",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Appearance",
+                    "printedName": "BarionSDK.Appearance",
+                    "usr": "s:9BarionSDK10AppearanceO"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Metatype",
+                    "printedName": "BarionSDK.Appearance.Type",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Appearance",
+                        "printedName": "BarionSDK.Appearance",
+                        "usr": "s:9BarionSDK10AppearanceO"
+                      }
+                    ]
+                  }
+                ]
+              }
+            ],
+            "declKind": "EnumElement",
+            "usr": "s:9BarionSDK10AppearanceO4darkyA2CmF",
+            "mangledName": "$s9BarionSDK10AppearanceO4darkyA2CmF",
+            "moduleName": "BarionSDK"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(rawValue:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "BarionSDK.Appearance?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Appearance",
+                    "printedName": "BarionSDK.Appearance",
+                    "usr": "s:9BarionSDK10AppearanceO"
+                  }
+                ],
+                "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9BarionSDK10AppearanceO8rawValueACSgSi_tcfc",
+            "mangledName": "$s9BarionSDK10AppearanceO8rawValueACSgSi_tcfc",
+            "moduleName": "BarionSDK",
+            "implicit": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Var",
+            "name": "rawValue",
+            "printedName": "rawValue",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Int",
+                "printedName": "Swift.Int",
+                "usr": "s:Si"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9BarionSDK10AppearanceO8rawValueSivp",
+            "mangledName": "$s9BarionSDK10AppearanceO8rawValueSivp",
+            "moduleName": "BarionSDK",
+            "implicit": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK10AppearanceO8rawValueSivg",
+                "mangledName": "$s9BarionSDK10AppearanceO8rawValueSivg",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          }
+        ],
+        "declKind": "Enum",
+        "usr": "s:9BarionSDK10AppearanceO",
+        "mangledName": "$s9BarionSDK10AppearanceO",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ],
+        "enumRawTypeName": "Int",
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RawRepresentable",
+            "printedName": "RawRepresentable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "RawValue",
+                "printedName": "RawValue",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SY",
+            "mangledName": "$sSY"
           }
         ]
       },
@@ -9906,6 +9863,13 @@
                 "printedName": "Sendable",
                 "usr": "s:s8SendableP",
                 "mangledName": "$ss8SendableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "SendableMetatype",
+                "printedName": "SendableMetatype",
+                "usr": "s:s16SendableMetatypeP",
+                "mangledName": "$ss16SendableMetatypeP"
               }
             ]
           },
@@ -11235,6 +11199,111 @@
       },
       {
         "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreText",
+        "printedName": "CoreText",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BRFontLoader",
+        "printedName": "BRFontLoader",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "registerFonts",
+            "printedName": "registerFonts()",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9BarionSDK12BRFontLoaderC13registerFontsyyFZ",
+            "mangledName": "$s9BarionSDK12BRFontLoaderC13registerFontsyyFZ",
+            "moduleName": "BarionSDK",
+            "static": true,
+            "declAttributes": [
+              "Final",
+              "AccessControl"
+            ],
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Class",
+        "usr": "s:9BarionSDK12BRFontLoaderC",
+        "mangledName": "$s9BarionSDK12BRFontLoaderC",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "Final",
+          "AccessControl"
+        ],
+        "hasMissingDesignatedInitializers": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -11283,36 +11352,6 @@
         "printedName": "CommonCrypto",
         "declKind": "Import",
         "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
       },
       {
         "kind": "Import",
@@ -12116,6 +12155,90 @@
       "value": "\"https:\/\/mobilelog.barion.com\/v3\/\""
     },
     {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 468,
+      "length": 11,
+      "value": "\"resources\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 506,
+      "length": 12,
+      "value": "\"attributes\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 544,
+      "length": 12,
+      "value": "\"@timestamp\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 577,
+      "length": 9,
+      "value": "\"message\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 611,
+      "length": 15,
+      "value": "\"severity_text\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 648,
+      "length": 7,
+      "value": "\"scope\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 873,
+      "length": 6,
+      "value": "\"name\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 902,
+      "length": 8,
+      "value": "\"domain\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1054,
+      "length": 6,
+      "value": "\"name\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1616,
+      "length": 13,
+      "value": "\"information\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1647,
+      "length": 7,
+      "value": "\"debug\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
+      "kind": "StringLiteral",
+      "offset": 1672,
+      "length": 7,
+      "value": "\"error\""
+    },
+    {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/DataSource\/Models\/BRApiError.swift",
       "kind": "StringLiteral",
       "offset": 222,
@@ -12295,124 +12418,152 @@
       "kind": "StringLiteral",
       "offset": 223,
       "length": 29,
-      "value": "\"https:\/\/api.demo.barion.com\""
+      "value": "\"https:\/\/api.demo.barion.dev\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
       "offset": 272,
       "length": 28,
-      "value": "\"https:\/\/api.dev.barion.com\""
+      "value": "\"https:\/\/api.dev.barion.dev\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
       "offset": 321,
       "length": 29,
-      "value": "\"https:\/\/api.hera.barion.com\""
+      "value": "\"https:\/\/api.hera.barion.dev\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
       "offset": 371,
       "length": 29,
-      "value": "\"https:\/\/api.thor.barion.com\""
+      "value": "\"https:\/\/api.thor.barion.dev\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
       "offset": 421,
       "length": 29,
-      "value": "\"https:\/\/api.zeus.barion.com\""
+      "value": "\"https:\/\/api.zeus.barion.dev\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
       "offset": 471,
       "length": 29,
-      "value": "\"https:\/\/api.odin.barion.com\""
+      "value": "\"https:\/\/api.odin.barion.dev\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
       "offset": 521,
       "length": 29,
-      "value": "\"https:\/\/api.loki.barion.com\""
+      "value": "\"https:\/\/api.loki.barion.dev\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 604,
+      "offset": 571,
+      "length": 29,
+      "value": "\"https:\/\/api.yoda.barion.dev\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 622,
+      "length": 30,
+      "value": "\"https:\/\/api.frodo.barion.dev\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 675,
+      "length": 31,
+      "value": "\"https:\/\/api.apollo.barion.dev\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 728,
+      "length": 30,
+      "value": "\"https:\/\/api.atlas.barion.dev\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 812,
       "length": 2,
       "value": "\"\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 631,
+      "offset": 839,
       "length": 25,
       "value": "\"\/v1\/paymentcard\/version\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 685,
+      "offset": 893,
       "length": 38,
       "value": "\"\/v3\/threeds\/AllCardSchemeInformation\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 762,
+      "offset": 970,
       "length": 40,
       "value": "\"\/v3\/payment\/StartAppPaymentWithNewCard\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 842,
+      "offset": 1050,
       "length": 44,
       "value": "\"\/v3\/payment\/StartAppPaymentWithAppleWallet\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 927,
+      "offset": 1135,
       "length": 42,
       "value": "\"\/v3\/payment\/StartAppPaymentWithSavedCard\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1014,
+      "offset": 1222,
       "length": 49,
       "value": "\"\/v3\/payment\/StartAppPaymentWithSavedCardWithCVC\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1105,
+      "offset": 1313,
       "length": 43,
       "value": "\"\/v3\/payment\/CompleteAppPaymentWithNewCard\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1192,
+      "offset": 1400,
       "length": 45,
       "value": "\"\/v3\/payment\/CompleteAppPaymentWithSavedCard\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1285,
+      "offset": 1493,
       "length": 52,
       "value": "\"\/v3\/payment\/CompleteAppPaymentWithSavedCardWithCVC\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1364,
+      "offset": 1572,
       "length": 20,
       "value": "\"\/v5\/payment\/config\""
     },
@@ -12487,6 +12638,34 @@
       "value": "\"sandbox\""
     },
     {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 393,
+      "length": 6,
+      "value": "\"yoda\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 417,
+      "length": 7,
+      "value": "\"frodo\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 443,
+      "length": 8,
+      "value": "\"apollo\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREnvironment.swift",
+      "kind": "StringLiteral",
+      "offset": 469,
+      "length": 7,
+      "value": "\"atlas\""
+    },
+    {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRBaseViewController.swift",
       "kind": "StringLiteral",
       "offset": 4167,
@@ -12513,41 +12692,6 @@
       "offset": 5293,
       "length": 5,
       "value": "false"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
-      "kind": "StringLiteral",
-      "offset": 714,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
-      "kind": "Array",
-      "offset": 1122,
-      "length": 2,
-      "value": "[]"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1357,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRBaseUtils.swift",
-      "kind": "StringLiteral",
-      "offset": 1159,
-      "length": 2,
-      "value": "\"\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRFontLoader.swift",
-      "kind": "Array",
-      "offset": 247,
-      "length": 191,
-      "value": "[\"weblysleekuil\", \"weblysleekuili\", \"weblysleekuisb\", \"weblysleekuisbi\", \"weblysleekuisl\", \"weblysleekuisli\"]"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/CardUtils\/CardNetwork.swift",
@@ -13000,9 +13144,30 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
       "kind": "BooleanLiteral",
-      "offset": 1407,
+      "offset": 1313,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1950,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1969,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1987,
+      "length": 1,
+      "value": "2"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
@@ -14013,6 +14178,41 @@
       "value": "8"
     },
     {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
+      "kind": "StringLiteral",
+      "offset": 714,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
+      "kind": "Array",
+      "offset": 1122,
+      "length": 2,
+      "value": "[]"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRPaymentFlowController.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1357,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRBaseUtils.swift",
+      "kind": "StringLiteral",
+      "offset": 1159,
+      "length": 2,
+      "value": "\"\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRFontLoader.swift",
+      "kind": "Array",
+      "offset": 247,
+      "length": 191,
+      "value": "[\"weblysleekuil\", \"weblysleekuili\", \"weblysleekuisb\", \"weblysleekuisbi\", \"weblysleekuisl\", \"weblysleekuisli\"]"
+    },
+    {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRLocalizationManager.swift",
       "kind": "StringLiteral",
       "offset": 296,
@@ -14116,90 +14316,6 @@
       "offset": 1022,
       "length": 30,
       "value": "\"ParkingDetailsViewController\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 468,
-      "length": 11,
-      "value": "\"resources\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 506,
-      "length": 12,
-      "value": "\"attributes\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 544,
-      "length": 12,
-      "value": "\"@timestamp\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 577,
-      "length": 9,
-      "value": "\"message\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 611,
-      "length": 15,
-      "value": "\"severity_text\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 648,
-      "length": 7,
-      "value": "\"scope\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 873,
-      "length": 6,
-      "value": "\"name\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 902,
-      "length": 8,
-      "value": "\"domain\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 1054,
-      "length": 6,
-      "value": "\"name\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 1616,
-      "length": 13,
-      "value": "\"information\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 1647,
-      "length": 7,
-      "value": "\"debug\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/Models\/BRActivityLog.swift",
-      "kind": "StringLiteral",
-      "offset": 1672,
-      "length": 7,
-      "value": "\"error\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/ActivityLogger.swift",
