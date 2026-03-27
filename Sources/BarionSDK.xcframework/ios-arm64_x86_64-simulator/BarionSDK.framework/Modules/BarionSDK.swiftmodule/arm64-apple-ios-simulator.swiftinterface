@@ -26,6 +26,18 @@ import _StringProcessing
 import _SwiftConcurrencyShims
 import os.log
 import os
+public struct BRAllowedCertificate : Swift.Codable, Swift.Equatable, Swift.Sendable {
+  public let subject: Swift.String
+  public let issuer: Swift.String
+  public init(subject: Swift.String, issuer: Swift.String)
+  public static func == (a: BarionSDK.BRAllowedCertificate, b: BarionSDK.BRAllowedCertificate) -> Swift.Bool
+  public func encode(to encoder: any Swift.Encoder) throws
+  public init(from decoder: any Swift.Decoder) throws
+}
+public typealias BRAllowedCertificatesResponseModel = [BarionSDK.BRAllowedCertificate]
+extension Swift.Array where Element == BarionSDK.BRAllowedCertificate {
+  public static func decode(from data: Foundation.Data, decoder: Foundation.JSONDecoder = JSONDecoder()) throws -> BarionSDK.BRAllowedCertificatesResponseModel
+}
 public struct ApplePayButtonOptions {
   public var buttonRenderOptions: BarionSDK.ApplePayButtonRenderOptions?
   #if compiler(>=5.3) && $NonescapableTypes

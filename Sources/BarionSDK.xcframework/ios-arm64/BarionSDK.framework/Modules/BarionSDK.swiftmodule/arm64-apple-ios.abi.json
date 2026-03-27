@@ -131,206 +131,6 @@
       },
       {
         "kind": "Import",
-        "name": "ipworks3ds_sdk",
-        "printedName": "ipworks3ds_sdk",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ipworks3ds_sdk",
-        "printedName": "ipworks3ds_sdk",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ipworks3ds_sdk",
-        "printedName": "ipworks3ds_sdk",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "ipworks3ds_sdk",
-        "printedName": "ipworks3ds_sdk",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "AccessControl"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "UIKit",
         "printedName": "UIKit",
         "declKind": "Import",
@@ -791,6 +591,1260 @@
         "printedName": "UIKit",
         "declKind": "Import",
         "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "VideoToolbox",
+        "printedName": "VideoToolbox",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "VideoToolbox",
+        "printedName": "VideoToolbox",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ipworks3ds_sdk",
+        "printedName": "ipworks3ds_sdk",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "BRAllowedCertificate",
+        "printedName": "BRAllowedCertificate",
+        "children": [
+          {
+            "kind": "Var",
+            "name": "subject",
+            "printedName": "subject",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9BarionSDK20BRAllowedCertificateV7subjectSSvp",
+            "mangledName": "$s9BarionSDK20BRAllowedCertificateV7subjectSSvp",
+            "moduleName": "BarionSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK20BRAllowedCertificateV7subjectSSvg",
+                "mangledName": "$s9BarionSDK20BRAllowedCertificateV7subjectSSvg",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "issuer",
+            "printedName": "issuer",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9BarionSDK20BRAllowedCertificateV6issuerSSvp",
+            "mangledName": "$s9BarionSDK20BRAllowedCertificateV6issuerSSvp",
+            "moduleName": "BarionSDK",
+            "declAttributes": [
+              "HasStorage",
+              "AccessControl",
+              "RawDocComment"
+            ],
+            "isLet": true,
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK20BRAllowedCertificateV6issuerSSvg",
+                "mangledName": "$s9BarionSDK20BRAllowedCertificateV6issuerSSvg",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              }
+            ]
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(subject:issuer:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "BRAllowedCertificate",
+                "printedName": "BarionSDK.BRAllowedCertificate",
+                "usr": "s:9BarionSDK20BRAllowedCertificateV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "String",
+                "printedName": "Swift.String",
+                "usr": "s:SS"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9BarionSDK20BRAllowedCertificateV7subject6issuerACSS_SStcfc",
+            "mangledName": "$s9BarionSDK20BRAllowedCertificateV7subject6issuerACSS_SStcfc",
+            "moduleName": "BarionSDK",
+            "declAttributes": [
+              "AccessControl"
+            ],
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Constructor",
+            "name": "init",
+            "printedName": "init(from:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "BRAllowedCertificate",
+                "printedName": "BarionSDK.BRAllowedCertificate",
+                "usr": "s:9BarionSDK20BRAllowedCertificateV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Decoder",
+                "printedName": "any Swift.Decoder",
+                "usr": "s:s7DecoderP"
+              }
+            ],
+            "declKind": "Constructor",
+            "usr": "s:9BarionSDK20BRAllowedCertificateV4fromACs7Decoder_p_tKcfc",
+            "mangledName": "$s9BarionSDK20BRAllowedCertificateV4fromACs7Decoder_p_tKcfc",
+            "moduleName": "BarionSDK",
+            "implicit": true,
+            "throwing": true,
+            "init_kind": "Designated"
+          },
+          {
+            "kind": "Function",
+            "name": "encode",
+            "printedName": "encode(to:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Void",
+                "printedName": "()"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Encoder",
+                "printedName": "any Swift.Encoder",
+                "usr": "s:s7EncoderP"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9BarionSDK20BRAllowedCertificateV6encode2toys7Encoder_p_tKF",
+            "mangledName": "$s9BarionSDK20BRAllowedCertificateV6encode2toys7Encoder_p_tKF",
+            "moduleName": "BarionSDK",
+            "implicit": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          },
+          {
+            "kind": "Function",
+            "name": "==",
+            "printedName": "==(_:_:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Bool",
+                "printedName": "Swift.Bool",
+                "usr": "s:Sb"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BRAllowedCertificate",
+                "printedName": "BarionSDK.BRAllowedCertificate",
+                "usr": "s:9BarionSDK20BRAllowedCertificateV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "BRAllowedCertificate",
+                "printedName": "BarionSDK.BRAllowedCertificate",
+                "usr": "s:9BarionSDK20BRAllowedCertificateV"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:9BarionSDK20BRAllowedCertificateV2eeoiySbAC_ACtFZ",
+            "mangledName": "$s9BarionSDK20BRAllowedCertificateV2eeoiySbAC_ACtFZ",
+            "moduleName": "BarionSDK",
+            "static": true,
+            "implicit": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:9BarionSDK20BRAllowedCertificateV",
+        "mangledName": "$s9BarionSDK20BRAllowedCertificateV",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl",
+          "RawDocComment"
+        ],
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          }
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ipworks3ds_sdk",
+        "printedName": "ipworks3ds_sdk",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ipworks3ds_sdk",
+        "printedName": "ipworks3ds_sdk",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "ipworks3ds_sdk",
+        "printedName": "ipworks3ds_sdk",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "AccessControl"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreML",
+        "printedName": "CoreML",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "os.log",
+        "printedName": "os.log",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Accelerate",
+        "printedName": "Accelerate",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Accelerate",
+        "printedName": "Accelerate",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Vision",
+        "printedName": "Vision",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreGraphics",
+        "printedName": "CoreGraphics",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVFoundation",
+        "printedName": "AVFoundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "AVKit",
+        "printedName": "AVKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "VideoToolbox",
+        "printedName": "VideoToolbox",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "CoreTelephony",
+        "printedName": "CoreTelephony",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "Import",
+        "name": "UIKit",
+        "printedName": "UIKit",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
+      },
+      {
+        "kind": "Import",
+        "name": "Foundation",
+        "printedName": "Foundation",
+        "declKind": "Import",
+        "moduleName": "BarionSDK",
+        "declAttributes": [
+          "RawDocComment"
+        ]
       },
       {
         "kind": "Import",
@@ -10191,778 +11245,6 @@
       },
       {
         "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "VideoToolbox",
-        "printedName": "VideoToolbox",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "VideoToolbox",
-        "printedName": "VideoToolbox",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreML",
-        "printedName": "CoreML",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreML",
-        "printedName": "CoreML",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreML",
-        "printedName": "CoreML",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreML",
-        "printedName": "CoreML",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreML",
-        "printedName": "CoreML",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "os.log",
-        "printedName": "os.log",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Accelerate",
-        "printedName": "Accelerate",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Accelerate",
-        "printedName": "Accelerate",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "AVKit",
-        "printedName": "AVKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Vision",
-        "printedName": "Vision",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreGraphics",
-        "printedName": "CoreGraphics",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "AVFoundation",
-        "printedName": "AVFoundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "AVKit",
-        "printedName": "AVKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "VideoToolbox",
-        "printedName": "VideoToolbox",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "CoreTelephony",
-        "printedName": "CoreTelephony",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK"
-      },
-      {
-        "kind": "Import",
-        "name": "UIKit",
-        "printedName": "UIKit",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
-        "name": "Foundation",
-        "printedName": "Foundation",
-        "declKind": "Import",
-        "moduleName": "BarionSDK",
-        "declAttributes": [
-          "RawDocComment"
-        ]
-      },
-      {
-        "kind": "Import",
         "name": "Foundation",
         "printedName": "Foundation",
         "declKind": "Import",
@@ -11407,6 +11689,792 @@
         "printedName": "DeveloperToolsSupport",
         "declKind": "Import",
         "moduleName": "BarionSDK"
+      },
+      {
+        "kind": "TypeDecl",
+        "name": "Array",
+        "printedName": "Array",
+        "children": [
+          {
+            "kind": "Function",
+            "name": "decode",
+            "printedName": "decode(from:decoder:)",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Array",
+                "printedName": "[BarionSDK.BRAllowedCertificate]",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "BRAllowedCertificate",
+                    "printedName": "BarionSDK.BRAllowedCertificate",
+                    "usr": "s:9BarionSDK20BRAllowedCertificateV"
+                  }
+                ],
+                "usr": "s:Sa"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Data",
+                "printedName": "Foundation.Data",
+                "usr": "s:10Foundation4DataV"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "JSONDecoder",
+                "printedName": "Foundation.JSONDecoder",
+                "hasDefaultArg": true,
+                "usr": "s:10Foundation11JSONDecoderC"
+              }
+            ],
+            "declKind": "Func",
+            "usr": "s:Sa9BarionSDKAA20BRAllowedCertificateVRszlE6decode4from7decoderSayACG10Foundation4DataV_AH11JSONDecoderCtKFZ",
+            "mangledName": "$sSa9BarionSDKAA20BRAllowedCertificateVRszlE6decode4from7decoderSayACG10Foundation4DataV_AH11JSONDecoderCtKFZ",
+            "moduleName": "BarionSDK",
+            "genericSig": "<τ_0_0 where τ_0_0 == BarionSDK.BRAllowedCertificate>",
+            "sugared_genericSig": "<Element where Element == BarionSDK.BRAllowedCertificate>",
+            "static": true,
+            "declAttributes": [
+              "RawDocComment"
+            ],
+            "isFromExtension": true,
+            "throwing": true,
+            "funcSelfKind": "NonMutating"
+          }
+        ],
+        "declKind": "Struct",
+        "usr": "s:Sa",
+        "mangledName": "$sSa",
+        "moduleName": "Swift",
+        "genericSig": "<τ_0_0>",
+        "sugared_genericSig": "<Element>",
+        "declAttributes": [
+          "EagerMove",
+          "Frozen"
+        ],
+        "isExternal": true,
+        "conformances": [
+          {
+            "kind": "Conformance",
+            "name": "_DestructorSafeContainer",
+            "printedName": "_DestructorSafeContainer",
+            "usr": "s:s24_DestructorSafeContainerP",
+            "mangledName": "$ss24_DestructorSafeContainerP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ArrayProtocol",
+            "printedName": "_ArrayProtocol",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_Buffer",
+                "printedName": "_Buffer",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "_ArrayBuffer",
+                    "printedName": "Swift._ArrayBuffer<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s12_ArrayBufferV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s14_ArrayProtocolP",
+            "mangledName": "$ss14_ArrayProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RandomAccessCollection",
+            "printedName": "RandomAccessCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Range",
+                    "printedName": "Swift.Range<Swift.Int>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sn"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sk",
+            "mangledName": "$sSk"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MutableCollection",
+            "printedName": "MutableCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SM",
+            "mangledName": "$sSM"
+          },
+          {
+            "kind": "Conformance",
+            "name": "BidirectionalCollection",
+            "printedName": "BidirectionalCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Range",
+                    "printedName": "Swift.Range<Swift.Int>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sn"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SK",
+            "mangledName": "$sSK"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Collection",
+            "printedName": "Collection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IndexingIterator",
+                    "printedName": "Swift.IndexingIterator<[τ_0_0]>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[τ_0_0]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:s16IndexingIteratorV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Range",
+                    "printedName": "Swift.Range<Swift.Int>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sn"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sl",
+            "mangledName": "$sSl"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sequence",
+            "printedName": "Sequence",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Iterator",
+                "printedName": "Iterator",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "IndexingIterator",
+                    "printedName": "Swift.IndexingIterator<[τ_0_0]>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[τ_0_0]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "GenericTypeParam",
+                            "printedName": "τ_0_0"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:s16IndexingIteratorV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:ST",
+            "mangledName": "$sST"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByArrayLiteral",
+            "printedName": "ExpressibleByArrayLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ArrayLiteralElement",
+                "printedName": "ArrayLiteralElement",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s25ExpressibleByArrayLiteralP",
+            "mangledName": "$ss25ExpressibleByArrayLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RangeReplaceableCollection",
+            "printedName": "RangeReplaceableCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sm",
+            "mangledName": "$sSm"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_HasCustomAnyHashableRepresentation",
+            "printedName": "_HasCustomAnyHashableRepresentation",
+            "usr": "s:s35_HasCustomAnyHashableRepresentationP",
+            "mangledName": "$ss35_HasCustomAnyHashableRepresentationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_HasContiguousBytes",
+            "printedName": "_HasContiguousBytes",
+            "usr": "s:s19_HasContiguousBytesP",
+            "mangledName": "$ss19_HasContiguousBytesP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "DataProtocol",
+            "printedName": "DataProtocol",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Regions",
+                "printedName": "Regions",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "CollectionOfOne",
+                    "printedName": "Swift.CollectionOfOne<[Swift.UInt8]>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Array",
+                        "printedName": "[Swift.UInt8]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "UInt8",
+                            "printedName": "Swift.UInt8",
+                            "usr": "s:s5UInt8V"
+                          }
+                        ],
+                        "usr": "s:Sa"
+                      }
+                    ],
+                    "usr": "s:s15CollectionOfOneV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation12DataProtocolP",
+            "mangledName": "$s10Foundation12DataProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MutableDataProtocol",
+            "printedName": "MutableDataProtocol",
+            "usr": "s:10Foundation19MutableDataProtocolP",
+            "mangledName": "$s10Foundation19MutableDataProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ContiguousBytes",
+            "printedName": "ContiguousBytes",
+            "usr": "s:10Foundation15ContiguousBytesP",
+            "mangledName": "$s10Foundation15ContiguousBytesP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "EncodableWithConfiguration",
+            "printedName": "EncodableWithConfiguration",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "EncodingConfiguration",
+                "printedName": "EncodingConfiguration",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DependentMember",
+                    "printedName": "τ_0_0.EncodingConfiguration"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation26EncodableWithConfigurationP",
+            "mangledName": "$s10Foundation26EncodableWithConfigurationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "DecodableWithConfiguration",
+            "printedName": "DecodableWithConfiguration",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "DecodingConfiguration",
+                "printedName": "DecodingConfiguration",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DependentMember",
+                    "printedName": "τ_0_0.DecodingConfiguration"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation26DecodableWithConfigurationP",
+            "mangledName": "$s10Foundation26DecodableWithConfigurationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "_ObjectiveCBridgeable",
+            "printedName": "_ObjectiveCBridgeable",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "_ObjectiveCType",
+                "printedName": "_ObjectiveCType",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "NSArray",
+                    "printedName": "Foundation.NSArray",
+                    "usr": "c:objc(cs)NSArray"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s21_ObjectiveCBridgeableP",
+            "mangledName": "$ss21_ObjectiveCBridgeableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Content",
+            "printedName": "Content",
+            "usr": "s:So17CMSampleBufferRefa9CoreMediaE7ContentP",
+            "mangledName": "$sSo17CMSampleBufferRefa9CoreMediaE7ContentP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ContentWithFormatDescription",
+            "printedName": "ContentWithFormatDescription",
+            "usr": "s:So17CMSampleBufferRefa9CoreMediaE28ContentWithFormatDescriptionP",
+            "mangledName": "$sSo17CMSampleBufferRefa9CoreMediaE28ContentWithFormatDescriptionP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "AccelerateMutableBuffer",
+            "printedName": "AccelerateMutableBuffer",
+            "usr": "s:10Accelerate0A13MutableBufferP",
+            "mangledName": "$s10Accelerate0A13MutableBufferP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "AccelerateBuffer",
+            "printedName": "AccelerateBuffer",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Accelerate0A6BufferP",
+            "mangledName": "$s10Accelerate0A6BufferP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "OperationParameter",
+            "printedName": "OperationParameter",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Accelerate9BNNSGraphO7BuilderV18OperationParameterP",
+            "mangledName": "$s10Accelerate9BNNSGraphO7BuilderV18OperationParameterP"
+          }
+        ]
       }
     ],
     "json_format_version": 8
@@ -11770,384 +12838,6 @@
       "value": "\"PaymentStatus\""
     },
     {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
-      "kind": "StringLiteral",
-      "offset": 183,
-      "length": 12,
-      "value": "\"Mastercard\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
-      "kind": "StringLiteral",
-      "offset": 212,
-      "length": 6,
-      "value": "\"Visa\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
-      "kind": "StringLiteral",
-      "offset": 238,
-      "length": 9,
-      "value": "\"Maestro\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
-      "kind": "StringLiteral",
-      "offset": 272,
-      "length": 14,
-      "value": "\"VisaElectron\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
-      "kind": "StringLiteral",
-      "offset": 305,
-      "length": 8,
-      "value": "\"Diners\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
-      "kind": "StringLiteral",
-      "offset": 334,
-      "length": 10,
-      "value": "\"Discover\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
-      "kind": "StringLiteral",
-      "offset": 364,
-      "length": 9,
-      "value": "\"Unknown\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 533,
-      "length": 14,
-      "value": "\"IsSuccessful\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 573,
-      "length": 11,
-      "value": "\"PaymentId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 617,
-      "length": 18,
-      "value": "\"PaymentRequestId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 665,
-      "length": 15,
-      "value": "\"PaymentStatus\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 703,
-      "length": 8,
-      "value": "\"Errors\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 746,
-      "length": 20,
-      "value": "\"FundingInformation\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithSavedCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 493,
-      "length": 14,
-      "value": "\"IsSuccessful\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithSavedCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 533,
-      "length": 11,
-      "value": "\"PaymentId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithSavedCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 577,
-      "length": 18,
-      "value": "\"PaymentRequestId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithSavedCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 625,
-      "length": 15,
-      "value": "\"PaymentStatus\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithSavedCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 663,
-      "length": 8,
-      "value": "\"Errors\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
-      "kind": "StringLiteral",
-      "offset": 395,
-      "length": 8,
-      "value": "\"Scheme\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
-      "kind": "StringLiteral",
-      "offset": 437,
-      "length": 19,
-      "value": "\"DirectoryServerId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
-      "kind": "StringLiteral",
-      "offset": 502,
-      "length": 26,
-      "value": "\"DirectoryServerPublicKey\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
-      "kind": "StringLiteral",
-      "offset": 580,
-      "length": 32,
-      "value": "\"DirectoryServerRootCertificate\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
-      "kind": "StringLiteral",
-      "offset": 1715,
-      "length": 13,
-      "value": "\"CardSchemes\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
-      "kind": "StringLiteral",
-      "offset": 1751,
-      "length": 8,
-      "value": "\"Errors\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRPaymentCardVersionResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 370,
-      "length": 8,
-      "value": "\"Errors\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRPaymentCardVersionResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 407,
-      "length": 14,
-      "value": "\"IsSuccessful\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRPaymentCardVersionResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 445,
-      "length": 9,
-      "value": "\"Version\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 527,
-      "length": 8,
-      "value": "\"Errors\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 564,
-      "length": 14,
-      "value": "\"IsSuccessful\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 604,
-      "length": 11,
-      "value": "\"PaymentId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 645,
-      "length": 15,
-      "value": "\"PaymentStatus\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 699,
-      "length": 24,
-      "value": "\"AuthenticationResponse\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 758,
-      "length": 20,
-      "value": "\"FundingInformation\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1852,
-      "length": 20,
-      "value": "\"ACSReferenceNumber\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1905,
-      "length": 18,
-      "value": "\"ACSSignedContent\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 1956,
-      "length": 18,
-      "value": "\"ACSTransactionId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2003,
-      "length": 14,
-      "value": "\"AcsDecConInd\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2052,
-      "length": 20,
-      "value": "\"AuthenticationType\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2107,
-      "length": 20,
-      "value": "\"ClientAuthResponse\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2160,
-      "length": 18,
-      "value": "\"SdkTransactionId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2215,
-      "length": 22,
-      "value": "\"ThreeDSServerTransId\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2271,
-      "length": 19,
-      "value": "\"TransactionStatus\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
-      "kind": "StringLiteral",
-      "offset": 2324,
-      "length": 19,
-      "value": "\"TransStatusReason\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/Utils\/Visa3ds.swift",
-      "kind": "StringLiteral",
-      "offset": 157,
-      "length": 12,
-      "value": "\"A000000003\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/Utils\/Visa3ds.swift",
-      "kind": "StringLiteral",
-      "offset": 715,
-      "length": 1825,
-      "value": "\"-----BEGIN CERTIFICATE-----\nMIIEcjCCA1qgAwIBAgIQfZ1PKYCZBvhKmrsQ5pjn6zANBgkqhkiG9w0BAQsFADB0\nMQswCQYDVQQGEwJVUzENMAsGA1UEChMEVklTQTEvMC0GA1UECxMmVmlzYSBJbnRl\ncm5hdGlvbmFsIFNlcnZpY2UgQXNzb2NpYXRpb24xJTAjBgNVBAMTHFZpc2EgZUNv\nbW1lcmNlIFFBIElzc3VpbmcgQ0EwHhcNMjQwNTAzMjI0ODQwWhcNMjYwNzIyMjI0\nODM5WjBfMQ8wDQYDVQQHDAZBVVNUSU4xCzAJBgNVBAgMAlRYMQswCQYDVQQGEwJV\nUzENMAsGA1UECgwEVklTQTENMAsGA1UECwwEVlNUUzEUMBIGA1UEAwwLVlNUU19E\nU19SU0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDu7NhfHETZhiKu\nb61DmQKubIaSm4OzRqeK05PBeaOp6IrGfHtG2qjtI9oxoxbq8qfgCvlbWJSa5Dhu\nOPNyulMSQUTxxXIrqdk90S\/thtR\/5N1MvpwV8R\/E\/scPI7QgghtHSoO+c49WWBEL\nc+pUrGpaYAa5SXuN\/N11DowzIX0NPUNwe7G8oj7PC7j7SXo9hi+a\/hZtA6KxbSL1\nTxTeJOsDoPIjpWVcjcuWnB4N9VJ1\/Og+LtOdagMa2zezUPRGFeguDftp5bURNUuK\niqcbW4i1i+pQAGVz1K10SpFeJSZodcU6t7d0AAKpFulH34eCjRGVQBuy7eoLuNhC\nXdPVD2gHAgMBAAGjggETMIIBDzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFHgN\nq2t+SstM0II4XZ1oqXlVB9UBMGYGCCsGAQUFBwEBBFowWDAtBggrBgEFBQcwAoYh\naHR0cDovL2FpYXFhLnZpc2EuY29tL2VDb21tUUEuY2VyMCcGCCsGAQUFBzABhhto\ndHRwOi8vb2NzcHFhLnZpc2EuY29tL29jc3AwEwYDVR0lBAwwCgYIKwYBBQUHAwIw\nMgYDVR0fBCswKTAnoCWgI4YhaHR0cDovL2FpYXFhLnZpc2EuY29tL2VDb21tUUEu\nY3JsMB0GA1UdDgQWBBRF4I6w+\/eBXfxuaTt9+7RiYkqftDAOBgNVHQ8BAf8EBAMC\nB4AwDQYJKoZIhvcNAQELBQADggEBAJpp\/XJ4d4SxA1R+FFQErs28\/bPPoT6HZQ7k\nb4a1yu34Hr5vBJ+RhEIhSvbHynBV2KoM7xKH\/bJok94UfXay7JeH3L58F5n7e8yn\nLzntBE1PZvKT+LN\/7RD1J5xIbxVtxdaXnMp8aBOSkAcHUpHizW0T1WEh4POLsfe5\n3SHv4lTYyTICt80UGQ91ujBAqCXmwZ2\/3W3K0LXl+4+6wdpdI9gYxKfOLCtsnZ\/T\nbzcp1QQs5vuVi4v3t9jL9v4N2LgmB8duauDgKgFKJWQwAxqNdAYzG1K8zxpIZ5hq\nplHgjolXQWDdCWjwImQgBkDIm0\/CgMXGabXWJqBjqCMua86yyMA=\n-----END CERTIFICATE-----\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/Utils\/Visa3ds.swift",
-      "kind": "StringLiteral",
-      "offset": 2569,
-      "length": 1683,
-      "value": "\"-----BEGIN CERTIFICATE-----\nMIIEFjCCAv6gAwIBAgIQetu1SMxpnENAnnOz1P+PtTANBgkqhkiG9w0BAQUFADBp\nMQswCQYDVQQGEwJVUzENMAsGA1UEChMEVmlzYTEvMC0GA1UECxMmVmlzYSBJbnRl\ncm5hdGlvbmFsIFNlcnZpY2UgQXNzb2NpYXRpb24xGjAYBgNVBAMTEVZpc2EgZWNv\nbW1lcmNlIFFBMB4XDTEzMDExMjAzMzc0OVoXDTMzMDExMjAzMzc0OVowaTELMAkG\nA1UEBhMCVVMxDTALBgNVBAoTBFZpc2ExLzAtBgNVBAsTJlZpc2EgSW50ZXJuYXRp\nb25hbCBTZXJ2aWNlIEFzc29jaWF0aW9uMRowGAYDVQQDExFWaXNhIGVjb21tZXJj\nZSBRQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANkUflKmpn52tYI3\nZtBNPWPY4s4KJn\/HVWcFD+SViaOUBWh8GeydubN\/oCwGItkfKxvSiDRRmSfCUIJB\nq0WlEQ3ucALb\/B+IOrRwQgisq3bN0IZLAc0zHIpyWXumaoks7saRvDsa2wrbz\/Et\n1qkM0j\/oH\/vOrDdaKH9J95qkCq4TZ7sEcy5nKwfDkpF2fokZt0UKKFtxVHcSEPSE\n1zNN1xkNxSNp7vpXyxvLSsC\/Xdr8G7TCg2b1yxXWFjrP01uAv6EnJKTnZI4C2Ueh\nwxjuTACfSsT\/AGvxDhfWPrrEtA6TCcD9rOp9DpwXNiSJGPzkcUUWfHGUxXg9eYgi\nTEo924cCAwEAAaOBuTCBtjAPBgNVHRMBAf8EBTADAQH\/MHQGA1UdIARtMGswaQYF\nZ4EDAQEwYDAjBggrBgEFBQcCARYXaHR0cDovL3d3dy52aXNhLmNvbS9wa2kwOQYI\nKwYBBQUHAgIwLTAYFhFSZXBsYWNlIFRoaXMgVGV4dDADAgEBGhFSZXBsYWNlIFRo\naXMgVGV4dDAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYEFBx8HyadQAWl4BuB3UDx\n9zzFNkIzMA0GCSqGSIb3DQEBBQUAA4IBAQCe1G2hPsAA+RoNo0cVn1+Tec8SYdQB\nAF7qCnL9Fehau47e36fVGNizOkyIT9AHGor6R1LIahKX+E6mqQTYsznJS5hXJ8G8\nc0P0mxjVScb7ykwQ5wBYqXWM2bXKpiLTeYVWf1ArFWqp1y9G6R0AOanLjmwNRBAr\ngyv6l1QZb7UM3Bf9S5l0urFML06En8B79lle5X32Iv9jfucu6caIrBLkPSx6Yq+q\n8ECs48NRSON+\/Pqm9Hxw1H3\/yz2qLG4zTI7xJVDESZGEXadLwCJXD6OReX2F\/BtU\nd8q23djXZbVYiIfE9ebr4g3152BlVCHZ2GyPdjhIuLeH21VbT\/dyEHHA\n-----END CERTIFICATE-----\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1253,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1294,
-      "length": 18,
-      "value": "\"OpenSans-Regular\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1352,
-      "length": 19,
-      "value": "\"OpenSans-SemiBold\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1438,
-      "length": 9,
-      "value": "\"#0018A8\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1517,
-      "length": 9,
-      "value": "\"#000000\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1571,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
-      "kind": "StringLiteral",
-      "offset": 1842,
-      "length": 7,
-      "value": "\"en_US\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
-      "kind": "BooleanLiteral",
-      "offset": 14628,
-      "length": 5,
-      "value": "false"
-    },
-    {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Analytics\/DataSource\/BRAnalyticsDataSource.swift",
       "kind": "StringLiteral",
       "offset": 242,
@@ -12286,6 +12976,13 @@
       "offset": 714,
       "length": 13,
       "value": "\"Description\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/DataSource\/BRBaseApiRemoteDataSource.swift",
+      "kind": "IntegerLiteral",
+      "offset": 4524,
+      "length": 2,
+      "value": "30"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Extensions\/BRStringExtensions.swift",
@@ -12514,56 +13211,63 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 970,
+      "offset": 964,
+      "length": 33,
+      "value": "\"\/v3\/threeds\/AllowedCertificates\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
+      "kind": "StringLiteral",
+      "offset": 1036,
       "length": 40,
       "value": "\"\/v3\/payment\/StartAppPaymentWithNewCard\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1050,
+      "offset": 1116,
       "length": 44,
       "value": "\"\/v3\/payment\/StartAppPaymentWithAppleWallet\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1135,
+      "offset": 1201,
       "length": 42,
       "value": "\"\/v3\/payment\/StartAppPaymentWithSavedCard\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1222,
+      "offset": 1288,
       "length": 49,
       "value": "\"\/v3\/payment\/StartAppPaymentWithSavedCardWithCVC\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1313,
+      "offset": 1379,
       "length": 43,
       "value": "\"\/v3\/payment\/CompleteAppPaymentWithNewCard\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1400,
+      "offset": 1466,
       "length": 45,
       "value": "\"\/v3\/payment\/CompleteAppPaymentWithSavedCard\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1493,
+      "offset": 1559,
       "length": 52,
       "value": "\"\/v3\/payment\/CompleteAppPaymentWithSavedCardWithCVC\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
       "kind": "StringLiteral",
-      "offset": 1572,
+      "offset": 1638,
       "length": 20,
       "value": "\"\/v5\/payment\/config\""
     },
@@ -12981,279 +13685,6 @@
       "value": "false"
     },
     {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 684,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 710,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 729,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 752,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 813,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 830,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 849,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 870,
-      "length": 1,
-      "value": "3"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 890,
-      "length": 1,
-      "value": "4"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 912,
-      "length": 1,
-      "value": "5"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 930,
-      "length": 1,
-      "value": "6"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 953,
-      "length": 1,
-      "value": "7"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 973,
-      "length": 1,
-      "value": "8"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 995,
-      "length": 1,
-      "value": "9"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1014,
-      "length": 2,
-      "value": "10"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1034,
-      "length": 2,
-      "value": "11"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1053,
-      "length": 2,
-      "value": "12"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1075,
-      "length": 2,
-      "value": "13"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1100,
-      "length": 2,
-      "value": "14"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1118,
-      "length": 2,
-      "value": "15"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1143,
-      "length": 2,
-      "value": "16"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPlugin.swift",
-      "kind": "BooleanLiteral",
-      "offset": 415,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPlugin.swift",
-      "kind": "BooleanLiteral",
-      "offset": 609,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
-      "kind": "BooleanLiteral",
-      "offset": 1313,
-      "length": 5,
-      "value": "false"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1950,
-      "length": 1,
-      "value": "0"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1969,
-      "length": 1,
-      "value": "1"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
-      "kind": "IntegerLiteral",
-      "offset": 1987,
-      "length": 1,
-      "value": "2"
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 524,
-      "length": 17,
-      "value": "\"INVALID_REQUEST\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 569,
-      "length": 18,
-      "value": "\"INVALID_RESPONSE\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 613,
-      "length": 17,
-      "value": "\"INVALID_API_KEY\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 659,
-      "length": 20,
-      "value": "\"INVALID_PAYMENT_ID\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 711,
-      "length": 22,
-      "value": "\"INITIALIZATION_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 758,
-      "length": 15,
-      "value": "\"UNKNOWN_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 801,
-      "length": 18,
-      "value": "\"PAYMENT_CANCELED\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 859,
-      "length": 31,
-      "value": "\"NAVIGATION_CONTROLLER_MISSING\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 930,
-      "length": 32,
-      "value": "\"APPLE_PAY_INITIALIZATION_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
-      "kind": "StringLiteral",
-      "offset": 995,
-      "length": 25,
-      "value": "\"APPLE_PAY_PAYMENT_ERROR\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
-      "kind": "StringLiteral",
-      "offset": 548,
-      "length": 19,
-      "value": "\"AuthorizationCode\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
-      "kind": "StringLiteral",
-      "offset": 597,
-      "length": 15,
-      "value": "\"ProcessResult\""
-    },
-    {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/Extensions\/UIImage+pixelBuffer.swift",
       "kind": "IntegerLiteral",
       "offset": 6308,
@@ -13266,6 +13697,384 @@
       "offset": 6894,
       "length": 1,
       "value": "0"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 183,
+      "length": 12,
+      "value": "\"Mastercard\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 212,
+      "length": 6,
+      "value": "\"Visa\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 238,
+      "length": 9,
+      "value": "\"Maestro\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 272,
+      "length": 14,
+      "value": "\"VisaElectron\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 305,
+      "length": 8,
+      "value": "\"Diners\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 334,
+      "length": 10,
+      "value": "\"Discover\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Models\/BRCardSchemeEnum.swift",
+      "kind": "StringLiteral",
+      "offset": 364,
+      "length": 9,
+      "value": "\"Unknown\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 533,
+      "length": 14,
+      "value": "\"IsSuccessful\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 573,
+      "length": 11,
+      "value": "\"PaymentId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 617,
+      "length": 18,
+      "value": "\"PaymentRequestId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 665,
+      "length": 15,
+      "value": "\"PaymentStatus\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 703,
+      "length": 8,
+      "value": "\"Errors\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 746,
+      "length": 20,
+      "value": "\"FundingInformation\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithSavedCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 493,
+      "length": 14,
+      "value": "\"IsSuccessful\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithSavedCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 533,
+      "length": 11,
+      "value": "\"PaymentId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithSavedCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 577,
+      "length": 18,
+      "value": "\"PaymentRequestId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithSavedCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 625,
+      "length": 15,
+      "value": "\"PaymentStatus\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRCompletePaymentWithSavedCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 663,
+      "length": 8,
+      "value": "\"Errors\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
+      "kind": "StringLiteral",
+      "offset": 395,
+      "length": 8,
+      "value": "\"Scheme\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
+      "kind": "StringLiteral",
+      "offset": 437,
+      "length": 19,
+      "value": "\"DirectoryServerId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
+      "kind": "StringLiteral",
+      "offset": 502,
+      "length": 26,
+      "value": "\"DirectoryServerPublicKey\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
+      "kind": "StringLiteral",
+      "offset": 580,
+      "length": 32,
+      "value": "\"DirectoryServerRootCertificate\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
+      "kind": "StringLiteral",
+      "offset": 1715,
+      "length": 13,
+      "value": "\"CardSchemes\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
+      "kind": "StringLiteral",
+      "offset": 1751,
+      "length": 8,
+      "value": "\"Errors\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRPaymentCardVersionResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 370,
+      "length": 8,
+      "value": "\"Errors\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRPaymentCardVersionResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 407,
+      "length": 14,
+      "value": "\"IsSuccessful\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRPaymentCardVersionResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 445,
+      "length": 9,
+      "value": "\"Version\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 527,
+      "length": 8,
+      "value": "\"Errors\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 564,
+      "length": 14,
+      "value": "\"IsSuccessful\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 604,
+      "length": 11,
+      "value": "\"PaymentId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 645,
+      "length": 15,
+      "value": "\"PaymentStatus\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 699,
+      "length": 24,
+      "value": "\"AuthenticationResponse\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 758,
+      "length": 20,
+      "value": "\"FundingInformation\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1852,
+      "length": 20,
+      "value": "\"ACSReferenceNumber\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1905,
+      "length": 18,
+      "value": "\"ACSSignedContent\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 1956,
+      "length": 18,
+      "value": "\"ACSTransactionId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2003,
+      "length": 14,
+      "value": "\"AcsDecConInd\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2052,
+      "length": 20,
+      "value": "\"AuthenticationType\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2107,
+      "length": 20,
+      "value": "\"ClientAuthResponse\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2160,
+      "length": 18,
+      "value": "\"SdkTransactionId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2215,
+      "length": 22,
+      "value": "\"ThreeDSServerTransId\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2271,
+      "length": 19,
+      "value": "\"TransactionStatus\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRThreeDsPayWithNewCardResponseModel.swift",
+      "kind": "StringLiteral",
+      "offset": 2324,
+      "length": 19,
+      "value": "\"TransStatusReason\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/Utils\/Visa3ds.swift",
+      "kind": "StringLiteral",
+      "offset": 157,
+      "length": 12,
+      "value": "\"A000000003\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/Utils\/Visa3ds.swift",
+      "kind": "StringLiteral",
+      "offset": 715,
+      "length": 1825,
+      "value": "\"-----BEGIN CERTIFICATE-----\nMIIEcjCCA1qgAwIBAgIQfZ1PKYCZBvhKmrsQ5pjn6zANBgkqhkiG9w0BAQsFADB0\nMQswCQYDVQQGEwJVUzENMAsGA1UEChMEVklTQTEvMC0GA1UECxMmVmlzYSBJbnRl\ncm5hdGlvbmFsIFNlcnZpY2UgQXNzb2NpYXRpb24xJTAjBgNVBAMTHFZpc2EgZUNv\nbW1lcmNlIFFBIElzc3VpbmcgQ0EwHhcNMjQwNTAzMjI0ODQwWhcNMjYwNzIyMjI0\nODM5WjBfMQ8wDQYDVQQHDAZBVVNUSU4xCzAJBgNVBAgMAlRYMQswCQYDVQQGEwJV\nUzENMAsGA1UECgwEVklTQTENMAsGA1UECwwEVlNUUzEUMBIGA1UEAwwLVlNUU19E\nU19SU0EwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDu7NhfHETZhiKu\nb61DmQKubIaSm4OzRqeK05PBeaOp6IrGfHtG2qjtI9oxoxbq8qfgCvlbWJSa5Dhu\nOPNyulMSQUTxxXIrqdk90S\/thtR\/5N1MvpwV8R\/E\/scPI7QgghtHSoO+c49WWBEL\nc+pUrGpaYAa5SXuN\/N11DowzIX0NPUNwe7G8oj7PC7j7SXo9hi+a\/hZtA6KxbSL1\nTxTeJOsDoPIjpWVcjcuWnB4N9VJ1\/Og+LtOdagMa2zezUPRGFeguDftp5bURNUuK\niqcbW4i1i+pQAGVz1K10SpFeJSZodcU6t7d0AAKpFulH34eCjRGVQBuy7eoLuNhC\nXdPVD2gHAgMBAAGjggETMIIBDzAMBgNVHRMBAf8EAjAAMB8GA1UdIwQYMBaAFHgN\nq2t+SstM0II4XZ1oqXlVB9UBMGYGCCsGAQUFBwEBBFowWDAtBggrBgEFBQcwAoYh\naHR0cDovL2FpYXFhLnZpc2EuY29tL2VDb21tUUEuY2VyMCcGCCsGAQUFBzABhhto\ndHRwOi8vb2NzcHFhLnZpc2EuY29tL29jc3AwEwYDVR0lBAwwCgYIKwYBBQUHAwIw\nMgYDVR0fBCswKTAnoCWgI4YhaHR0cDovL2FpYXFhLnZpc2EuY29tL2VDb21tUUEu\nY3JsMB0GA1UdDgQWBBRF4I6w+\/eBXfxuaTt9+7RiYkqftDAOBgNVHQ8BAf8EBAMC\nB4AwDQYJKoZIhvcNAQELBQADggEBAJpp\/XJ4d4SxA1R+FFQErs28\/bPPoT6HZQ7k\nb4a1yu34Hr5vBJ+RhEIhSvbHynBV2KoM7xKH\/bJok94UfXay7JeH3L58F5n7e8yn\nLzntBE1PZvKT+LN\/7RD1J5xIbxVtxdaXnMp8aBOSkAcHUpHizW0T1WEh4POLsfe5\n3SHv4lTYyTICt80UGQ91ujBAqCXmwZ2\/3W3K0LXl+4+6wdpdI9gYxKfOLCtsnZ\/T\nbzcp1QQs5vuVi4v3t9jL9v4N2LgmB8duauDgKgFKJWQwAxqNdAYzG1K8zxpIZ5hq\nplHgjolXQWDdCWjwImQgBkDIm0\/CgMXGabXWJqBjqCMua86yyMA=\n-----END CERTIFICATE-----\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/Utils\/Visa3ds.swift",
+      "kind": "StringLiteral",
+      "offset": 2569,
+      "length": 1683,
+      "value": "\"-----BEGIN CERTIFICATE-----\nMIIEFjCCAv6gAwIBAgIQetu1SMxpnENAnnOz1P+PtTANBgkqhkiG9w0BAQUFADBp\nMQswCQYDVQQGEwJVUzENMAsGA1UEChMEVmlzYTEvMC0GA1UECxMmVmlzYSBJbnRl\ncm5hdGlvbmFsIFNlcnZpY2UgQXNzb2NpYXRpb24xGjAYBgNVBAMTEVZpc2EgZWNv\nbW1lcmNlIFFBMB4XDTEzMDExMjAzMzc0OVoXDTMzMDExMjAzMzc0OVowaTELMAkG\nA1UEBhMCVVMxDTALBgNVBAoTBFZpc2ExLzAtBgNVBAsTJlZpc2EgSW50ZXJuYXRp\nb25hbCBTZXJ2aWNlIEFzc29jaWF0aW9uMRowGAYDVQQDExFWaXNhIGVjb21tZXJj\nZSBRQTCCASIwDQYJKoZIhvcNAQEBBQADggEPADCCAQoCggEBANkUflKmpn52tYI3\nZtBNPWPY4s4KJn\/HVWcFD+SViaOUBWh8GeydubN\/oCwGItkfKxvSiDRRmSfCUIJB\nq0WlEQ3ucALb\/B+IOrRwQgisq3bN0IZLAc0zHIpyWXumaoks7saRvDsa2wrbz\/Et\n1qkM0j\/oH\/vOrDdaKH9J95qkCq4TZ7sEcy5nKwfDkpF2fokZt0UKKFtxVHcSEPSE\n1zNN1xkNxSNp7vpXyxvLSsC\/Xdr8G7TCg2b1yxXWFjrP01uAv6EnJKTnZI4C2Ueh\nwxjuTACfSsT\/AGvxDhfWPrrEtA6TCcD9rOp9DpwXNiSJGPzkcUUWfHGUxXg9eYgi\nTEo924cCAwEAAaOBuTCBtjAPBgNVHRMBAf8EBTADAQH\/MHQGA1UdIARtMGswaQYF\nZ4EDAQEwYDAjBggrBgEFBQcCARYXaHR0cDovL3d3dy52aXNhLmNvbS9wa2kwOQYI\nKwYBBQUHAgIwLTAYFhFSZXBsYWNlIFRoaXMgVGV4dDADAgEBGhFSZXBsYWNlIFRo\naXMgVGV4dDAOBgNVHQ8BAf8EBAMCAQYwHQYDVR0OBBYEFBx8HyadQAWl4BuB3UDx\n9zzFNkIzMA0GCSqGSIb3DQEBBQUAA4IBAQCe1G2hPsAA+RoNo0cVn1+Tec8SYdQB\nAF7qCnL9Fehau47e36fVGNizOkyIT9AHGor6R1LIahKX+E6mqQTYsznJS5hXJ8G8\nc0P0mxjVScb7ykwQ5wBYqXWM2bXKpiLTeYVWf1ArFWqp1y9G6R0AOanLjmwNRBAr\ngyv6l1QZb7UM3Bf9S5l0urFML06En8B79lle5X32Iv9jfucu6caIrBLkPSx6Yq+q\n8ECs48NRSON+\/Pqm9Hxw1H3\/yz2qLG4zTI7xJVDESZGEXadLwCJXD6OReX2F\/BtU\nd8q23djXZbVYiIfE9ebr4g3152BlVCHZ2GyPdjhIuLeH21VbT\/dyEHHA\n-----END CERTIFICATE-----\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1253,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1294,
+      "length": 18,
+      "value": "\"OpenSans-Regular\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1352,
+      "length": 19,
+      "value": "\"OpenSans-SemiBold\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1438,
+      "length": 9,
+      "value": "\"#0018A8\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1517,
+      "length": 9,
+      "value": "\"#000000\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1571,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
+      "kind": "StringLiteral",
+      "offset": 1842,
+      "length": 7,
+      "value": "\"en_US\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 14664,
+      "length": 5,
+      "value": "false"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardScan\/MLModels\/SSDOcr.swift",
@@ -14064,6 +14873,279 @@
       "offset": 1764,
       "length": 4,
       "value": "true"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 684,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 710,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 729,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 752,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 813,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 830,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 849,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 870,
+      "length": 1,
+      "value": "3"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 890,
+      "length": 1,
+      "value": "4"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 912,
+      "length": 1,
+      "value": "5"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 930,
+      "length": 1,
+      "value": "6"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 953,
+      "length": 1,
+      "value": "7"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 973,
+      "length": 1,
+      "value": "8"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 995,
+      "length": 1,
+      "value": "9"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1014,
+      "length": 2,
+      "value": "10"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1034,
+      "length": 2,
+      "value": "11"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1053,
+      "length": 2,
+      "value": "12"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1075,
+      "length": 2,
+      "value": "13"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1100,
+      "length": 2,
+      "value": "14"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1118,
+      "length": 2,
+      "value": "15"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/ApplePayButton\/ApplePayButtonOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1143,
+      "length": 2,
+      "value": "16"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPlugin.swift",
+      "kind": "BooleanLiteral",
+      "offset": 415,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPlugin.swift",
+      "kind": "BooleanLiteral",
+      "offset": 609,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
+      "kind": "BooleanLiteral",
+      "offset": 1313,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1950,
+      "length": 1,
+      "value": "0"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1969,
+      "length": 1,
+      "value": "1"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/BarionGatewayPlugin\/BarionGatewayPluginOptions.swift",
+      "kind": "IntegerLiteral",
+      "offset": 1987,
+      "length": 1,
+      "value": "2"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 524,
+      "length": 17,
+      "value": "\"INVALID_REQUEST\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 569,
+      "length": 18,
+      "value": "\"INVALID_RESPONSE\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 613,
+      "length": 17,
+      "value": "\"INVALID_API_KEY\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 659,
+      "length": 20,
+      "value": "\"INVALID_PAYMENT_ID\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 711,
+      "length": 22,
+      "value": "\"INITIALIZATION_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 758,
+      "length": 15,
+      "value": "\"UNKNOWN_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 801,
+      "length": 18,
+      "value": "\"PAYMENT_CANCELED\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 859,
+      "length": 31,
+      "value": "\"NAVIGATION_CONTROLLER_MISSING\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 930,
+      "length": 32,
+      "value": "\"APPLE_PAY_INITIALIZATION_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentError.swift",
+      "kind": "StringLiteral",
+      "offset": 995,
+      "length": 25,
+      "value": "\"APPLE_PAY_PAYMENT_ERROR\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 548,
+      "length": 19,
+      "value": "\"AuthorizationCode\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/BarionSDK\/PaymentResult.swift",
+      "kind": "StringLiteral",
+      "offset": 597,
+      "length": 15,
+      "value": "\"ProcessResult\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/CardScan\/Source\/CardVerify\/BRCardScanBundleLocator.swift",
