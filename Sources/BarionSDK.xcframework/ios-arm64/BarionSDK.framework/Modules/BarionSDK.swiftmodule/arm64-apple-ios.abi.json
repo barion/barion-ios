@@ -13372,28 +13372,28 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4167,
+      "offset": 3337,
       "length": 7,
       "value": "\"Error\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRBaseViewController.swift",
       "kind": "StringLiteral",
-      "offset": 4195,
+      "offset": 3365,
       "length": 28,
       "value": "\"Oops! Something went wrong\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 4990,
+      "offset": 4160,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/UI\/BRBaseViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 5293,
+      "offset": 4463,
       "length": 5,
       "value": "false"
     },
@@ -15206,14 +15206,14 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
       "kind": "IntegerLiteral",
-      "offset": 4876,
+      "offset": 5042,
       "length": 2,
       "value": "22"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRAddNewCardViewController.swift",
       "kind": "BooleanLiteral",
-      "offset": 1319,
+      "offset": 1354,
       "length": 5,
       "value": "false"
     },
