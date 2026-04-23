@@ -7,5 +7,4 @@ framework module BarionSDK {
 
 module BarionSDK.Swift {
   header "BarionSDK-Swift.h"
-  requires objc
 }

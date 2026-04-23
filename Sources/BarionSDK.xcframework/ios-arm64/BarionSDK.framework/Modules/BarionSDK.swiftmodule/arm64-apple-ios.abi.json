@@ -997,13 +997,6 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
@@ -1022,6 +1015,13 @@
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -2577,17 +2577,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -3345,17 +3345,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -5884,17 +5884,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -10051,17 +10051,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Equatable",
             "printedName": "Equatable",
             "usr": "s:SQ",
             "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           },
           {
             "kind": "Conformance",
@@ -10280,17 +10280,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
             "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           }
         ]
       },
@@ -10842,6 +10842,13 @@
             "conformances": [
               {
                 "kind": "Conformance",
+                "name": "CodingKey",
+                "printedName": "CodingKey",
+                "usr": "s:s9CodingKeyP",
+                "mangledName": "$ss9CodingKeyP"
+              },
+              {
+                "kind": "Conformance",
                 "name": "Copyable",
                 "printedName": "Copyable",
                 "usr": "s:s8CopyableP",
@@ -10853,13 +10860,6 @@
                 "printedName": "Escapable",
                 "usr": "s:s9EscapableP",
                 "mangledName": "$ss9EscapableP"
-              },
-              {
-                "kind": "Conformance",
-                "name": "Equatable",
-                "printedName": "Equatable",
-                "usr": "s:SQ",
-                "mangledName": "$sSQ"
               },
               {
                 "kind": "Conformance",
@@ -10892,13 +10892,6 @@
               },
               {
                 "kind": "Conformance",
-                "name": "CodingKey",
-                "printedName": "CodingKey",
-                "usr": "s:s9CodingKeyP",
-                "mangledName": "$ss9CodingKeyP"
-              },
-              {
-                "kind": "Conformance",
                 "name": "CustomDebugStringConvertible",
                 "printedName": "CustomDebugStringConvertible",
                 "usr": "s:s28CustomDebugStringConvertibleP",
@@ -10917,6 +10910,13 @@
                 "printedName": "Sendable",
                 "usr": "s:s8SendableP",
                 "mangledName": "$ss8SendableP"
+              },
+              {
+                "kind": "Conformance",
+                "name": "Equatable",
+                "printedName": "Equatable",
+                "usr": "s:SQ",
+                "mangledName": "$sSQ"
               },
               {
                 "kind": "Conformance",
@@ -11022,17 +11022,17 @@
           },
           {
             "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Decodable",
             "printedName": "Decodable",
             "usr": "s:Se",
             "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
           }
         ]
       },
@@ -11757,58 +11757,8 @@
         "conformances": [
           {
             "kind": "Conformance",
-            "name": "_DestructorSafeContainer",
-            "printedName": "_DestructorSafeContainer",
-            "usr": "s:s24_DestructorSafeContainerP",
-            "mangledName": "$ss24_DestructorSafeContainerP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Copyable",
-            "printedName": "Copyable",
-            "usr": "s:s8CopyableP",
-            "mangledName": "$ss8CopyableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Escapable",
-            "printedName": "Escapable",
-            "usr": "s:s9EscapableP",
-            "mangledName": "$ss9EscapableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_ArrayProtocol",
-            "printedName": "_ArrayProtocol",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "_Buffer",
-                "printedName": "_Buffer",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "_ArrayBuffer",
-                    "printedName": "Swift._ArrayBuffer<τ_0_0>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "GenericTypeParam",
-                        "printedName": "τ_0_0"
-                      }
-                    ],
-                    "usr": "s:s12_ArrayBufferV"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s14_ArrayProtocolP",
-            "mangledName": "$ss14_ArrayProtocolP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "RandomAccessCollection",
-            "printedName": "RandomAccessCollection",
+            "name": "AccelerateBuffer",
+            "printedName": "AccelerateBuffer",
             "children": [
               {
                 "kind": "TypeWitness",
@@ -11821,118 +11771,111 @@
                     "printedName": "τ_0_0"
                   }
                 ]
-              },
-              {
-                "kind": "TypeWitness",
-                "name": "Index",
-                "printedName": "Index",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ]
-              },
-              {
-                "kind": "TypeWitness",
-                "name": "SubSequence",
-                "printedName": "SubSequence",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ArraySlice",
-                    "printedName": "Swift.ArraySlice<τ_0_0>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "GenericTypeParam",
-                        "printedName": "τ_0_0"
-                      }
-                    ],
-                    "usr": "s:s10ArraySliceV"
-                  }
-                ]
-              },
-              {
-                "kind": "TypeWitness",
-                "name": "Indices",
-                "printedName": "Indices",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Range",
-                    "printedName": "Swift.Range<Swift.Int>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Int",
-                        "printedName": "Swift.Int",
-                        "usr": "s:Si"
-                      }
-                    ],
-                    "usr": "s:Sn"
-                  }
-                ]
               }
             ],
-            "usr": "s:Sk",
-            "mangledName": "$sSk"
+            "usr": "s:10Accelerate0A6BufferP",
+            "mangledName": "$s10Accelerate0A6BufferP"
           },
           {
             "kind": "Conformance",
-            "name": "MutableCollection",
-            "printedName": "MutableCollection",
+            "name": "AccelerateMutableBuffer",
+            "printedName": "AccelerateMutableBuffer",
+            "usr": "s:10Accelerate0A13MutableBufferP",
+            "mangledName": "$s10Accelerate0A13MutableBufferP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ContiguousBytes",
+            "printedName": "ContiguousBytes",
+            "usr": "s:10Foundation15ContiguousBytesP",
+            "mangledName": "$s10Foundation15ContiguousBytesP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "DataProtocol",
+            "printedName": "DataProtocol",
             "children": [
               {
                 "kind": "TypeWitness",
-                "name": "Element",
-                "printedName": "Element",
+                "name": "Regions",
+                "printedName": "Regions",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "GenericTypeParam",
-                    "printedName": "τ_0_0"
-                  }
-                ]
-              },
-              {
-                "kind": "TypeWitness",
-                "name": "Index",
-                "printedName": "Index",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "Int",
-                    "printedName": "Swift.Int",
-                    "usr": "s:Si"
-                  }
-                ]
-              },
-              {
-                "kind": "TypeWitness",
-                "name": "SubSequence",
-                "printedName": "SubSequence",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ArraySlice",
-                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "name": "CollectionOfOne",
+                    "printedName": "Swift.CollectionOfOne<[Swift.UInt8]>",
                     "children": [
                       {
                         "kind": "TypeNominal",
-                        "name": "GenericTypeParam",
-                        "printedName": "τ_0_0"
+                        "name": "Array",
+                        "printedName": "[Swift.UInt8]",
+                        "children": [
+                          {
+                            "kind": "TypeNominal",
+                            "name": "UInt8",
+                            "printedName": "Swift.UInt8",
+                            "usr": "s:s5UInt8V"
+                          }
+                        ],
+                        "usr": "s:Sa"
                       }
                     ],
-                    "usr": "s:s10ArraySliceV"
+                    "usr": "s:s15CollectionOfOneV"
                   }
                 ]
               }
             ],
-            "usr": "s:SM",
-            "mangledName": "$sSM"
+            "usr": "s:10Foundation12DataProtocolP",
+            "mangledName": "$s10Foundation12DataProtocolP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "DecodableWithConfiguration",
+            "printedName": "DecodableWithConfiguration",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "DecodingConfiguration",
+                "printedName": "DecodingConfiguration",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DependentMember",
+                    "printedName": "τ_0_0.DecodingConfiguration"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation26DecodableWithConfigurationP",
+            "mangledName": "$s10Foundation26DecodableWithConfigurationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "EncodableWithConfiguration",
+            "printedName": "EncodableWithConfiguration",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "EncodingConfiguration",
+                "printedName": "EncodingConfiguration",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "DependentMember",
+                    "printedName": "τ_0_0.EncodingConfiguration"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:10Foundation26EncodableWithConfigurationP",
+            "mangledName": "$s10Foundation26EncodableWithConfigurationP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MutableDataProtocol",
+            "printedName": "MutableDataProtocol",
+            "usr": "s:10Foundation19MutableDataProtocolP",
+            "mangledName": "$s10Foundation19MutableDataProtocolP"
           },
           {
             "kind": "Conformance",
@@ -12008,6 +11951,13 @@
             ],
             "usr": "s:SK",
             "mangledName": "$sSK"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CVarArg",
+            "printedName": "CVarArg",
+            "usr": "s:s7CVarArgP",
+            "mangledName": "$ss7CVarArgP"
           },
           {
             "kind": "Conformance",
@@ -12114,6 +12064,262 @@
           },
           {
             "kind": "Conformance",
+            "name": "Copyable",
+            "printedName": "Copyable",
+            "usr": "s:s8CopyableP",
+            "mangledName": "$ss8CopyableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomDebugStringConvertible",
+            "printedName": "CustomDebugStringConvertible",
+            "usr": "s:s28CustomDebugStringConvertibleP",
+            "mangledName": "$ss28CustomDebugStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomReflectable",
+            "printedName": "CustomReflectable",
+            "usr": "s:s17CustomReflectableP",
+            "mangledName": "$ss17CustomReflectableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "CustomStringConvertible",
+            "printedName": "CustomStringConvertible",
+            "usr": "s:s23CustomStringConvertibleP",
+            "mangledName": "$ss23CustomStringConvertibleP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Decodable",
+            "printedName": "Decodable",
+            "usr": "s:Se",
+            "mangledName": "$sSe"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Encodable",
+            "printedName": "Encodable",
+            "usr": "s:SE",
+            "mangledName": "$sSE"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Equatable",
+            "printedName": "Equatable",
+            "usr": "s:SQ",
+            "mangledName": "$sSQ"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Escapable",
+            "printedName": "Escapable",
+            "usr": "s:s9EscapableP",
+            "mangledName": "$ss9EscapableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "ExpressibleByArrayLiteral",
+            "printedName": "ExpressibleByArrayLiteral",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "ArrayLiteralElement",
+                "printedName": "ArrayLiteralElement",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:s25ExpressibleByArrayLiteralP",
+            "mangledName": "$ss25ExpressibleByArrayLiteralP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Hashable",
+            "printedName": "Hashable",
+            "usr": "s:SH",
+            "mangledName": "$sSH"
+          },
+          {
+            "kind": "Conformance",
+            "name": "MutableCollection",
+            "printedName": "MutableCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:SM",
+            "mangledName": "$sSM"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RandomAccessCollection",
+            "printedName": "RandomAccessCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "Element",
+                "printedName": "Element",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "GenericTypeParam",
+                    "printedName": "τ_0_0"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Index",
+                "printedName": "Index",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Int",
+                    "printedName": "Swift.Int",
+                    "usr": "s:Si"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              },
+              {
+                "kind": "TypeWitness",
+                "name": "Indices",
+                "printedName": "Indices",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Range",
+                    "printedName": "Swift.Range<Swift.Int>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "Int",
+                        "printedName": "Swift.Int",
+                        "usr": "s:Si"
+                      }
+                    ],
+                    "usr": "s:Sn"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sk",
+            "mangledName": "$sSk"
+          },
+          {
+            "kind": "Conformance",
+            "name": "RangeReplaceableCollection",
+            "printedName": "RangeReplaceableCollection",
+            "children": [
+              {
+                "kind": "TypeWitness",
+                "name": "SubSequence",
+                "printedName": "SubSequence",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "ArraySlice",
+                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "GenericTypeParam",
+                        "printedName": "τ_0_0"
+                      }
+                    ],
+                    "usr": "s:s10ArraySliceV"
+                  }
+                ]
+              }
+            ],
+            "usr": "s:Sm",
+            "mangledName": "$sSm"
+          },
+          {
+            "kind": "Conformance",
+            "name": "Sendable",
+            "printedName": "Sendable",
+            "usr": "s:s8SendableP",
+            "mangledName": "$ss8SendableP"
+          },
+          {
+            "kind": "Conformance",
+            "name": "SendableMetatype",
+            "printedName": "SendableMetatype",
+            "usr": "s:s16SendableMetatypeP",
+            "mangledName": "$ss16SendableMetatypeP"
+          },
+          {
+            "kind": "Conformance",
             "name": "Sequence",
             "printedName": "Sequence",
             "children": [
@@ -12163,39 +12369,18 @@
           },
           {
             "kind": "Conformance",
-            "name": "ExpressibleByArrayLiteral",
-            "printedName": "ExpressibleByArrayLiteral",
+            "name": "_ArrayProtocol",
+            "printedName": "_ArrayProtocol",
             "children": [
               {
                 "kind": "TypeWitness",
-                "name": "ArrayLiteralElement",
-                "printedName": "ArrayLiteralElement",
+                "name": "_Buffer",
+                "printedName": "_Buffer",
                 "children": [
                   {
                     "kind": "TypeNominal",
-                    "name": "GenericTypeParam",
-                    "printedName": "τ_0_0"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:s25ExpressibleByArrayLiteralP",
-            "mangledName": "$ss25ExpressibleByArrayLiteralP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "RangeReplaceableCollection",
-            "printedName": "RangeReplaceableCollection",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "SubSequence",
-                "printedName": "SubSequence",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "ArraySlice",
-                    "printedName": "Swift.ArraySlice<τ_0_0>",
+                    "name": "_ArrayBuffer",
+                    "printedName": "Swift._ArrayBuffer<τ_0_0>",
                     "children": [
                       {
                         "kind": "TypeNominal",
@@ -12203,83 +12388,20 @@
                         "printedName": "τ_0_0"
                       }
                     ],
-                    "usr": "s:s10ArraySliceV"
+                    "usr": "s:s12_ArrayBufferV"
                   }
                 ]
               }
             ],
-            "usr": "s:Sm",
-            "mangledName": "$sSm"
+            "usr": "s:s14_ArrayProtocolP",
+            "mangledName": "$ss14_ArrayProtocolP"
           },
           {
             "kind": "Conformance",
-            "name": "CustomReflectable",
-            "printedName": "CustomReflectable",
-            "usr": "s:s17CustomReflectableP",
-            "mangledName": "$ss17CustomReflectableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomStringConvertible",
-            "printedName": "CustomStringConvertible",
-            "usr": "s:s23CustomStringConvertibleP",
-            "mangledName": "$ss23CustomStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "CustomDebugStringConvertible",
-            "printedName": "CustomDebugStringConvertible",
-            "usr": "s:s28CustomDebugStringConvertibleP",
-            "mangledName": "$ss28CustomDebugStringConvertibleP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Equatable",
-            "printedName": "Equatable",
-            "usr": "s:SQ",
-            "mangledName": "$sSQ"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Hashable",
-            "printedName": "Hashable",
-            "usr": "s:SH",
-            "mangledName": "$sSH"
-          },
-          {
-            "kind": "Conformance",
-            "name": "_HasCustomAnyHashableRepresentation",
-            "printedName": "_HasCustomAnyHashableRepresentation",
-            "usr": "s:s35_HasCustomAnyHashableRepresentationP",
-            "mangledName": "$ss35_HasCustomAnyHashableRepresentationP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Sendable",
-            "printedName": "Sendable",
-            "usr": "s:s8SendableP",
-            "mangledName": "$ss8SendableP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "SendableMetatype",
-            "printedName": "SendableMetatype",
-            "usr": "s:s16SendableMetatypeP",
-            "mangledName": "$ss16SendableMetatypeP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Encodable",
-            "printedName": "Encodable",
-            "usr": "s:SE",
-            "mangledName": "$sSE"
-          },
-          {
-            "kind": "Conformance",
-            "name": "Decodable",
-            "printedName": "Decodable",
-            "usr": "s:Se",
-            "mangledName": "$sSe"
+            "name": "_DestructorSafeContainer",
+            "printedName": "_DestructorSafeContainer",
+            "usr": "s:s24_DestructorSafeContainerP",
+            "mangledName": "$ss24_DestructorSafeContainerP"
           },
           {
             "kind": "Conformance",
@@ -12290,97 +12412,10 @@
           },
           {
             "kind": "Conformance",
-            "name": "DataProtocol",
-            "printedName": "DataProtocol",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "Regions",
-                "printedName": "Regions",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "CollectionOfOne",
-                    "printedName": "Swift.CollectionOfOne<[Swift.UInt8]>",
-                    "children": [
-                      {
-                        "kind": "TypeNominal",
-                        "name": "Array",
-                        "printedName": "[Swift.UInt8]",
-                        "children": [
-                          {
-                            "kind": "TypeNominal",
-                            "name": "UInt8",
-                            "printedName": "Swift.UInt8",
-                            "usr": "s:s5UInt8V"
-                          }
-                        ],
-                        "usr": "s:Sa"
-                      }
-                    ],
-                    "usr": "s:s15CollectionOfOneV"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:10Foundation12DataProtocolP",
-            "mangledName": "$s10Foundation12DataProtocolP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "MutableDataProtocol",
-            "printedName": "MutableDataProtocol",
-            "usr": "s:10Foundation19MutableDataProtocolP",
-            "mangledName": "$s10Foundation19MutableDataProtocolP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "ContiguousBytes",
-            "printedName": "ContiguousBytes",
-            "usr": "s:10Foundation15ContiguousBytesP",
-            "mangledName": "$s10Foundation15ContiguousBytesP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "EncodableWithConfiguration",
-            "printedName": "EncodableWithConfiguration",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "EncodingConfiguration",
-                "printedName": "EncodingConfiguration",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "DependentMember",
-                    "printedName": "τ_0_0.EncodingConfiguration"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:10Foundation26EncodableWithConfigurationP",
-            "mangledName": "$s10Foundation26EncodableWithConfigurationP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "DecodableWithConfiguration",
-            "printedName": "DecodableWithConfiguration",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "DecodingConfiguration",
-                "printedName": "DecodingConfiguration",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "DependentMember",
-                    "printedName": "τ_0_0.DecodingConfiguration"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:10Foundation26DecodableWithConfigurationP",
-            "mangledName": "$s10Foundation26DecodableWithConfigurationP"
+            "name": "_HasCustomAnyHashableRepresentation",
+            "printedName": "_HasCustomAnyHashableRepresentation",
+            "usr": "s:s35_HasCustomAnyHashableRepresentationP",
+            "mangledName": "$ss35_HasCustomAnyHashableRepresentationP"
           },
           {
             "kind": "Conformance",
@@ -12406,13 +12441,6 @@
           },
           {
             "kind": "Conformance",
-            "name": "CVarArg",
-            "printedName": "CVarArg",
-            "usr": "s:s7CVarArgP",
-            "mangledName": "$ss7CVarArgP"
-          },
-          {
-            "kind": "Conformance",
             "name": "Content",
             "printedName": "Content",
             "usr": "s:So17CMSampleBufferRefa9CoreMediaE7ContentP",
@@ -12424,34 +12452,6 @@
             "printedName": "ContentWithFormatDescription",
             "usr": "s:So17CMSampleBufferRefa9CoreMediaE28ContentWithFormatDescriptionP",
             "mangledName": "$sSo17CMSampleBufferRefa9CoreMediaE28ContentWithFormatDescriptionP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "AccelerateMutableBuffer",
-            "printedName": "AccelerateMutableBuffer",
-            "usr": "s:10Accelerate0A13MutableBufferP",
-            "mangledName": "$s10Accelerate0A13MutableBufferP"
-          },
-          {
-            "kind": "Conformance",
-            "name": "AccelerateBuffer",
-            "printedName": "AccelerateBuffer",
-            "children": [
-              {
-                "kind": "TypeWitness",
-                "name": "Element",
-                "printedName": "Element",
-                "children": [
-                  {
-                    "kind": "TypeNominal",
-                    "name": "GenericTypeParam",
-                    "printedName": "τ_0_0"
-                  }
-                ]
-              }
-            ],
-            "usr": "s:10Accelerate0A6BufferP",
-            "mangledName": "$s10Accelerate0A6BufferP"
           },
           {
             "kind": "Conformance",
@@ -14023,56 +14023,56 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1253,
+      "offset": 1344,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "StringLiteral",
-      "offset": 1294,
+      "offset": 1385,
       "length": 18,
       "value": "\"OpenSans-Regular\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "StringLiteral",
-      "offset": 1352,
+      "offset": 1443,
       "length": 19,
       "value": "\"OpenSans-SemiBold\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "StringLiteral",
-      "offset": 1438,
+      "offset": 1529,
       "length": 9,
-      "value": "\"#0018A8\""
+      "value": "\"#0097DB\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "StringLiteral",
-      "offset": 1517,
+      "offset": 1608,
       "length": 9,
       "value": "\"#000000\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 1571,
+      "offset": 1662,
       "length": 5,
       "value": "false"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "StringLiteral",
-      "offset": 1842,
+      "offset": 1933,
       "length": 7,
       "value": "\"en_US\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 14664,
+      "offset": 16821,
       "length": 5,
       "value": "false"
     },
