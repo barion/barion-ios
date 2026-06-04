@@ -13206,7 +13206,7 @@
       "kind": "StringLiteral",
       "offset": 893,
       "length": 38,
-      "value": "\"\/v3\/threeds\/AllCardSchemeInformation\""
+      "value": "\"\/v4\/threeds\/AllCardSchemeInformation\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Models\/BREndpoint.swift",
@@ -13827,42 +13827,56 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
       "kind": "StringLiteral",
-      "offset": 395,
+      "offset": 361,
+      "length": 5,
+      "value": "\"KID\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
+      "kind": "StringLiteral",
+      "offset": 397,
+      "length": 11,
+      "value": "\"PublicKey\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
+      "kind": "StringLiteral",
+      "offset": 765,
       "length": 8,
       "value": "\"Scheme\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
       "kind": "StringLiteral",
-      "offset": 437,
+      "offset": 807,
       "length": 19,
       "value": "\"DirectoryServerId\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
       "kind": "StringLiteral",
-      "offset": 502,
-      "length": 26,
-      "value": "\"DirectoryServerPublicKey\""
+      "offset": 868,
+      "length": 27,
+      "value": "\"DirectoryServerPublicKeys\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
       "kind": "StringLiteral",
-      "offset": 580,
+      "offset": 947,
       "length": 32,
       "value": "\"DirectoryServerRootCertificate\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
       "kind": "StringLiteral",
-      "offset": 1715,
+      "offset": 1377,
       "length": 13,
       "value": "\"CardSchemes\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/DataSources\/Remote\/Models\/BRDSKey.swift",
       "kind": "StringLiteral",
-      "offset": 1751,
+      "offset": 1413,
       "length": 8,
       "value": "\"Errors\""
     },
@@ -14072,7 +14086,7 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 16821,
+      "offset": 16999,
       "length": 5,
       "value": "false"
     },
