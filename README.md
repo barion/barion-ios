@@ -60,6 +60,39 @@ let barionGatewayPluginConfiguration = BarionGatewayPluginConfiguration(sdkEvent
 let barionGatewayPlugin = await BarionGatewayPlugin(paymentClientSecret: clientSecret, configuration: barionGatewayPluginConfiguration)
 ```
 
+#### Saved cards
+
+To display or save a card for a user, pass the user’s recurrenceId in the `merchantOwnedPaymentData` when presenting the payment flow. 
+Create your `merchantOwnedPaymentData` in the `barionGatewayPluginOptions`. 
+Then pass it to the `BarionGatewayPlugin` object's `present` function. 
+If a card is already associated with the token, it appears in the payment method list. 
+If no card is associated with it yet, the user can save a new card under that token during the payment flow.
+
+```swift
+let merchantOwnedPaymentData = MerchantOwnedPaymentData(
+    methods: [
+        Method(
+            methodType: "cof",
+            token: "recurrenceId",
+            title: ""
+        )
+     ]
+)
+let barionGatewayPluginOptions = BarionGatewayPluginOptions(renderOptions: renderOptions,
+                                                            merchantOwnedPaymentData: merchantOwnedPaymentData,
+                                                            locale: settingsModel.locale)
+barionGatewayPlugin.present(
+        from: rootVC,
+        paymentOptions: barionGatewayPluginOptions,
+        onSuccess: { result in
+            print("Payment result: \(result)")
+        },
+        onFailure: { result in
+            print("Payment result: \(result)")
+        }
+    )
+```
+
 #### Customize the BarionGatewayPlugin
 
 You can customize the SDK to fit into your application perfectly. Choose your own fonts, colors etc.
