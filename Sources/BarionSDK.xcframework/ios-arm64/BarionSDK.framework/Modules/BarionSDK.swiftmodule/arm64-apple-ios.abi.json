@@ -12567,245 +12567,252 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5004,
+      "offset": 5032,
       "length": 12,
       "value": "\"CardScheme\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5036,
+      "offset": 5064,
       "length": 5,
       "value": "\"Bin\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5072,
+      "offset": 5100,
       "length": 16,
       "value": "\"LastFourDigits\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5111,
+      "offset": 5139,
       "length": 8,
       "value": "\"Expiry\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5147,
+      "offset": 5175,
       "length": 13,
       "value": "\"ThreeDsInfo\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5362,
+      "offset": 5215,
+      "length": 12,
+      "value": "\"Identifier\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
+      "kind": "StringLiteral",
+      "offset": 5429,
       "length": 9,
       "value": "\"Version\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5405,
+      "offset": 5472,
       "length": 19,
       "value": "\"IsFallbackVersion\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5602,
+      "offset": 5669,
       "length": 4,
       "value": "\"Ok\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5627,
+      "offset": 5694,
       "length": 10,
       "value": "\"NotFound\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5839,
+      "offset": 5906,
       "length": 14,
       "value": "\"MerchantName\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 5885,
+      "offset": 5952,
       "length": 17,
       "value": "\"MerchantCountry\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6109,
+      "offset": 6176,
       "length": 7,
       "value": "\"Value\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6141,
+      "offset": 6208,
       "length": 10,
       "value": "\"Currency\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 6366,
+      "offset": 6433,
       "length": 8,
       "value": "\"Method\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7133,
+      "offset": 7200,
       "length": 10,
       "value": "\"ApplePay\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7160,
+      "offset": 7227,
       "length": 10,
       "value": "\"BankCard\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7195,
+      "offset": 7262,
       "length": 14,
       "value": "\"BarionWallet\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7225,
+      "offset": 7292,
       "length": 5,
       "value": "\"Cof\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7250,
+      "offset": 7317,
       "length": 9,
       "value": "\"NewCard\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7506,
+      "offset": 7573,
       "length": 17,
       "value": "\"MerchantAppleId\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7555,
+      "offset": 7622,
       "length": 17,
       "value": "\"MerchantCountry\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7770,
+      "offset": 7837,
       "length": 12,
       "value": "\"SavedCards\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 7988,
+      "offset": 8055,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 8017,
+      "offset": 8084,
       "length": 7,
       "value": "\"Title\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 8358,
+      "offset": 8425,
       "length": 7,
       "value": "\"Token\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 8387,
+      "offset": 8454,
       "length": 7,
       "value": "\"Title\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 8796,
+      "offset": 8863,
       "length": 4,
       "value": "\"Id\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 8833,
+      "offset": 8900,
       "length": 18,
       "value": "\"MaskedCardNumber\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 8874,
+      "offset": 8941,
       "length": 8,
       "value": "\"Scheme\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 8910,
+      "offset": 8977,
       "length": 13,
       "value": "\"ExpiryMonth\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 8950,
+      "offset": 9017,
       "length": 12,
       "value": "\"ExpiryYear\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 8986,
+      "offset": 9053,
       "length": 9,
       "value": "\"CardArt\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 9119,
+      "offset": 9186,
       "length": 10,
       "value": "\"BankCard\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 9150,
+      "offset": 9217,
       "length": 10,
       "value": "\"ApplePay\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
-      "offset": 9182,
+      "offset": 9249,
       "length": 11,
       "value": "\"GooglePay\""
     },
@@ -14086,7 +14093,7 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 16999,
+      "offset": 20854,
       "length": 5,
       "value": "false"
     },
@@ -15220,9 +15227,16 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Extensions\/UITextFieldExtension.swift",
       "kind": "IntegerLiteral",
-      "offset": 5042,
+      "offset": 5179,
       "length": 2,
       "value": "22"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/Models\/BRNewCard.swift",
+      "kind": "BooleanLiteral",
+      "offset": 264,
+      "length": 4,
+      "value": "true"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRAddNewCardViewController.swift",
@@ -15230,6 +15244,13 @@
       "offset": 1354,
       "length": 5,
       "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRAddNewCardViewController.swift",
+      "kind": "Array",
+      "offset": 1508,
+      "length": 2,
+      "value": "[]"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/NewCard\/UI\/BRPayButtonView.swift",
@@ -15298,8 +15319,8 @@
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRFontLoader.swift",
       "kind": "Array",
       "offset": 247,
-      "length": 191,
-      "value": "[\"weblysleekuil\", \"weblysleekuili\", \"weblysleekuisb\", \"weblysleekuisbi\", \"weblysleekuisl\", \"weblysleekuisli\"]"
+      "length": 256,
+      "value": "[\"weblysleekuil\", \"weblysleekuili\", \"weblysleekuisb\", \"weblysleekuisbi\", \"weblysleekuisl\", \"weblysleekuisli\", \"OpenSans-Regular\", \"OpenSans-SemiBold\"]"
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Base\/Utils\/BRLocalizationManager.swift",
