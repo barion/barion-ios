@@ -90,7 +90,9 @@ final public class BarionGatewayPlugin {
   @objc deinit
 }
 public struct BarionGatewayPluginConfiguration {
-  public init(sdkEventListener: (any BarionSDK.SDKClientEventListener)? = nil)
+  public var sdkEventListener: (any BarionSDK.SDKClientEventListener)?
+  public var threeDSAppRequestorUrl: Swift.String?
+  public init(sdkEventListener: (any BarionSDK.SDKClientEventListener)? = nil, threeDSAppRequestorUrl: Swift.String? = nil)
 }
 public struct BarionGatewayPluginOptions {
   public var renderOptions: BarionSDK.RenderOptions?

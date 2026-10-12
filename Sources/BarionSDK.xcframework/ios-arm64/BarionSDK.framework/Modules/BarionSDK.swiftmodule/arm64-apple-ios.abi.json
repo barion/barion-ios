@@ -3675,9 +3675,229 @@
         "printedName": "BarionGatewayPluginConfiguration",
         "children": [
           {
+            "kind": "Var",
+            "name": "sdkEventListener",
+            "printedName": "sdkEventListener",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "(any BarionSDK.SDKClientEventListener)?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "SDKClientEventListener",
+                    "printedName": "any BarionSDK.SDKClientEventListener",
+                    "usr": "s:9BarionSDK22SDKClientEventListenerP"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListenerAA09SDKClientgH0_pSgvp",
+            "mangledName": "$s9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListenerAA09SDKClientgH0_pSgvp",
+            "moduleName": "BarionSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any BarionSDK.SDKClientEventListener)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SDKClientEventListener",
+                        "printedName": "any BarionSDK.SDKClientEventListener",
+                        "usr": "s:9BarionSDK22SDKClientEventListenerP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListenerAA09SDKClientgH0_pSgvg",
+                "mangledName": "$s9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListenerAA09SDKClientgH0_pSgvg",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "(any BarionSDK.SDKClientEventListener)?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "SDKClientEventListener",
+                        "printedName": "any BarionSDK.SDKClientEventListener",
+                        "usr": "s:9BarionSDK22SDKClientEventListenerP"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListenerAA09SDKClientgH0_pSgvs",
+                "mangledName": "$s9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListenerAA09SDKClientgH0_pSgvs",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListenerAA09SDKClientgH0_pSgvM",
+                "mangledName": "$s9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListenerAA09SDKClientgH0_pSgvM",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
+            "kind": "Var",
+            "name": "threeDSAppRequestorUrl",
+            "printedName": "threeDSAppRequestorUrl",
+            "children": [
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "usr": "s:Sq"
+              }
+            ],
+            "declKind": "Var",
+            "usr": "s:9BarionSDK0A26GatewayPluginConfigurationV22threeDSAppRequestorUrlSSSgvp",
+            "mangledName": "$s9BarionSDK0A26GatewayPluginConfigurationV22threeDSAppRequestorUrlSSSgvp",
+            "moduleName": "BarionSDK",
+            "declAttributes": [
+              "HasInitialValue",
+              "HasStorage",
+              "AccessControl"
+            ],
+            "hasStorage": true,
+            "accessors": [
+              {
+                "kind": "Accessor",
+                "name": "Get",
+                "printedName": "Get()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK0A26GatewayPluginConfigurationV22threeDSAppRequestorUrlSSSgvg",
+                "mangledName": "$s9BarionSDK0A26GatewayPluginConfigurationV22threeDSAppRequestorUrlSSSgvg",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "get"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Set",
+                "printedName": "Set()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  },
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Optional",
+                    "printedName": "Swift.String?",
+                    "children": [
+                      {
+                        "kind": "TypeNominal",
+                        "name": "String",
+                        "printedName": "Swift.String",
+                        "usr": "s:SS"
+                      }
+                    ],
+                    "usr": "s:Sq"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK0A26GatewayPluginConfigurationV22threeDSAppRequestorUrlSSSgvs",
+                "mangledName": "$s9BarionSDK0A26GatewayPluginConfigurationV22threeDSAppRequestorUrlSSSgvs",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "set"
+              },
+              {
+                "kind": "Accessor",
+                "name": "Modify",
+                "printedName": "Modify()",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "Void",
+                    "printedName": "()"
+                  }
+                ],
+                "declKind": "Accessor",
+                "usr": "s:9BarionSDK0A26GatewayPluginConfigurationV22threeDSAppRequestorUrlSSSgvM",
+                "mangledName": "$s9BarionSDK0A26GatewayPluginConfigurationV22threeDSAppRequestorUrlSSSgvM",
+                "moduleName": "BarionSDK",
+                "implicit": true,
+                "accessorKind": "_modify"
+              }
+            ]
+          },
+          {
             "kind": "Constructor",
             "name": "init",
-            "printedName": "init(sdkEventListener:)",
+            "printedName": "init(sdkEventListener:threeDSAppRequestorUrl:)",
             "children": [
               {
                 "kind": "TypeNominal",
@@ -3699,11 +3919,26 @@
                 ],
                 "hasDefaultArg": true,
                 "usr": "s:Sq"
+              },
+              {
+                "kind": "TypeNominal",
+                "name": "Optional",
+                "printedName": "Swift.String?",
+                "children": [
+                  {
+                    "kind": "TypeNominal",
+                    "name": "String",
+                    "printedName": "Swift.String",
+                    "usr": "s:SS"
+                  }
+                ],
+                "hasDefaultArg": true,
+                "usr": "s:Sq"
               }
             ],
             "declKind": "Constructor",
-            "usr": "s:9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListenerAcA09SDKClientgH0_pSg_tcfc",
-            "mangledName": "$s9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListenerAcA09SDKClientgH0_pSg_tcfc",
+            "usr": "s:9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListener22threeDSAppRequestorUrlAcA09SDKClientgH0_pSg_SSSgtcfc",
+            "mangledName": "$s9BarionSDK0A26GatewayPluginConfigurationV16sdkEventListener22threeDSAppRequestorUrlAcA09SDKClientgH0_pSg_SSSgtcfc",
             "moduleName": "BarionSDK",
             "declAttributes": [
               "AccessControl"
@@ -14086,14 +14321,21 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "StringLiteral",
-      "offset": 1933,
+      "offset": 1973,
       "length": 7,
       "value": "\"en_US\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
+      "kind": "StringLiteral",
+      "offset": 2072,
+      "length": 23,
+      "value": "\"barionsdk3ds:\/\/barion\""
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 20854,
+      "offset": 21017,
       "length": 5,
       "value": "false"
     },
