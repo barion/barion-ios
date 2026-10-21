@@ -12716,6 +12716,20 @@
   },
   "ConstValues": [
     {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ApplePay\/ApplePayManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 273,
+      "length": 5,
+      "value": "false"
+    },
+    {
+      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ApplePay\/ApplePayManager.swift",
+      "kind": "BooleanLiteral",
+      "offset": 312,
+      "length": 5,
+      "value": "false"
+    },
+    {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/Gateway\/DataSource\/Models\/BRPaymentConfig.swift",
       "kind": "StringLiteral",
       "offset": 555,
