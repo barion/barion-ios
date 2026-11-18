@@ -6,7 +6,7 @@
 	<dict>
 		<key>Assets.car</key>
 		<data>
-		MkpaYosZ7IM5Sh8pZBk1HdkM7aI=
+		NjoBEV1UXs/VlGEeI1a+S/nd9E0=
 		</data>
 		<key>BRAddNewCardTableViewCell.nib</key>
 		<data>
@@ -90,11 +90,11 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		CvwnuEjLWvBQlhsUu8FOb7809go=
+		nuAsb+qOhe6k0FwSEGPCfhAdd8c=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.abi.json</key>
 		<data>
-		gVxbI7jP9UPNveYw/I58T+JjcJw=
+		L/1AevzgLnRYZEo+b5e+uziZLzU=
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
 		<data>
@@ -110,7 +110,7 @@
 		</data>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.swiftmodule</key>
 		<data>
-		n1wHELHamuWWFz4Q+me9hYQNLfs=
+		sojIjmlF/cjkH9CLpD+jAqrq7Mk=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
@@ -286,7 +286,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			FOExpxR9XPCK/CbHmjqv2CeCXTiCu6Dv5Zc02pP1pGQ=
+			BVN57v3TqOwwlHkTMAxTGE7XbM1rl1sCcH8SnraZCj0=
 			</data>
 		</dict>
 		<key>BRAddNewCardTableViewCell.nib</key>
@@ -433,7 +433,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			An3L2sQLxlJG8Stg+waV+NVPNjjafqs0ArXGa/tLEUc=
+			LTJnYQx/NuxXtdTp2lRa+a2LPxrQwX6zUZT67DPsuEs=
 			</data>
 		</dict>
 		<key>Modules/BarionSDK.swiftmodule/arm64-apple-ios.private.swiftinterface</key>
@@ -461,7 +461,7 @@
 		<dict>
 			<key>hash2</key>
 			<data>
-			w603TD3bmVHOjOClpeSPZe7jP+ga/IZng8SsEsli+rk=
+			JQb5sAIAt6amZOHfy5YNbpYnBseL7gqmkcCRNALeGQw=
 			</data>
 		</dict>
 		<key>Modules/module.modulemap</key>

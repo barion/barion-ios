@@ -14335,21 +14335,14 @@
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "StringLiteral",
-      "offset": 1973,
+      "offset": 1979,
       "length": 7,
       "value": "\"en_US\""
     },
     {
       "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
-      "kind": "StringLiteral",
-      "offset": 2072,
-      "length": 23,
-      "value": "\"barionsdk3ds:\/\/barion\""
-    },
-    {
-      "filePath": "\/opt\/azuredevops\/_work\/12\/s\/BarionSDK\/ThreeDS\/BRThreeDSManager.swift",
       "kind": "BooleanLiteral",
-      "offset": 21017,
+      "offset": 21083,
       "length": 5,
       "value": "false"
     },
